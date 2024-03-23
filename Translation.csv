@@ -1,0 +1,2063 @@
+ID,language,source_text,translated_text
+,pl,End of the current subscription period,Koniec bieżącego okresu subskrypcji
+,pl,Beginning of the current subscription period,Początek bieżącego okresu subskrypcji
+,pl,Days before the current subscription period,Dni przed bieżącym okresem subskrypcji
+,pl,Submit Generated Invoices,Przesyłanie wygenerowanych faktur
+,pl,Email Threads on Assigned Document,Wątki e-mail dotyczące przypisanego dokumentu
+,pl,Get notified when an email is received on any of the documents assigned to you.,Otrzymuj powiadomienia o otrzymaniu wiadomości e-mail dotyczącej dowolnego z przypisanych do Ciebie dokumentów.
+,pl,Sort Descending,Sortuj malejąco
+,pl,Sort Ascending,Sortuj rosnąco
+,pl,Warranty Claim Trends,Trendy dotyczące roszczeń gwarancyjnych
+,pl,Return Issued,Wydany zwrot
+,pl,Percentage you are allowed to sell beyond the Blanket Order quantity.,"Procent, który możesz sprzedać poza ilością zamówienia zbiorczego."
+,pl,Left,Lewo
+,pl,Billing Address Details,Szczegóły adresu rozliczeniowego
+,pl,Apply TDS,Zastosuj WRZ
+,pl,Available Qty at Company,Ilość dostępna w firmie
+,pl,Available Qty at Target Warehouse,Dostępna ilość w docelowym magazynie
+,pl,Sales Order Packed Item,Zamówienie sprzedaży Pozycja zapakowana 
+,pl,Rate With Margin,Stawka z marżą
+,pl,Finished Good Qty,Gotowy towar Ilość
+,pl,To be Delivered to Customer,Do dostarczenia do klienta
+,pl,WIP Composite Asset,Aktywa złożone WIP
+,pl,Considered In Paid Amount,Uwzględnione w opłaconej kwocie
+,pl,Payment Amount (Company Currency),Kwota płatności (waluta firmy) 
+,pl,Point-of-Sale,Punkt-sprzedaży
+,pl,Don't Reserve Sales Order Qty on Sales Return,Nie rezerwuj ilości zamówienia sprzedaży przy zwrocie sprzedaży
+,pl,In Words (Export) will be visible once you save the Delivery Note.,In Words (Eksport) będzie widoczny po zapisaniu potwierdzenia dostawy.
+,pl,In Words will be visible once you save the Delivery Note,Funkcja In Words będzie widoczna po zapisaniu potwierdzenia dostawy.
+,pl,Mode of Payment,Tryb płatności
+,pl,Discount Type,Typ rabatu
+,pl,Discount Date,Data rabatu
+,pl,Discount,Zniżka
+,pl,Discounted Amount,Kwota zniżki
+,pl,Payment Amount (PLN),Kwota płatności (PLN)
+,pl,Germany,Niemcy
+,pl,Show Remarks,Pokaż uwagi
+,pl,Revaluation Journals,Dzienniki przeszacowań
+,pl,Receivable Account,Rachunek należności
+,pl,Show Sidebar,Pokaż pasek boczny
+,pl,Set context before rendering a template. Example:,Ustawia kontekst przed renderowaniem szablonu. Przykład:
+,pl,Handling of returned goods,Obsługa zwróconych towarów
+,pl,Inventory Settings,Ustawenia zapasów
+,pl,"Item Price appears multiple times based on Price List, Supplier/Customer, Currency, Item, Batch, UOM, Qty, and Dates.","Cena pozycji jest wyświetlana wielokrotnie na podstawie cennika, dostawcy/klienta, waluty, pozycji, partii, JM, ilości i daty."
+,pl,Settlement status,Status ugody
+,pl,Opening Stock,Otwarcie zapasów
+,pl,For settlement,Do rozstrzygnięcia
+,pl,Settled,Rozstrzygnięty
+,pl,Maintenance Visit,Kontrola serwisowa
+,pl,Visit Helpdesk,Odwiedź helpdesk
+,pl,Ticket Type,Typ zgłoszenia
+,pl,Enabling this will submit documents in background,Włączenie tej opcji spowoduje przesyłanie dokumentów w tle
+,pl,Queue in Background (BETA),Kolejka w tle (BETA)
+,pl,Please find attached,W załączeniu
+,pl,Support Policy,Polityka wsparcia
+,pl,Agent Configuration,Konfiguracja agenta
+,pl,Team,Zespół
+,pl,Ticket Analytics,Analiza zgłoszeń
+,pl,Ticket Summary,Podsumowanie zgłoszeń
+,pl,Percentage you are allowed to order beyond the Blanket Order quantity,"Procent, jaki możesz zamówić poza ilością zamówienia zbiorczego"
+,pl,Helpdesk Reports,Raporty Helpdesk
+,pl,Channels,Kanały
+,pl,Supplier Portal Users,Użytkownicy portalu dostawcy
+,pl,Portal Users,Użytkownicy portalu
+,pl,Subcontracting Order,Zlecenie podwykonawstwa
+,pl,Subcontracting Receipt,Potwierdzenie podwykonawstwa
+,pl,Ticket Configuration,Konfiguracja zgłoszeń
+,pl,Update frequency of Project,Częstotliwość aktualizacji projektu
+,pl,How often should Project be updated of Total Purchase Cost ?,Jak często należy aktualizować całkowity koszt zakupu w projekcie?
+,pl,Use Transaction Date Exchange Rate,Użyj Data transakcji Kurs wymiany
+,pl,"While making Purchase Invoice from Purchase Order, use Exchange Rate on Invoice's transaction date rather than inheriting it from Purchase Order. Only applies for Purchase Invoice.","Podczas wystawiania faktury zakupu z zlecenia zakupu należy użyć kursu wymiany z daty transakcji faktury, a nie dziedziczyć go z zlecenia zakupu. Dotyczy tylko faktury zakupu."
+,pl,"If checked, Rejected Quantity will be included while making Purchase Invoice from Purchase Receipt.","Jeśli opcja ta jest zaznaczona, odrzucona ilość zostanie uwzględniona podczas wystawiania faktury zakupu na podstawie paragonu zakupu."
+,pl,Bill for Rejected Quantity in Purchase Invoice,Rachunek za odrzuconą ilość w fakturze zakupu
+,pl,Auto Create Purchase Receipt,Automatyczne tworzenie potwierdzenia zakupu
+,pl,Purchase Receipt (Draft) will be auto-created on submission of Subcontracting Receipt.,Potwierdzenie zakupu (wersja robocza) zostanie automatycznie utworzone po przedłożeniu pokwitowania podwykonawstwa.
+,pl,"If set, only user with these roles can access this chart. If not set, DocType or Report permissions will be used.","Jeśli ustawione, tylko użytkownik z tymi rolami może uzyskać dostęp do tego wykresu. Jeśli nie zostaną ustawione, użyte zostaną uprawnienia DocType lub Report."
+,pl,Auto Create Subcontracting Order,Automatyczne tworzenie zlecenia podwykonawstwa
+,pl,Subcontracting Order (Draft) will be auto-created on submission of Purchase Order.,Zamówienie na podwykonawstwo (wersja robocza) zostanie automatycznie utworzone po złożeniu zamówienia zakupu.
+,pl,Please mention 'Weight UOM' along with Weight.,"Należy podać Waga jednostkowa"" wraz z wagą."""
+,pl,Page to show on the website,Strona do wyświetlenia w witrynie
+,pl,Cannot enable {0} for a non-submittable doctype,Nie można włączyć {0} dla nieprzekazywalnego typu doctype
+,pl,Page Size,Rozmiar strony
+,pl,This will reset this tour and show it to all users. Are you sure?,Spowoduje to zresetowanie tej trasy i wyświetlenie jej wszystkim użytkownikom. Czy na pewno?
+,pl,Please check OpenID Configuration URL,Sprawdź adres URL konfiguracji OpenID
+a396d39cb0,pl,Please select a country code for field {1}.,Wybierz kod kraju dla pola {1}.
+a3ac0dd33e,pl,Feedback {0} added successfully,Opinia {0} dodana pomyślnie
+a3c1e1dcfb,pl,Code challenge method,Metoda kwestionowania kodu
+a3c7872249,pl,Is Remote Request?,Czy zdalne żądanie jest możliwe?
+a3c9e72557,pl,descending,malejący
+a3e1456af2,pl,Please use a valid LDAP search filter,Użyj prawidłowego filtra wyszukiwania LDAP
+a3e6d8e9d0,pl,Job Applicant {0} created successfully.,Pomyślnie utworzono kandydata do pracy {0}.
+a3f7e9a75a,pl,Last Heartbeat,Ostatnie uderzenie serca
+a41eca1d38,pl,Code Challenge,Code Challenge
+a42518a3b5,pl,Add / Remove Fields,Dodaj / usuń pola
+a42d461493,pl,Cannot Update After Submit,Nie można zaktualizować po przesłaniu
+a452a7249f,pl,Create your first Quotation,Create your first Quotation
+a45ad6bf76,pl,All Goals,Wszystkie cele
+a45bf813d3,pl,Data Clipped,Dane obcięte
+a45c2f7459,pl,Queue Type(s),Typ(y) ogona
+a506a07ac6,pl,User Type Module,Moduł typu użytkownika
+a51e252df8,pl,Auto follow documents that are assigned to you,Automatyczne śledzenie przypisanych dokumentów
+a534bb90e7,pl,Benefits,Korzyści
+a55c1d2cda,pl,Rounding Method,Metoda zaokrąglania
+a571ac7ff7,pl,Google Analytics Anonimizacja adresu IP,Google Analytics Anonimizacja adresu IP
+a59f5b965a,pl,Use STARTTLS,Użycie STARTTLS
+a5c465f56c,pl,Workspace Number Card,Karta z numerem obszaru roboczego
+a5deca9687,pl,Select a document to check if it meets conditions.,"Wybierz dokument, aby sprawdzić, czy spełnia warunki."
+a5f0c8c1d2,pl,Invalid Table Fieldname,Nieprawidłowa nazwa pola tabeli
+a60194a39d,de,Dziękujemy za zakup naszych produktów. W załączniku przesyłamy potwierdzenie Twojego zamówienia.,Vielen Dank für den Kauf unserer Produkte. Anbei finden Sie die Bestätigung Ihrer Bestellung.
+a612be569f,pl,1 = True & 0 = False,1 = Prawda i 0 = Fałsz
+a6567dc874,pl,Opportunity Summary by Sales Stage,Podsumowanie szansy sprzedaży według etapu sprzedaży
+a69a3598ac,pl,Lists,Listy
+a6a1c9547a,pl,Rows with Same Account heads will be merged on Ledger,Wiersze z tymi samymi nagłówkami kont zostaną połączone w księdze.
+a6ac387e14,pl,Set Limit,Ustaw limit
+a6bd922b43,pl,Communication Channels,Kanały komunikacji
+a703da0f2a,pl,On Payment Authorization,Autoryzacja płatności
+a719509ead,pl,See previous responses,Zobacz poprzednie odpowiedzi
+a743981733,pl,Invalid request arguments,Nieprawidłowe argumenty żądania
+a745d30051,pl,Unsafe SQL query,Niebezpieczne zapytanie SQL
+a745df3491,pl,Right Center,Prawe centrum
+a76157b2ad,pl,Please set Relieving Date for employee: {0},Ustaw datę zwolnienia pracownika: {0}
+a7687c3288,pl,Authorization URI,Identyfikator URI autoryzacji
+a77a030d38,pl,Add Roles,Dodaj role
+a77b25b119,pl,WhatsApp Templates,Szablony WhatsApp
+a7a4a517f3,pl,Fetch only if value is not set,Pobierz tylko jeśli wartość nie jest ustawiona
+a7a87707ea,pl,Save Customizations,Zapisywanie dostosowań
+a7b6289818,pl,Price List Defaults,Domyślne ustawienia cennika
+a7c2a7fb56,pl,Please set the document name,Ustaw nazwę dokumentu
+a7cc92fe1c,pl,Number Card Name,Numer Nazwa karty
+a7d8d2da30,pl,Additional Salary for referral bonus can only be created against Employee Referral with status {0},Dodatkowe wynagrodzenie z tytułu premii za polecenie można utworzyć tylko dla pracownika poleconego ze statusem {0}.
+a7e4ef0a42,pl,{0} filters,{0} filtrów
+a8136940a6,pl,1:1,1:1
+a81bfa3e81,pl,Company Tax ID,Identyfikator podatkowy firmy
+a825643dc9,pl,You must add atleast one link.,Musisz dodać co najmniej jeden link.
+a839c7f48b,pl,Round off Work Experience,Zaokrąglij doświadczenie zawodowe
+a846fc2a8b,pl,Default User Type,Domyślny typ użytkownika
+a84e562113,pl,Submit Feedback,Prześlij opinię
+a8608678cd,pl,Is Query Report,Czy raport zapytania
+a87fb88d02,pl,Accounting & Payment,Księgowość i płatności
+a8b3837ef9,pl,Hide Buttons,Ukryj przyciski
+a8cc8a3f47,pl,login_required,login_required
+a939cb5c25,pl,Select Payroll Frequency.,Wybierz opcję Częstotliwość listy płac.
+a99f5b76c3,pl,Delete Workspace,Usuń obszar roboczy
+a9affb4205,pl,Transit,Tranzyt
+a9d2fceb10,pl,Hide Tags,Ukryj tagi
+aa49e59ae2,pl,HRMS,HRMS
+aa51adaa83,pl,Last Reset Password Key Generated On,Klucz ostatniego resetowania hasła wygenerowany w dniu
+aa673a8e68,pl,Please set account in Salary Component {0},Ustaw konto w komponencie wynagrodzenia {0}.
+aa6a4aeee3,pl,Please Select Company First,Wybierz firmę jako pierwszą
+aa90e73473,pl,Add to this activity by mailing to {0},"Dodaj do tego działania, wysyłając wiadomość na adres {0}"
+aab718ece5,pl,Name error,Błąd nazwy
+aadd4ec81d,pl,Salary Slip {0} failed for Payroll Entry {1},Odcinek wynagrodzenia {0} nie powiódł się przy wprowadzaniu listy płac {1}.
+aaf1a8ce5d,pl,Add Employee Property,Dodaj właściwość pracownika
+ab131963ba,pl,Attendance for the following dates will be skipped/overwritten on submission,Obecność w następujących terminach zostanie pominięta/nadpisana w momencie zgłoszenia
+ab2b191f1a,pl,Cannot use {0} in order/group by,Nie można użyć {0} w kolejności/grupie według
+ab2d2293e3,pl,How to Navigate in ERPNext,Jak nawigować w ERPNext
+ab3175a974,pl,Opportunity  owner,Właściciel szansy sprzedaży
+ab4d67d28c,pl,Department: {0},Dział: {0}
+ab5c3c4567,pl,Role Allowed to Over Deliver/Receive,Rola umożliwiająca nadmierne dostawy/odbiory
+ab6a475af6,pl,Following Report Filters have missing values:,Następujące filtry raportów mają brakujące wartości:
+abb6bd39ad,pl,Full and Final Statement,Pełne i ostateczne oświadczenie
+abc441c47e,pl,"If checked, negative numeric values of Currency, Quantity or Count would be shown as positive","Jeśli zaznaczone, ujemne wartości liczbowe Currency, Quantity lub Count będą wyświetlane jako dodatnie"
+abc4f7aba8,pl,Unlinked Attendance record from Employee Checkins: {},Niepowiązany rekord obecności z odpraw pracowników: {}
+ac02a8bf8a,pl,Can Submit,Można przesłać
+ac6454bab5,pl,Interview Feedback Reminder,Przypomnienie o informacji zwrotnej dotyczącej wywiadu
+ac6cfc4c69,pl,Your new password has been set successfully.,Nowe hasło zostało ustawione pomyślnie.
+ac7641034d,pl,Toggle Full Width,Przełączanie pełnej szerokości
+acd6f6c5bc,pl,Save API Secret: {0},Save API Secret: {0}
+aced4e3848,pl,LDAP Custom Settings,Ustawienia niestandardowe LDAP
+aced7b7cb4,pl,Auto Repeat,Automatyczne powtarzanie
+ad0d926c04,pl,Fields `file_name` or `file_url` must be set for File,Pola `file_name` lub `file_url` muszą być ustawione dla pliku
+ad10975561,pl,Allocated {0} leave(s) via scheduler on {1} based on the 'Allocate on Day' option set to {2},"Przydzielono {0} urlopów za pośrednictwem harmonogramu w dniu {1} na podstawie opcji """"Przydziel w dniu"""" ustawionej na {2}."
+ad1402ccf2,pl,"You can claim only an amount of {0}, the rest amount {1} should be in the application as pro-rata component","Możesz ubiegać się tylko o kwotę {0}, pozostała kwota {1} powinna znajdować się we wniosku jako składnik proporcjonalny"
+ad317a4917,pl,80G Number,Numer 80G
+ad368c0e53,pl,Job ID,Job ID
+ad4132c185,pl,Saving Customization...,Zapisywanie ustawień...
+ad768864a0,pl,Viewed By,Obejrzane przez
+ad9c8abf83,pl,"Changing KRA in this parent goal will align all the child goals to the same KRA, if any.","Zmiana KRA w tym celu nadrzędnym dostosuje wszystkie cele podrzędne do tego samego KRA, jeśli takie istnieją."
+adb0186764,pl,The File URL you've entered is incorrect,Wprowadzony adres URL pliku jest nieprawidłowy
+adcc86acbd,pl,Permissions Error,Błąd uprawnień
+add1e46f7d,pl,In Read Only Mode,W trybie tylko do odczytu
+ae1187cd1e,pl,Email Sent At,E-mail wysłany na adres
+ae21bf1172,pl,The reset password link has been expired,Link do resetowania hasła wygasł
+ae3d9902ac,pl,Mandatory fields required:,Wymagane pola obowiązkowe:
+ae5321a5e9,pl,"This document allows you to edit limited fields. For all kinds of workspace customization, use the Edit button located on the workspace page","Ten dokument umożliwia edycję ograniczonych pól. Aby dostosować wszystkie rodzaje obszarów roboczych, należy użyć przycisku Edytuj znajdującego się na stronie obszaru roboczego"
+ae75e1c492,pl,{0} translation pending,{0} tłumaczenie w toku
+ae8d567297,pl,SMTP Server is required,Wymagany jest serwer SMTP
+aec147da68,pl,Income Tax Deducted Till Date,Podatek dochodowy odliczony do dnia dzisiejszego
+aec2bc6075,pl,Invoice and Billing,Faktura i rozliczenie
+aec7f8c82d,pl,Evaluation Method cannot be changed as there are existing appraisals created for this cycle,"Metody oceny nie można zmienić, ponieważ istnieją już oceny utworzone dla tego cyklu."
+aee33d9936,pl,Are you sure you want to re-enable scheduler?,Czy na pewno chcesz ponownie włączyć harmonogram?
+aef575f936,pl,Light,Jasny
+af1ece60d6,pl,Attachment Limit Reached,Osiągnięty limit załączników
+af4266ac6a,pl,Blanket Order Quantity,Ilość zamówienia zbiorczego
+af4e0b2fb6,pl,Membership Webhook Secret,Sekret Webhook członkostwa
+af77d358cb,pl,Queued {0} emails,Wiadomości e-mail w kolejce {0}
+af8776831f,pl,Filter By,Filtruj według
+afd13d585b,pl,Incoming (POP/IMAP) Settings,Ustawienia przychodzące (POP/IMAP)
+afe5fcb8b4,pl,Material Request,Zgłoszenie Materiałowe
+b019aeb16e,pl,Employee: {0} have to complete minimum {1} years for gratuity,"Pracownik: {0} musi ukończyć minimum {1} lat, aby otrzymać gratyfikację"
+b02a43e3a8,pl,Submit this document to confirm,"Prześlij ten dokument, aby potwierdzić"
+b03ffa895b,pl,Tasks,Zadania
+b05a25c78c,pl,End date: {0},Data zakończenia: {0}
+b05e63b60d,pl,Submit,Prześlij
+b084282ac0,pl,Feedback Ratings,Oceny zwrotne
+b0cdf011ad,pl,Failed to generate names from the series,Nie udało się wygenerować nazw z serii
+b106ee326b,pl,Enter the Standard Working Hours for a normal work day. These hours will be used in calculations of reports such as Employee Hours Utilization and Project Profitability analysis.,"Wprowadź standardowe godziny pracy dla normalnego dnia pracy. Godziny te będą wykorzystywane w obliczeniach raportów, takich jak Wykorzystanie godzin pracowników i Analiza rentowności projektu."
+b112f43304,pl,Final Score,Wynik końcowy
+b11d78db12,pl,Token URI,Token URI
+b121ee0ba0,pl,Top Right,Prawy górny róg
+b1240b01f3,pl,Scripting / Style,Skrypty / Styl
+b14d6330ed,pl,Customer's Purchase Order,Numer Zamówienia Klienta
+b16400e037,pl,App Logo,Logo aplikacji
+b1743e4243,pl,Please attach an image file to set HTML for Letter Head.,"Załącz plik graficzny, aby ustawić HTML dla nagłówka listu."
+b17ac132f3,pl,Adds a custom client script to a DocType,Dodaje niestandardowy skrypt klienta do typu DocType
+b17eba5050,pl,Backdated Leave Application is restricted. Please set the {} in {},Wniosek o urlop z datą wsteczną jest ograniczony. Ustaw {} w {}.
+b17f894f3a,pl,"Link for About Us Page is """"/about"""".","Link do strony o nas to """"/about""""."
+b18580e6c0,pl,"Account type cannot be set for payroll payable account {0}, please remove and try again","Nie można ustawić typu konta dla konta do zapłaty listy płac {0}, usuń i spróbuj ponownie"
+b1986931f7,pl,Submit another response,Prześlij kolejną odpowiedź
+b1e905342a,pl,Opportunity source,Źródło szansy sprzedaży
+b1f2e58bf6,pl,Interview Status,Status wywiadu
+b20292fa88,pl,Auto follow documents that you comment on,Automatyczne śledzenie komentowanych dokumentów
+b21e9e9409,pl,Not Assigned,Nie przypisano
+b22f5b7beb,pl,Assigned To,Przypisano do
+b237e34163,pl,Are you sure you want to delete page {0}?,Czy na pewno chcesz usunąć stronę {0}?
+b24bb8a8d7,pl,click here,Kliknij tutaj
+b261caa453,pl,Element Selector,Selektor elementów
+b2bb9b0bac,pl,Please enter both your email and message so that we can get back to you. Thanks!,"Podaj swój adres e-mail i wiadomość, abyśmy mogli się z Tobą skontaktować. Dziękujemy!"
+b2c7d42003,pl,Compilation warning,Ostrzeżenie o kompilacji
+b2c850ddd3,pl,plain,równina
+b2cb0006ac,pl,Auto Create Exchange Rate Revaluation,Automatyczne tworzenie aktualizacji kursu wymiany
+b2d3c2f81d,pl,Module (for export),Moduł (dla eksportu)
+b2ec546d51,pl,Total Non-Billed Hours,Łączna liczba godzin niefakturowanych
+b30503e111,pl,Last Odometer Value,Ostatnia wartość licznika kilometrów
+b32d61e595,pl,Create Leave Type,Utwórz typ urlopu
+b33da16df3,pl,Income from Other Sources,Dochód z innych źródeł
+b343c48d0d,pl,No Suitable Slab found for Calculation of gratuity amount in Gratuity Rule: {0},Nie znaleziono odpowiedniej płyty do obliczenia kwoty odprawy w regule odprawy: {0}
+b3820b97a3,pl,Income Source,Źródło dochodu
+b3a399946b,pl,Edit Header,Edytuj nagłówek
+b3ab713733,pl,These settings are required if 'Custom' LDAP Directory is used,"Te ustawienia są wymagane, jeśli używany jest """"niestandardowy"""" katalog LDAP"
+b3b2079005,pl,Appointment Scheduling Disabled,Wyłączone planowanie spotkań
+b3b54a4eea,pl,Add Space at Bottom,Dodaj miejsce na dole
+b3c6e99af8,pl,{0} Appraisal(s) are not submitted yet,{0} Oceny nie zostały jeszcze przesłane.
+b3dd0e954b,pl,Try a naming Series,Wypróbuj serię nazewnictwa
+b3f059da4f,pl,Salary components should be part of the Salary Structure.,Składniki wynagrodzenia powinny być częścią struktury wynagrodzeń.
+b3fb6ec84f,pl,Condition and Formula Help,Pomoc dotycząca kondycji i formuły
+b40616ecb5,pl,Syntax error in condition: {0} in Income Tax Slab,Błąd składni w warunku: {0} w płycie podatku dochodowego
+b420b3c6a6,pl,Error Logs,Dzienniki błędów
+b42f71abed,pl,"By default, emails are only sent for failed backups.",Domyślnie wiadomości e-mail są wysyłane tylko w przypadku nieudanych kopii zapasowych.
+b4521e0e4f,pl,Show link to document,Pokaż łącze do dokumentu
+b45319cd79,pl,"If enabled, additional ledger entries will be made for discounts in a separate Discount Account","Jeśli opcja ta jest włączona, dodatkowe zapisy księgowe będą dokonywane dla rabatów na oddzielnym koncie rabatowym."
+b4654435c2,pl,Following fields have missing values,Następujące pola mają brakujące wartości
+b49328ecba,pl,Event Reminders,Przypomnienia o wydarzeniach
+b496ac2c24,pl,Content data shoud be a list,Dane treści powinny być listą
+b4b0264ae9,pl,Clear Logs After (days),Wyczyść dzienniki po (dni)
+b4b2eb96b5,pl,Copy to Clipboard,Kopiuj do schowka
+b4f3248133,pl,User Group Member,Członek grupy użytkowników
+b50a8229e5,pl,Queries,Zapytania
+b5442430fd,pl,Leave and Expense Claim Settings,Ustawienia roszczeń urlopowych i wydatków
+b558193167,pl,Invalid File URL,Nieprawidłowy adres URL pliku
+b5bac50883,pl,SQL Query,Zapytanie SQL
+b5c18e4277,pl,Total Outgoing Bills,Suma rachunków wychodzących
+b5ce321316,pl,Fuel Expenses,Wydatki na paliwo
+b6028c2c55,pl,Create Duplicate,Utwórz duplikat
+b63a078934,pl,Reports To,Raporty do
+b6412b2cfc,pl,Route to the custom Job Application Webform,Trasa do niestandardowego formularza internetowego aplikacji Job Application
+b657268075,pl,Unhide Workspace,Odkryj obszar roboczy
+b65e4aee97,pl,{0} changed {1} to {2},{0} zmienił {1} na {2}
+b67610c0eb,pl,Deadlock Occurred,Wystąpił impas
+b6797394ca,pl,License Type,Typ licencji
+b6904dac68,pl,"Number of attachment fields are more than {}, limit updated to {}.","Liczba pól załączników jest większa niż {}, limit zaktualizowany do {}."
+b69911a678,pl,Import Data from Spreadsheet,Importuj dane z arkusza kalkulacyjnego
+b6a18c009a,pl,No Salary Slip is found for Employee: {0},Nie znaleziono odcinka wynagrodzenia dla pracownika: {0}
+b6b846d330,pl,Earnings & Deductions,Zarobki i odliczenia
+b6ef8d69e0,pl,Cannot change docstatus from 0 (Draft) to 2 (Cancelled),Nie można zmienić statusu dokumentu z 0 (wersja robocza) na 2 (anulowany).
+b72e6ea57b,pl,Associated Document,Dokument powiązany
+b7580d7a77,pl,Additional Info,Dodatkowe informacje
+b759ad013f,pl,Fulfillment User,Operator centrum logistycznego
+b784710e3b,pl,Cannot delete standard document state.,Nie można usunąć stanu dokumentu standardowego.
+b791703651,pl,Exit Questionnaire Pending,Kwestionariusz wyjścia w toku
+b79dee9ba6,pl,Add a row below the current row,Dodanie wiersza poniżej bieżącego wiersza
+b7b248dfff,pl,Effective From,Obowiązuje od
+b7d1c08c31,pl,Previous Document,Poprzedni dokument
+b820bf05f4,pl,Create or Edit Print Format,Tworzenie lub edytowanie formatu wydruku
+b82111cb05,pl,Leaves for the Leave Type {0} won't be carry-forwarded since carry-forwarding is disabled.,"Urlopy dla typu urlopu {0} nie będą przenoszone, ponieważ przenoszenie jest wyłączone."
+b82af50d64,de,Item Name,Artikelname
+b849a2daa7,pl,Thanks,Dzięki
+b8621f3be5,pl,Select Country,Wybierz kraj
+b86d174880,pl,Message Type,Typ wiadomości
+b8a69efe42,pl,Extra Parameters,Dodatkowe parametry
+b8b3d890e2,pl,{0} ${label},{0} ${label}
+b8c2c5d2dc,pl,Group By {0},Group By {0}
+b8de679a0c,pl,Custom Document Types (Select Permission),Niestandardowe typy dokumentów (wybierz uprawnienia)
+b8e0fb62b1,pl,Requested By,Na wniosek
+b911d3fec1,pl,Earned Leaves are auto-allocated via scheduler based on the annual allocation set in the Leave Policy: {0},Zdobyte urlopy są automatycznie przydzielane za pośrednictwem harmonogramu na podstawie rocznego przydziału określonego w Polityce urlopowej: {0}
+b91fb7f01b,pl,Add Border at Top,Dodaj obramowanie u góry
+b924011ef3,pl,Set Properties,Ustaw właściwości
+b944b9d34b,pl,Item Manager,Menadżer asortymentu
+b95953e80f,pl,PDF Page Width (in mm),Szerokość strony PDF (w mm)
+b964a43c3b,pl,{0} ${type},{0} ${type}
+b9663a155c,pl,Avg Utilization (Billed Only),Średnie wykorzystanie (tylko rozliczane)
+b966d31cb7,pl,Track Steps,Śledzenie kroków
+b98665b56b,pl,Edit Print Format,Edycja formatu wydruku
+b99d0449c1,pl,Add Video Conferencing,Dodaj wideokonferencje
+b9f3b8f281,pl,{} wants to access the following details from your account,{} chce uzyskać dostęp do następujących danych z Twojego konta
+b9fd216acb,pl,Can't rename {0} to {1} because {0} doesn't exist.,"Nie można zmienić nazwy {0} na {1}, ponieważ {0} nie istnieje."
+ba502e131c,pl,Gratuity Applicable Component,Gratuity Obowiązujący składnik
+ba58314fc7,pl,Enabled Scheduler,Harmonogram włączony
+ba6695752a,pl,Update Order,Aktualizacja zamówienia
+ba6e4beb8d,pl,Show First Document Tour,Pokaż pierwszą wycieczkę po dokumentach
+ba91f6d676,pl,Data Import Log,Dziennik importu danych
+bab5e74ab1,pl,Unallocated Amount,Nieprzydzielona kwota
+bacfa2baa5,pl,Log In To {0},Zaloguj się do {0}
+bad008846d,pl,Cannot find file {} on disk,Nie można znaleźć pliku {} na dysku
+bad1dd661f,de,"Łóżko piętrowe """"Bonini"""" - 2 osobowe korpus biały / wstawki błekitne + materac 120x200","Etagenbett """"Bonini"""" - 2-Personen-Körper weiß / blaue Einlagen + Matratze 120x200"
+bb23fd23bf,pl,Release Notes,Informacje o wersji
+bb3bd168dd,pl,Disable Last Purchase Rate,Wyłączenie stawki za ostatni zakup
+bb55d42638,pl,Compensatory Off,Wyłączenie kompensacyjne
+bb6cc38e01,pl,Rebuilding of tree is not supported for {},Odbudowa drzewa nie jest obsługiwana dla {}.
+bb6d55f2f4,pl,Manager,Menadżer
+,pl,Utilization %,Wykorzystanie %
+,pl,yyyy,rrrr
+,pl,Delivery Note,Dokument dostawy
+,pl,Sales Pipeline,Potencjał sprzedaży
+bbd8e79d41,pl,System Manager privileges required.,Wymagane uprawnienia menedżera systemu.
+,pl,Helpful,Pomocny
+bc4bfb5813,pl,Leaves you can avail against a holiday you worked on. You can claim Compensatory Off Leave using Compensatory Leave request. Click,"Urlopy, z których można skorzystać w zamian za przepracowany urlop. Możesz ubiegać się o urlop wyrównawczy, korzystając z wniosku o urlop wyrównawczy. Kliknij"
+bc7d62209e,pl,Fixed Asset Defaults,Wartość domyślna środka trwałego
+bc80fbfbe3,pl,Nothing left to redo,Nic nie zostało do przerobienia
+bc97330cff,pl,Has Next Condition,Ma następny warunek
+bc9fe67b7d,pl,Grievance Type,Typ skargi
+bcb3af989c,pl,We do not allow editing of this document. Simply click the Edit button on the workspace page to make your workspace editable and customize it as you wish,"Nie zezwalamy na edycję tego dokumentu. Wystarczy kliknąć przycisk Edytuj na stronie obszaru roboczego, aby umożliwić edycję obszaru roboczego i dostosować go według własnego uznania"
+bce6baaabf,pl,Donation,Darowizna
+bcf3ce2352,pl,Add {0},Add {0}
+bcff3284ad,pl,Can only list down the document types which has been linked to the User document type.,"Może wyświetlać tylko typy dokumentów, które zostały powiązane z typem dokumentu użytkownika."
+bd081ac5a3,pl,Stock Planning,Planowanie zapasów
+bd52d359aa,pl,Use the new Print Format Builder,Użyj nowego narzędzia do tworzenia formatów wydruku
+bd85733a80,pl,Manage Items,Zarządzaj Asortymentem
+bdb606747d,pl,Show List,Pokaż listę
+bdca71cff7,pl,Row # {0}: Non administrator user can not set the role {1} to the custom doctype,Wiersz # {0}: Użytkownik niebędący administratorem nie może ustawić roli {1} na niestandardowy typ dokumentu
+be06a7f6a3,pl,Total Images,Łączna liczba obrazów
+be1f28c4d1,pl,Enable Custom Cash Flow Format,Włącz niestandardowy format przepływów pieniężnych
+be2870f10e,pl,Number of days after which the document Web View link shared on email will be expired,"Liczba dni, po których link do widoku internetowego dokumentu udostępniony w wiadomości e-mail wygaśnie."
+be3aade511,pl,Cannot create Salary Slip for Employee who has left before Payroll Period,"Nie można utworzyć odcinka wynagrodzenia dla pracownika, który odszedł przed okresem rozliczeniowym."
+be43b477ac,pl,Invalid Operation,Nieprawidłowa operacja
+be48c9e00b,pl,Create New Kanban Board,Utwórz nową tablicę Kanban
+be6c2a56c1,pl,Webhook Request Log,Dziennik żądań Webhook
+be71c5d29c,pl,Incoming Bills (Purchase Invoice),Przychodzące rachunki (faktura zakupu)
+be90cb90fb,pl,Organizational Chart,Schemat organizacyjny
+becbec8003,pl,"Employee can be named by Employee ID if you assign one, or via Naming Series. Select your preference here.","Pracownik może zostać nazwany za pomocą identyfikatora pracownika (Employee ID), jeśli taki został przypisany, lub za pomocą serii nazw (Naming Series). Wybierz swoje preferencje tutaj."
+bed6375167,pl,Users with this role are allowed to over deliver/receive against orders above the allowance percentage,Użytkownicy z tą rolą mogą dostarczać/odbierać zamówienia przekraczające limit procentowy.
+bee2c77417,pl,Invalid aggregate function,Nieprawidłowa funkcja agregująca
+bee47ab635,pl,Module Settings,Ustawienia modułu
+bee9f8d581,pl,The following values are invalid: {0}. Values must be one of {1},Następujące wartości są nieprawidłowe: {0}. Wartość musi być jedną z {1}
+bef6e582bc,pl,Show Labels,Pokaż etykiety
+bf037ac1aa,pl,Please select employee first,Wybierz pracownika jako pierwszego
+bf07c69283,pl,Sending...,Wysyłanie...
+bf190a2ba0,pl,You can change the retention policy from {0}.,Politykę przechowywania można zmienić z {0}.
+bf2aa1f717,pl,ERPtech,ERPtech
+bf2ec94ca2,pl,DocType,Typ dokumentu
+bf4dfb4772,pl,Number of Queries,Liczba zapytań
+bf5a10c28b,pl,Your Interview session is rescheduled from {0} {1} - {2} to {3} {4} - {5},Sesja rozmowy kwalifikacyjnej została przełożona z {0} {1} - {2} na {3} {4} - {5}
+bfa2627e89,pl,FnF Pending,FnF w toku
+bfcb1f68fe,pl,new-payment-term-,nowy-termin-płatności-
+c01b516a39,pl,Employee {0} not found in Training Event Participants.,Pracownik {0} nie został znaleziony wśród uczestników wydarzenia szkoleniowego.
+c0219b8781,pl,Let's Set Up Your Accounts and Taxes.,Skonfigurujmy konta i podatki.
+c033a95629,pl,The system is being updated. Please refresh again after a few moments.,System jest w trakcie aktualizacji. Odśwież ponownie po kilku chwilach.
+c04651ac3e,pl,X Field,X Pole
+c04b277e10,pl,Auto Insert Item Price If Missing,Automatyczne wstawianie ceny pozycji w przypadku braku
+c059ccb581,pl,Employees cannot give feedback to themselves. Use {0} instead: {1},Pracownicy nie mogą przekazywać informacji zwrotnych samym sobie. Zamiast tego należy użyć {0}: {1}
+c0626dafbc,pl,Error connecting via IMAP/POP3: {e},Błąd połączenia przez IMAP/POP3: {e}
+c0ad1c21a1,pl,Time in Queries (ms),Czas w zapytaniach (ms)
+c0b8faca80,pl,Setting,Ustawienie
+c0bdaf74e4,pl,Add Tags,Dodaj tagi
+c0c1564abb,pl,Employee Image,Wizerunek pracownika
+c0d5e3dcaa,pl,To(Year),Do(Rok)
+c0d75bf772,pl,Event Frequency,Częstotliwość zdarzeń
+c0e731c8b0,pl,Onboarding Activities,Działania wdrożeniowe
+c0e88d76f0,pl,Whereas allocation for Compensatory Leaves is automatically created or updated on submission of Compensatory Leave Request.,Przydział urlopów wyrównawczych jest automatycznie tworzony lub aktualizowany po złożeniu wniosku o urlop wyrównawczy.
+c102075fdd,pl,{0} submitted this document {1},{0} przesłał ten dokument {1}
+c10b8c3f1d,pl,Send again,Wyślij ponownie
+c12f149f5b,pl,You have already verified,Użytkownik został już zweryfikowany
+c12f55da5b,pl,Set Naming Series options on your transactions.,Ustaw opcje serii nazw w transakcjach.
+c1439caf94,pl,Appraisal creation is queued. It may take a few minutes.,Tworzenie oceny jest w kolejce. Może to potrwać kilka minut.
+c15cf6a34a,pl,Employee Transfer cannot be submitted before Transfer Date,Przeniesienie pracownika nie może zostać złożone przed datą przeniesienia
+c171d8f261,pl,"If mentioned, the system will allow only the users with this Role to create or modify any stock transaction earlier than the latest stock transaction for a specific item and warehouse. If set as blank, it allows all users to create/edit back-dated transactions.","Jeśli opcja ta zostanie zaznaczona, system zezwoli tylko użytkownikom z tą rolą na tworzenie lub modyfikowanie transakcji magazynowych wcześniejszych niż ostatnia transakcja magazynowa dla określonej pozycji i magazynu. Jeśli jest ustawiona jako pusta, zezwala wszystkim użytkownikom na tworzenie/edycję transakcji z datą wsteczną."
+c1784fb217,pl,From Lead,Od tropu
+c17dd46115,pl,Notification Type,Typ powiadomienia
+c19b72bf55,pl,You can continue with the onboarding after exploring this page,Po zapoznaniu się z tą stroną można kontynuować wdrażanie.
+c1a735f5ff,pl,Why is this Candidate Qualified for this Position?,Dlaczego ten kandydat kwalifikuje się na to stanowisko?
+c1e3a1d9e9,pl,Overlapping Shift Attendance,Obecność na nakładających się zmianach
+c2072e3984,pl,Type here. Use markdown to format.,Wpisz tutaj. Użyj markdown do formatowania.
+c229302a90,pl,Assignment of {0} removed by {1},Przypisanie {0} usunięte przez {1}
+c230e3654f,pl,Auto creates Payment Entry for Donations created from web forms.,Automatycznie tworzy wpis płatności dla darowizn utworzonych z formularzy internetowych.
+c25103d158,pl,{count} cells copied,{liczba} skopiowanych komórek
+c263799e23,pl,Fractional Cost,Koszt ułamkowy
+c276283ba2,pl,Unable to send mail because of a missing email account. Please setup default Email Account from Setup > Email > Email Account,Nie można wysłać poczty z powodu braku konta e-mail. Skonfiguruj domyślne konto e-mail w menu Konfiguracja > E-mail > Konto e-mail.
+c292bea13c,pl,Invalid Fieldname,Nieprawidłowa nazwa pola
+c29d837826,pl,Database Processes,Procesy bazy danych
+c29e45e8e5,pl,"By """"Naming Series"""" field","Według pola """"Naming Series"
+c29f3f55d5,pl,"Awesome, now try making an entry yourself","Niesamowite, teraz spróbuj sam dokonać wpisu"
+c2d2200ad0,pl,Show Processlist,Pokaż listę procesów
+c30e3c8b5e,pl,Dec,Gru
+c4056063f0,pl,Invoice Portion (%),Fragment faktury (%)
+c40aa1f2a6,pl,Send Email At,Wyślij wiadomość e-mail na adres
+c48ede4c5a,pl,Net Pay (Company Currency),Wynagrodzenie netto (waluta firmy)
+c4910147f2,pl,Total Receivable Amount,Całkowita kwota należności
+c4a2ffd92f,pl,Library,Biblioteka
+c4b9a68eb0,pl,Hide Saved,Ukryj zapisane
+c4bf88f5a8,pl,No filters selected,Nie wybrano żadnych filtrów
+c4caa460e1,pl,Mark the cycle as {0} if required.,W razie potrzeby oznacz cykl jako {0}.
+c4d371d367,pl,Report Setting,Ustawienia raportu
+c4da72010f,pl,Unknown Rounding Method: {},Nieznana metoda zaokrąglania: {}
+c52f3af7ee,pl,List,Lista
+c53e3a5467,pl,Include Name Field,Dołącz pole nazwy
+c55c1f27a1,pl,Filter Employees,Filtruj pracowników
+c5656296ad,pl,Exit Questionnaire Notification,Powiadomienie o kwestionariuszu wyjścia
+c5ac54a714,pl,Employees without Feedback: {0},Pracownicy bez informacji zwrotnej: {0}
+c5c8c82977,pl,Row #{}: Fieldname is required,Wiersz #{}: Nazwa pola jest wymagana
+c5e36743cd,pl,My Profile,Mój profil
+c5f30c4296,pl,Total Billing Amount (via Time Sheet),Łączna kwota rozliczenia (za pośrednictwem karty czasu pracy)
+c60a732a97,pl,Won Opportunities,Wygrane szanse sprzedaży
+c61719b047,pl,Free,Darmowy
+c62688e17a,pl,Show {0} List,Pokaż listę {0}
+c631d467b7,pl,"Set """"From(Year)"""" and """"To(Year)"""" to 0 for no upper and lower limit.","Ustaw """"From(Year)"""" i """"To(Year)"""" na 0, aby nie było górnego i dolnego limitu."
+c6414d61a7,pl,Move cursor to previous column,Przesunięcie kursora do poprzedniej kolumny
+c64d173922,pl,Document has been cancelled,Dokument został anulowany
+c65484bcee,pl,Exact Copies,Dokładne kopie
+c65d68a58f,pl,Delete Accounting and Stock Ledger Entries on deletion of Transaction,Usuwanie wpisów księgi rachunkowej i księgi magazynowej po usunięciu transakcji
+c67e19fce0,pl,{0} View,{0} Widok
+c68f400b0c,pl,Goal should be owned by the same employee as its parent goal.,"Cel powinien należeć do tego samego pracownika, co jego cel nadrzędny."
+c6cf679a49,pl,Are you sure you want to remove all failed jobs?,Czy na pewno chcesz usunąć wszystkie nieudane zadania?
+c6e03a4929,pl,Cannot create a Job Applicant against a closed Job Opening,Nie można utworzyć kandydata do pracy w związku z zamkniętym otwarciem oferty pracy.
+c6f9c6db96,pl,Recents,Ostatnie wydarzenia
+c6fee425d8,pl,Let’s walk-through few Buying Settings,Przejdźmy przez kilka ustawień zakupu
+c701f9a16e,pl,{0} criticism point for {1},{0} punkt krytyczny dla {1}
+c70670bec6,pl,Unsubmitted Appraisals,Nieprzesłane oceny
+c70690c843,pl,Your browser does not support the video element.,Twoja przeglądarka nie obsługuje elementu wideo.
+c7537a79dc,pl,Field not permitted in query,Pole niedozwolone w zapytaniu
+c75fdbb666,pl,Used Leave(s),Wykorzystane urlopy
+c76763f53c,pl,Login to start a new discussion,"Zaloguj się, aby rozpocząć nową dyskusję"
+c7a549d79a,pl,Optimize,Optymalizacja
+c7a961fa94,pl,Leave Policy: {0} already assigned for Employee {1} for period {2} to {3},Polityka urlopowa: {0} już przydzielony dla pracownika {1} na okres od {2} do {3}.
+c7bb584a33,pl,Move cursor to above row,Przesunięcie kursora do wiersza powyżej
+c7bb6f0fa0,pl,Google Drive Picker,Google Drive Picker
+c7ee83813e,pl,Earnings and Taxation,Zyski i opodatkowanie
+c8098ff163,pl,Custom Group Search,Niestandardowe wyszukiwanie grupowe
+c831ecaee8,pl,Module HTML,Moduł HTML
+c834997f87,pl,Discussion Reply,Dyskusja Odpowiedź
+c83662ebf1,pl,{0} is not a valid parentfield for {1},{0} nie jest prawidłowym polem nadrzędnym dla {1}.
+c83db051eb,pl,"Configure various aspects of how document naming works like naming series, current counter.","Konfiguracja różnych aspektów działania nazewnictwa dokumentów, takich jak seria nazw, licznik bieżący."
+c848da61ad,pl,long,długi
+c85845fc17,pl,Currency of selected Income Tax Slab should be {0} instead of {1},Waluta wybranej płyty podatku dochodowego powinna wynosić {0} zamiast {1}.
+c85ecaadc4,pl,Round Name,Okrągła nazwa
+c89bf5a6eb,pl,Divider,Dzielnik
+c8a830005c,pl,Role 'All' will be given to all System Users.,"Rola """"Wszyscy"""" zostanie nadana wszystkim użytkownikom systemu."
+c8aea8d093,pl,Please Enable Auto Attendance and complete the setup first.,Najpierw włącz funkcję automatycznej obecności i zakończ konfigurację.
+c904d0409c,pl,this shouldn't break,to nie powinno się zepsuć
+c91ec3ac35,pl,Publish as a web page,Opublikuj jako stronę internetową
+c93a6b233a,pl,Restrict Backdated Leave Application,Ograniczenie wniosku o urlop z datą wsteczną
+c948fbe0a6,pl,{0}: fieldname cannot be set to reserved keyword {1},{0}: nazwa pola nie może być ustawiona na zarezerwowane słowo kluczowe {1}
+c95ffb4984,pl,Accounts Payable Ageing,Przedawnienie zobowiązań
+c9649b2c68,de,SALES ORDER,AUFTRAGSBESTÄTIGUNG
+c9b767bdca,pl,Please select month and year.,Wybierz miesiąc i rok.
+c9c2c3aaa5,pl,Current Month Income Tax,Podatek dochodowy za bieżący miesiąc
+c9d6819540,pl,Out of 5,Na 5
+c9ee9b5e2f,pl,Client Id,Identyfikator klienta
+c9f82ac091,pl,Image optimized,Obraz zoptymalizowany
+ca0f1d06ae,pl,Fraction of Applicable Earnings,Ułamek odpowiednich zarobków
+ca39f6e9b5,pl,{0} criticism points for {1},{0} punktów krytyki dla {1}
+ca4f8c2220,pl,Feedback HTML,Informacje zwrotne HTML
+ca519e3ee2,pl,Vacancies fulfilled,Wolne miejsca pracy obsadzone
+ca691daf50,pl,Send me a copy,Wyślij kopię do mnie
+ca71aa9d18,pl,Assets Allocated,Przydzielone aktywa
+ca7a187fcf,pl,Loan Intereset Raport,Raport Interesu Pożyczkowego
+ca8b3294a1,pl,{0} is not a holiday.,{0} nie jest dniem wolnym od pracy.
+cad7edf176,pl,Avg Feedback Score,Średni wynik opinii
+cae1cb46ef,pl,Automate Payment Entry Creation,Automatyzacja tworzenia wpisów płatności
+cae4b0a50e,pl,Insufficient attachment limit,Niewystarczający limit załączników
+cb13e71445,pl,"Custom LDAP Directoy Selected, please ensure 'LDAP Group Member attribute' and 'Group Object Class' are entered","Wybrano Custom LDAP Directoy, upewnij się, że wprowadzono """"LDAP Group Member attribute"""" i """"Group Object Class""""."
+cb21325905,pl,"Accounts, Invoices, Taxation, and more.","Rachunki, faktury, podatki i inne."
+cb389ed9da,pl,Opportunity Owner,Właściciel szansy sprzedaży
+cb600e4b37,pl,Total Incoming Payment,Całkowita płatność przychodząca
+cb6d850387,pl,Connect to {},Połącz z {}
+cb719ed2e1,pl,Sales Order,Zlecenie sprzedaży
+cb9a2be8d9,pl,Encrypt Backups,Szyfrowanie kopii zapasowych
+cbaa0061b6,pl,Revoke Key,Cofnięcie klucza
+cbb1d10d96,pl,Publish in Website,Publish in Website
+cbd1a32154,pl,Could not submit some Salary Slips: {},Nie można przesłać niektórych odcinków wynagrodzenia: {}
+cbd5d473e7,pl,Feedback cannot be recorded for an absent Employee.,Informacja zwrotna nie może zostać zarejestrowana dla nieobecnego Pracownika.
+cbe6200db4,pl,Company registration numbers for your reference. Tax numbers etc.,Numery rejestracyjne firmy w celach informacyjnych. Numery podatkowe itp.
+cc01da6be3,pl,Associated Document Type,Powiązany typ dokumentu
+cc0bdf4646,pl,Interview Feedback {0} submitted successfully,Pomyślne przesłanie opinii o wywiadzie {0}
+cc1417bbb9,pl,Insufficient Permission Level for {0},Niewystarczający poziom uprawnień dla {0}
+cc2f0b0367,pl,Link the cycle and tag KRA to your goal to update the appraisal's goal score based on the goal progress,"Połącz cykl i oznacz KRA z celem, aby zaktualizować wynik celu oceny w oparciu o postępy w realizacji celu."
+cc5434a8f1,pl,HR-HIREQ-,HR-HIREQ-
+cc7dac746c,pl,To Receive,Do odbioru
+ccc52d11c1,pl,Attendance for all the employees under this criteria has been marked already.,Obecność wszystkich pracowników w ramach tego kryterium została już zaznaczona.
+cd022df9c9,pl,Posting date,Data wysłania
+cd15a69983,pl,Add/Update Filter,Dodaj/aktualizuj filtr
+cd18d2152f,pl,Let's Set Up the Buying Module.,Przejdźmy przez kilka ustawień zakupu.
+cd19bed8f7,pl,"1 Currency = [?] Fraction
+For e.g. 1 USD = 100 Cent","1 waluta = [?] ułamek
+Na przykład 1 USD = 100 centów"
+cd23b48549,pl,Support Team,Dział wsparcia
+cd4819bf3b,pl,"These leaves are holidays permitted by the company however, availing it is optional for an Employee.","Urlopy te są urlopami dozwolonymi przez firmę, jednak skorzystanie z nich jest opcjonalne dla pracownika."
+cd53a7dfcb,pl,PDF Page Height (in mm),PDF Wysokość strony (w mm)
+cd6e354434,pl,Logs To Clear,Dzienniki do wyczyszczenia
+cd797edf22,pl,{0} Missing,{0} Brakujące
+cdb9575168,pl,Section Title,Tytuł sekcji
+cddc8ba368,pl,You can only insert images in Markdown fields,Obrazy można wstawiać tylko w polach Markdown
+cdf09efbc6,pl,Enable email notification for any comment or likes received on your Blog Post.,Włącz powiadomienia e-mail o każdym komentarzu lub polubieniu otrzymanym w Twoim poście na blogu.
+ce04d6ccc0,pl,Insufficient Permissions for deleting Report,Niewystarczające uprawnienia do usunięcia raportu
+ce0a04a292,pl,Please login to post a comment.,"Zaloguj się, aby opublikować komentarz."
+ce20ecedcf,pl,Patch type {} not found in patches.txt,Nie znaleziono poprawki typu {} w pliku patches.txt
+ce4ad7ab20,pl,Invalid Condition: {},Nieprawidłowy warunek: {}
+ce5a3287dc,pl,Donation Settings,Ustawienia darowizn
+ce81dfcc23,pl,Employee Referral {0} is not applicable for referral bonus.,Polecenie pracownika {0} nie ma zastosowania do premii za polecenie.
+cea36ee0e2,pl,ii,ii
+cec362e886,pl,Repay Unclaimed Amount from Salary,Zwrot nieodebranej kwoty z wynagrodzenia
+cec4afca64,pl,{0} has been verified.,{0} został zweryfikowany.
+cec642f69f,pl,Child DocTypes are not allowed,Podrzędne typy DocTypes nie są dozwolone
+cefac07cdc,pl,Delete 1 item permanently?,Usunąć 1 element na stałe?
+cf02a7bbe5,pl,Parent Field,Pole rodzica
+cf286229d3,pl,Google Drive Picker Enabled,Google Drive Picker Włączony
+cf295797d5,pl,Your site is getting upgraded.,Twoja witryna jest aktualizowana.
+cf889d6b61,pl,Interview Round {0} is only applicable for the Designation {1},Runda rozmowy kwalifikacyjnej {0} ma zastosowanie tylko do oznaczenia {1}.
+cfa76678eb,pl,Birthdays,Urodziny
+cfc982591f,pl,Scheduler can not be re-enabled when maintenance mode is active.,"Harmonogramu nie można ponownie włączyć, gdy aktywny jest tryb konserwacji."
+d04d3d4f8e,pl,K,K
+d057c33037,pl,Month To Date,Od początku miesiąca
+d087946ef9,pl,bar,pasek
+d08eba79f0,pl,You can only set the 3 custom doctypes in the Document Types table.,W tabeli typów dokumentów można ustawić tylko 3 niestandardowe typy dokumentów.
+d096aa928d,pl,To Deliver and Bill,Do dostarczenia i rozliczenia
+d0ac1b3d9d,pl,Apply Perm Level on API calls (Recommended),Stosowanie poziomu Perm do wywołań API (zalecane)
+d0bba12559,pl,Interview Rescheduled successfully,Wywiad został pomyślnie przełożony
+d0cd423d02,pl,Grid Shortcuts,Skróty siatki
+d0d38b1d19,pl,Auto follow documents that you Like,"Automatyczne śledzenie dokumentów, które lubisz"
+d0dc3e7631,pl,PUT,PUT
+d0f73ae84d,pl,Success Title,Tytuł sukcesu
+d0f7595816,pl,Landing Page,Strona docelowa
+d11c85fbc2,pl,"Enable if on click
+opens modal.","Włącz, jeśli po kliknięciu
+otworzy się okno modalne."
+d120aaa795,pl,Workspace Custom Block,Blok niestandardowy obszaru roboczego
+d1425a9890,pl,Return amount cannot be greater than unclaimed amount,Kwota zwrotu nie może być wyższa niż kwota nieodebrana
+d1b737f2b9,pl,Spacer,Podkładka dystansowa
+d1b8426ed2,pl,ClearExcel,WyczyśćExcel
+d1d4abc2de,pl,"Include symbols, numbers and capital letters in the password","Hasło powinno zawierać symbole, cyfry i wielkie litery."
+d1d70abb3c,pl,Please select the Appraisal Cycle first.,Najpierw wybierz cykl oceny.
+d1de4b0e79,pl,Total Stock Summary,Całkowite podsumowanie stanów magazynowych
+d1eceb5394,pl,Active Directory,Active Directory
+d1f4456412,pl,Please enter your new password.,Wprowadź nowe hasło.
+d20f802488,pl,You must be logged in to use this form.,"Musisz być zalogowany, aby korzystać z tego formularza."
+d2574858dd,pl,Execution Order,Nakaz wykonania
+d2650dfcd8,pl,Please select the attendance status.,Wybierz status obecności.
+d273ffb1e5,pl,get_shade method has been deprecated.,metoda get_shade została wycofana.
+d30ad43b5d,pl,In List Filter,W filtrze listy
+d313d63744,pl,Parent Missing,Brakujący rodzic
+d321f63a10,pl,Timeout,Limit czasu
+d33762c980,pl,Bottom Right,Prawy dolny róg
+d342321882,pl,Connection Lost,Utracone połączenie
+d34a15efad,pl,Attendance from {0} to {1} has already been marked for the Employee {2},Obecność od {0} do {1} została już zaznaczona dla pracownika {2}.
+d3699e77c5,pl,Enter fields in the right sequence as per the template parameters.,"Wprowadź pola w odpowiedniej kolejności, zgodnie z parametrami szablonu."
+d36f1d6494,pl,Auto Reply ,Automatyczna odpowiedź
+d38963d762,pl,Misconfigured,Błędna konfiguracja
+d3a0ab0993,pl,Row #{0}: The {1} Component has the options {2} and {3} enabled.,Wiersz #{0}: Komponent {1} Komponent ma włączone opcje {2} i {3}.
+d3a99fa612,pl,Enabling this will allow creation of multi-currency invoices against single party account in company currency,Włączenie tej opcji pozwoli na tworzenie faktur wielowalutowych na konto jednej strony w walucie firmy.
+d414717f6c,pl,Request Account Deletion,Żądanie usunięcia konta
+d46dc36cd9,pl,Recorder is Inactive.,Rejestrator jest nieaktywny.
+d482be6e09,pl,Note: Etc timezones have their signs reversed.,Uwaga: W innych strefach czasowych znaki są odwrócone.
+d488e03a9d,de,Ilość,Menge
+d494c14079,pl,Deleting {0} records,Usuwanie {0} rekordów
+d4951e8a10,pl,new-sales-order-1,nowe-zlecenie-sprzedaży-1
+d49cb56258,pl,Rank,Pozycja
+d4a6bf997b,pl,Appraisal KRA,Ocena KRA
+d4e4d1852c,pl,No attendance records found for this criteria.,Nie znaleziono zapisów obecności dla tego kryterium.
+d4f72e5d74,pl,Discussion Topic,Temat dyskusji
+d4f9334e85,pl,Show Leave Balances in Salary Slip,Wyświetlanie salda urlopów na odcinku wynagrodzenia
+d53cedcf4b,pl,"Please set """"Default Payroll Payable Account"""" in Company Defaults","Ustaw """"Domyślne konto do wypłaty wynagrodzeń"""" w Domyślnych ustawieniach firmy."
+d57cbe47b5,pl,Leave(s) Taken,Wykorzystane urlopy
+d5811dae4d,pl,Link Details,Szczegóły łącza
+d584d1df6a,pl,Tax Detail,Szczegóły podatkowe
+d585422207,pl,Failed to get method for command {0} with {1},Nie udało się uzyskać metody dla polecenia {0} z {1}.
+d5a8e17003,pl,Select your Leave Approver i.e. the person who approves or rejects your leaves.,"Wybierz osobę zatwierdzającą urlopy, tj. osobę, która zatwierdza lub odrzuca urlopy."
+d5adcfe266,pl,Package Import,Import pakietów
+d5bc94c443,pl,Collapse,Zwiń
+d5eb613dd6,pl,"Disable {0} for the {1} component, to prevent the amount from being deducted twice, as its formula already uses a payment-days-based component.","Wyłącz {0} dla składnika {1}, aby zapobiec dwukrotnemu odliczeniu kwoty, ponieważ jego formuła wykorzystuje już składnik oparty na dniach płatności."
+d5f672929b,pl,No Membership Payments found against the Member {0},Nie znaleziono żadnych płatności członkowskich dla członka {0}.
+d61587986b,pl,Cannot edit Standard charts,Nie można edytować wykresów standardowych
+d6301485b8,pl,Jan,Sty
+d63a24d5b0,pl,A field with the name {0} already exists in {1},Pole o nazwie {0} już istnieje w {1}.
+d64b495746,pl,Helvetica Neue,Helvetica Neue
+d667e78928,pl,Customer Naming By,Nazewnictwo klienta według
+d66c5bd14c,pl,Custom,Niestandardowe
+d68238295b,pl,Loading user profile,Ładowanie profilu użytkownika
+d685f7b480,pl,All Results,Wszystkie wyniki
+d693c928c7,pl,Schedule Newsletter,Harmonogram biuletynu
+d6a13ef1f5,pl,Card Links,Linki do kart
+d6b2d05a18,pl,{0} is not a valid parent DocType for {1},{0} nie jest prawidłowym typem nadrzędnym DocType dla {1}
+d6b7a07491,pl,Scan QRCode,Skanowanie kodu QRCode
+d6ed8f9719,de,Łóżko kontynentalne Kaspian 180x200 Soft 17,Kaspisches Kontinentalbett 180x200 Soft 17
+d70237de41,pl,Send Web View Link,Wyślij łącze do widoku internetowego
+d71cad3cdd,pl,Standard Working Hours,Standardowe godziny pracy
+d73445659c,pl,Cannot map because following condition fails:,"Nie można zmapować, ponieważ następujący warunek nie powiódł się:"
+d73c5c8453,pl,IMAP Folder,Folder IMAP
+d75b5d04c0,pl,Shared With,Współdzielone z
+d7679ca8f6,pl,Add / Remove Columns,Dodaj / Usuń kolumny
+d770611ce6,pl,via Google Meet,przez Google Meet
+d785869999,pl,Select the date from which this Leave Allocation will be valid.,"Wybierz datę, od której ten przydział urlopu będzie ważny."
+d7ad1a5e0f,pl,Verify Contributed Translation,Weryfikacja dostarczonego tłumaczenia
+d7dd7646e9,pl,Expression,Ekspresja
+d805f906dd,pl,CTC,CTC
+d81d79c571,pl,Progress Updated successfully,Postęp Zaktualizowano pomyślnie
+d834d82504,pl,Show Pay Button in Purchase Order Portal,Pokaż przycisk płatności w portalu zamówień zakupu
+d836a5c0db,pl,Customize Print Formats,Dostosuj formaty wydruku
+d85a82a5be,pl,Check Stock Ledger,Sprawdź księgę zapasów
+d8712f0af5,pl,Cannot create Salary Slip for Employee joining after Payroll Period,Nie można utworzyć odcinka wynagrodzenia dla pracownika dołączającego po okresie rozliczeniowym
+d8d3d633fc,pl,Mark as Completed,Oznacz jako ukończone
+d8eb4845ae,pl,"Using enqueue with is_async=False outside of tests is not recommended, use now=True instead.","Używanie enqueue z is_async=False poza testami nie jest zalecane, zamiast tego należy użyć now=True."
+d8ed70c566,pl,Leads,Potencjalni klienci
+d8f9c0f5a0,pl,Disable Username/Password Login,Wyłącz logowanie przy użyciu nazwy użytkownika/hasła
+d8ffde1969,pl,OAuth Scope,Zakres OAuth
+d9054ddd74,pl,SQL Explain,SQL Explain
+d91b8c66a0,pl,Enter a name for this {0},Wprowadź nazwę dla tego {0}.
+d94b1d236f,pl,Change Letter Head,Zmiana nagłówka listu
+d996c31190,pl,"Name already taken, please set a new name","Nazwa już zajęta, prosimy o ustawienie nowej nazwy"
+d9aeb51e32,pl,"Hide Previous, Next and Close button on highlight dialog.","Ukryj przyciski Poprzedni, Następny i Zamknij w oknie dialogowym podświetlenia."
+d9bba17dfc,pl,Reject Employee Referral,Odrzucenie polecenia pracownika
+d9d8cbd683,pl,No jobs found on this site,Na tej stronie nie znaleziono żadnych ofert pracy
+da336c068d,pl,Constraints,Ograniczenia
+da5ce8778d,pl,Employee {0} has already applied for {1} between {2} and {3} : {4},Pracownik {0} złożył już wniosek o {1} między {2} a {3} : {4}.
+da8e973d41,pl,\u2190 Back to upload files,\u2190 Powrót do przesyłania plików
+da9dded32c,pl,Preview type,Typ podglądu
+daa2f954ef,pl,Scheduler: Inactive,Harmonogram: Nieaktywny
+daaac6760c,pl,Receive anonymous response,Otrzymywanie anonimowych odpowiedzi
+dac45f0eab,pl,OpenID Configuration,Konfiguracja OpenID
+dad0bf40b5,pl,{0} Page views,{0} Odsłon strony
+db0685d7f9,pl,Add Card to Dashboard,Dodaj kartę do pulpitu nawigacyjnego
+db0fcfd830,pl,Sales,Sprzedaż
+db6480976e,pl,Referrer Name,Nazwa polecającego
+db90e0bfe5,pl,"If checked, Payroll Payable will be booked against each employee","Jeśli to pole jest zaznaczone, lista płac zostanie zaksięgowana dla każdego pracownika."
+dbb970858c,pl,Document has been submitted,Dokument został przesłany
+dbcf0f872a,pl,Series counter for {} updated to {} successfully,Licznik serii dla {} został pomyślnie zaktualizowany do {}
+dbd3efa397,pl,The link you trying to login is invalid or expired.,"Link, za pomocą którego próbujesz się zalogować, jest nieprawidłowy lub wygasł."
+dbdda6ad56,pl,Unlinked logs,Niepowiązane dzienniki
+dc0de40cb2,pl,Please attach an image file to set HTML for Footer.,"Załącz plik graficzny, aby ustawić HTML dla stopki."
+dc50cbb84f,pl,States,Stany
+dc59488527,pl,Audience,Publiczność
+dc7c469ff7,pl,{0} submitted this document,{0} przesłał ten dokument
+dc9bf902ed,pl,Document not Relinked,Dokument nie został ponownie połączony
+dcab2d1237,pl,List / Search Settings,Ustawienia listy / wyszukiwania
+dcbb51f491,pl,Select Document,Wybierz dokument
+dcbdf0ceca,pl,Meets Condition?,Spełnia warunki?
+dcc0e5a19e,pl,Enable Website Tracking,Włącz śledzenie witryny
+dcce0b9974,pl,Use HTML,Użyj HTML
+dcf8903363,pl,"A DocType's name should start with a letter and can only consist of letters, numbers, spaces, underscores and hyphens","Nazwa DocType powinna zaczynać się od litery i może składać się wyłącznie z liter, cyfr, spacji, podkreśleń i myślników"
+dd04f59aeb,pl,Less than 12 months.,Mniej niż 12 miesięcy.
+dd2350f776,pl,audio,audio
+dd374683b0,pl,Last Day,Ostatni dzień
+dd68cc7ab2,pl,Notification sent to,Powiadomienie wysłane do
+dd731cca25,pl,Disable {0} or {1} to proceed.,"Wyłącz {0} lub {1}, aby kontynuować."
+dd7ea42e46,pl,Conversation ID,Identyfikator konwersacji
+dd8eedda5d,pl,"{0} must begin and end with a letter and can only contain letters,
+				hyphen or underscore.","{0} musi zaczynać się i kończyć literą i może zawierać tylko litery,
+				myślnik lub podkreślenie."
+dda620ed80,pl,Reflections,Refleksje
+ddb92a5dbf,pl,Following links are broken in the email content: {0},Następujące linki są uszkodzone w treści wiadomości e-mail: {0}
+ddda81c9ae,pl,Password missing in Email Account,Brak hasła na koncie e-mail
+dddb636f4b,pl,System will automatically create the serial numbers / batch for the Finished Good on submission of work order,System automatycznie utworzy numery seryjne / partię dla wyrobów gotowych po złożeniu zlecenia roboczego.
+ddfec4f39d,pl,GNU General Public License,Powszechna Licencja Publiczna GNU
+de0a51a879,pl,Parent Goal,Cel rodzica
+de0a709b8b,pl,Login with email link expiry (in minutes),Logowanie z wygaśnięciem linku e-mail (w minutach)
+de16737aab,pl,Total Allocated Leave(s),Przydzielone urlopy ogółem
+de3c5fabe5,pl,Enables Calendar and Gantt views.,Włącza widoki kalendarza i Gantta.
+de5bf62e61,pl,Delete,Usuń
+deafd74f98,pl,Major,Major
+decdd2f8cf,pl,Delete Transactions,Usuń transakcje
+df1c26c928,pl,Select Letterhead,Wybór papieru firmowego
+df2050949f,pl,Preview of generated names,Podgląd wygenerowanych nazw
+df3e57c267,pl,Leave Type can either be without pay or partial pay,Typ urlopu może być bezpłatny lub częściowo płatny
+df66d90883,pl,Multiple Additional Salaries with overwrite property exist for Salary Component {0} between {1} and {2}.,Istnieje wiele dodatkowych wynagrodzeń z właściwością nadpisywania dla składnika wynagrodzenia {0} między {1} a {2}.
+df76f0a03c,pl,You are not permitted to access this page without login.,Dostęp do tej strony bez zalogowania jest zabroniony.
+df97d52bfd,pl,POS Search Fields,Pola wyszukiwania POS
+dfc684da5c,pl,Is Custom,Czy niestandardowy
+dfca4a1773,pl,"If checked, the component will not be displayed in the salary slip if the amount is zero","Jeśli opcja ta jest zaznaczona, składnik nie będzie wyświetlany na odcinku wynagrodzenia, jeśli kwota wynosi zero."
+dfd84ebca8,pl,Is Partially Paid Leave,Częściowo płatny urlop
+dfe63b4d7b,pl,New Workspace,Nowy obszar roboczy
+e021958264,pl,Copy error to clipboard,Kopiowanie błędu do schowka
+e036067cd1,pl,Invoice Cancellation,Anulowanie faktury
+e03a23705d,pl,Dark,Ciemny
+e0719939a8,pl,Account Deletion Settings,Ustawienia usuwania konta
+e0759935f6,pl,Make Serial No / Batch from Work Order,Zezwalaj na przesyłanie surowców nawet po osiągnięciu wymaganej ilości.
+e093804387,pl,Editing {0},Edycja {0}
+e0b869a6bc,pl,Donation Payment To,Wpłata darowizny na konto
+e0bd4c394c,pl,Desk Theme,Motyw biurka
+e0db04a3ab,pl,Annual Revenue,Roczny przychód
+e0e7eca786,pl,Standard Reports cannot be edited,Raportów standardowych nie można edytować
+e13d4d0123,pl,Allowed Modules,Dozwolone moduły
+e148a11ca6,pl,Introspection URI,Introspekcja URI
+e1687fdfd4,pl,Show Account Deletion Link in My Account Page,Pokaż link do usunięcia konta na stronie Moje konto
+e180d311c8,pl,Activities,Działania
+e196468527,pl,Try Again,Spróbuj ponownie
+e1aaee25e4,pl,Total Incoming Bills,Przychodzące rachunki ogółem
+e1b6ccb3aa,pl,Jane Doe,Jane Doe
+e1dc9c49d3,pl,Interviewers,Ankieterzy
+e1ec81dd3b,pl,Please select employees to create appraisals for,"Wybierz pracowników, dla których chcesz utworzyć oceny"
+e1f5a8c3d8,pl,Get PDF,Pobierz PDF
+e24e342bce,pl,Employee Exit Settings,Ustawienia wyjścia pracownika
+e253c0266d,pl,Scan,Skanowanie
+e2698ca16b,pl,Minimum Net Rate,Minimalna stawka netto
+e26f162188,pl,WhatsApp Template requires a document.,Szablon WhatsApp wymaga dokumentu.
+e27a2c815b,pl,Salary Component,Składnik wynagrodzenia
+e27e6d9aa4,pl,Changing rounding method on site with data can result in unexpected behaviour.,Zmiana metody zaokrąglania na miejscu z danymi może spowodować nieoczekiwane zachowanie.
+e281a243ae,pl,Base & Variable,Podstawowe i zmienne
+e28d3e6895,pl,Customize Child Table,Dostosuj tabelę dla dziecka
+e299b634d2,pl,Interview Summary,Podsumowanie wywiadu
+e2a24d6060,pl,Retirement Age (In Years),Wiek emerytalny (w latach)
+e2c8b15b53,pl,Commented on {0}: {1},Skomentował {0}: {1}
+e2f4fbe4e1,pl,Please delete the field from {0} or add the required doctype.,Usuń pole z {0} lub dodaj wymagany doctype.
+e2f65754d8,pl,Please select X and Y fields,Wybierz pola X i Y
+e2fcf919f2,pl,Enable Discount Accounting for Selling,Włącz rozliczanie rabatów dla sprzedaży
+e332e96181,pl,queued,ogon
+e34d1f7980,pl,removed rows for {0},usunięte wiersze dla {0}
+,pl,Search or type a command (Ctrl + G),Wyszukaj lub wpisz polecenie (Ctrl + G)
+,pl,Maintenance Schedule,Harmonogram serwisowy
+,pl,Work In Progress,W toku
+,pl,Strong,Silne
+,pl,Weak,Słabe
+,pl,Maintenance User,Użytkownik serwisowy
+,pl,Share,Wspódzielenie
+,pl,Delivery User,Użytkownik ds. dostaw
+,pl,Delivery Manager,Kierownik ds. dostaw
+,pl,Menedżer przestrzeni roboczej,Menedżer przestrzeni roboczej
+,pl,In Words (Company Currency),W słowach (waluta firmy)
+e3a1443bde,pl,Show Title in Link Fields,Pokaż tytuł w polach linków
+e3b3d77707,pl,Offset Y,Offset Y
+e3e072bc03,pl,Add Corrective Operation Cost in Finished Good Valuation,Dodanie kosztu operacji naprawczych w wycenie wyrobów gotowych
+e3fd70576b,pl,ascending,rosnący
+e40c7fb712,pl,Capture,Przechwytywanie
+e4318d431b,pl,"Invalid """"mandatory_depends_on"""" expression","Nieprawidłowe wyrażenie """"mandatory_depends_on"
+e4318e356a,pl,Goal progress percentage cannot be more than 100.,Procent postępu celu nie może przekraczać 100.
+e458d26a43,pl,Submitted,Zatwierdzone
+e464ed15d1,pl,Manage third party apps,Zarządzanie aplikacjami innych firm
+e49017538f,pl,Queued At,W kolejce
+e496bf6f87,pl,Request Method,Metoda żądania
+e4e51865ba,pl,Introduction to Buying,Wprowadzenia do zakupów
+e4ea7dc5d1,pl,"The percentage you are allowed to transfer more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed transfer 110 units.","Wartość procentowa, o jaką użytkownik może przenieść więcej w stosunku do zamówionej ilości. Na przykład, jeśli zamówiłeś 100 jednostek, a Twój przydział wynosi 10%, możesz przenieść 110 jednostek."
+e521f592b8,pl,Allocate on Day,Przydział w dniu
+e52431283f,pl,Default User Role,Domyślna rola użytkownika
+e564766a23,pl,Select Interview Round First,Najpierw wybierz rundę wywiadu
+e56644a522,pl,Please set {0} for the Employee: {1},Ustaw {0} dla pracownika: {1}
+e57c8f92f1,pl,DocType Layout,Układ DocType
+e58b43e733,pl,Please click on the following link and follow the instructions on the page. {0},Kliknij poniższy link i postępuj zgodnie z instrukcjami na stronie. {0}
+e59ccf1e80,pl,Automated Message,Automatyczna wiadomość
+e5bac55699,pl,Add Background Image,Dodaj obraz tła
+e5be7f48b3,pl,An 80G Certificate {0} already exists for the donation {1},Certyfikat 80G {0} już istnieje dla darowizny {1}.
+e5c78c9312,pl,TEXT,tekst
+e5d0f5eac8,pl,edited this,edytował to
+e5d2967496,pl,Timelines,Linie czasowe
+e5d9f939b3,pl,Updating Opening Balances,Aktualizacja bilansu otwarcia
+e63c962901,pl,Force Stop job,Wymuś zatrzymanie zadania
+e64f625e55,pl,#{0},#{0}
+e6b395cafd,pl,Image link '{0}' is not valid,"Link do obrazu """"{0}"""" jest nieprawidłowy"
+e6d3c35018,pl,Unsettled,Nierozstrzygnięty
+e6d4dcea56,pl,Enabling auto reply on an incoming email account will send automated replies to all the synchronized emails. Do you wish to continue?,Włączenie automatycznej odpowiedzi na przychodzące konto e-mail spowoduje wysłanie automatycznych odpowiedzi na wszystkie zsynchronizowane wiadomości e-mail. Czy chcesz kontynuować?
+e7124b4713,pl,Go to this URL after completing the form,Po wypełnieniu formularza przejdź pod ten adres URL
+e71d06b077,pl,Please clear the Payment Schedule Table,Wyczyść tabelę harmonogramu płatności
+e73f634626,pl,Retained,Zachowane
+e76529e2a4,pl,Purpose,Cel
+e78a733c68,pl,Under Review,W trakcie przeglądu
+e79541d61c,pl,Workspace Link,Łącze obszaru roboczego
+e7980d6c05,pl,Encryption key is in invalid format!,Klucz szyfrowania ma nieprawidłowy format!
+e7c06c713c,pl,Employee records are created using the selected option,Rekordy pracowników są tworzone przy użyciu wybranej opcji
+e7f2c21ddb,pl,Mobile number with country code,Numer telefonu komórkowego z kodem kraju
+e7fef103e7,pl,Contact & Address,Kontakt i adres
+e8011a189e,pl,review,przegląd
+e80af02363,pl,"Inventory, Warehouses, Analysis, and more.","Zapasy, magazyny, analizy i wiele innych."
+e80fa742e8,pl,Gross Year To Date,Brutto od początku roku
+e81846151b,pl,finished,zakończony
+e84330dcee,pl,Default Email Template,Domyślny szablon wiadomości e-mail
+e8557eb0e4,pl,Add a Note,Dodaj notatkę
+e85ed79d3f,pl,URL must start with http:// or https://,Adres URL musi zaczynać się od http:// lub https://
+e85ff99d7d,pl,Save the document.,Zapisz dokument.
+e8720f1a84,pl,Visibility,Widoczność
+e874e300c3,pl,MIT License,Licencja MIT
+e8aae78f98,pl,% Utilization (B + NB) / T,% wykorzystania (B + NB) / T
+e8bf5e4e26,pl,Work References,Referencje dotyczące pracy
+e8c34a151d,pl,{0} records are retained for {1} days.,{0} rekordów jest przechowywanych przez {1} dni.
+e8ce8bcda7,pl,Partly Claimed and Returned,Częściowo odebrane i zwrócone
+e8ef75265d,pl,Completed On,Ukończono dnia
+e9211f24a8,pl,Messages,Wiadomości
+e93fccad32,pl,A file with same name {} already exists,Plik o tej samej nazwie {} już istnieje
+e99c4a1515,pl,Sales Pipeline Analytics,Analityka potencjału sprzedaży
+e9b3296eac,pl,Reset Password Link Expiry Duration,Czas wygaśnięcia łącza resetowania hasła
+e9c9b14f1c,pl,View your response,Wyświetl swoją odpowiedź
+e9f55dbaa8,pl,{0} ({1}),{0} ({1})
+ea4a577935,pl,Get OpenID Configuration,Pobierz konfigurację OpenID
+ea7df5aa63,pl,Group Object Class,Klasa obiektu grupy
+ea982fcffa,pl,Auto Account Deletion within (Hours),Automatyczne usunięcie konta w ciągu (godzin)
+eaa492bef8,pl,Kanban Board,Tablica Kanban
+eac765b080,pl,Link To in Row,Link do w wierszu
+eaedb551da,pl,this form,ten formularz
+eb12aa34d7,pl,Success URI,Success URI
+eb442c8d17,pl,Please set the relieving date for employee {0},Ustaw datę zwolnienia dla pracownika {0}.
+eb4c1f1b36,pl,"Mandatory fields required in table Items, Row 1","Pola obowiązkowe wymagane w tabeli Produkty, wiersz 1"
+eb8f82ed7a,pl,Calculate Product Bundle Price based on Child Items' Rates,Oblicz cenę pakietu produktów na podstawie stawek elementów podrzędnych
+ebdb5995b6,pl,"To set the role {0} in the user {1}, kindly set the {2} field as {3} in one of the {4} record.","Aby ustawić rolę {0} w użytkowniku {1}, należy ustawić pole {2} jako {3} w jednym z rekordów {4}."
+ebdef6c417,pl,DocType State,DocType State
+ec177fd7bf,pl,Group goal's progress is auto-calculated based on the child goals.,Postęp celu grupowego jest obliczany automatycznie na podstawie celów dziecka.
+ec2c6d4ae6,pl,Configure the default Price List when creating a new Sales transaction. Item prices will be fetched from this Price List.,Konfiguruje domyślny cennik podczas tworzenia nowej transakcji sprzedaży. Ceny pozycji będą pobierane z tego cennika.
+ec2ec742ff,pl,Bonus,Bonus
+ec47d35415,pl,Calculate Gratuity Amount Based On,Oblicz kwotę gratyfikacji na podstawie
+ec5f8ba34e,pl,{0} of {1} sent,{0} z {1} wysłane
+ec6ff1efdf,pl,Frappe Support,Wsparcie Frappe
+ecafa2d24a,pl,NPO-80G-.YYYY.-,NPO-80G-.YYYY.-
+eccc912ac0,pl,Marking Attendance,Oznaczanie obecności
+ecdef7bf6c,pl,My Device,Moje urządzenie
+eced047006,pl,Max Height,Maksymalna wysokość
+ed0314043d,pl,Open Tasks,Otwarte zadania
+ed0df91828,pl,Create an Item,Utwórz element
+ed1e455a36,pl,Select the Employee.,Wybierz pracownika.
+ed3b6eb26b,pl,No {0},No {0}
+ed575cac21,pl,Maximum Leave Allocation Allowed,Maksymalny dozwolony przydział urlopu
+ed61ec51fb,pl,Cancel All,Anuluj wszystko
+edcba3317a,pl,The page you are looking for has gone missing.,"Strona, której szukasz, zniknęła."
+eddee7bc6e,pl,RazorPay Settings for Memberships,Ustawienia RazorPay dla członkostwa
+ee6fb58ebe,pl,RQ Job,RQ Job
+ee72d8cd0e,pl,Customize Form - {0},Dostosuj formularz - {0}
+ee761b67a6,pl,Don't create a new user,Nie twórz nowego użytkownika
+ee768a8766,pl,Total percentage against cost centers should be 100,Całkowity procent w stosunku do centrów kosztów powinien wynosić 100
+ee90e9321f,pl,print-format-builder-beta,print-format-builder-beta
+eea7d17b64,pl,Dashboard Manager,Menadżer pulpitu
+eeee348134,pl,No open event,Brak otwartych wydarzeń
+ef30adc05d,pl,Create Interview,Tworzenie wywiadu
+ef88afe027,pl,Disable Document Sharing,Wyłącz udostępnianie dokumentów
+ef8f5a504f,pl,Cancel Scheduling,Anuluj planowanie
+efb8d1f31a,pl,Document renaming from {0} to {1} has been queued,Zmiana nazwy dokumentu z {0} na {1} została umieszczona w kolejce.
+efd2a85204,pl,Territory Wise Sales,Sprzedaż terytorialna
+efdca06c27,pl,{0} cancelled this document {1},{0} anulował ten dokument {1}
+f00f63cdba,pl,Mark attendance as {0} for {1} on selected dates?,Oznaczyć obecność jako {0} dla {1} w wybranych dniach?
+f01960af4a,pl,Current Job ID,Aktualny identyfikator stanowiska
+f0403304c1,pl,Unrealized Profit / Loss Account,Niezrealizowany rachunek zysków i strat
+f0644a1277,pl,Brute Force Security,Zabezpieczenia Brute Force
+f06bd265a5,pl,Edit Full Form,Edytuj cały formularz
+f06be1f4cb,pl,Folio,Folio
+f07bd832c4,pl,Force Re-route to Default View,Wymuś przekierowanie do widoku domyślnego
+f080fbc296,pl,Schedule sending at a later time,Zaplanuj wysyłanie w późniejszym czasie
+f0ad04a54b,pl,Let us continue with the onboarding,Kontynuujmy proces wdrażania
+f0bd100b88,pl,Tax Exemption Declaration,Deklaracja zwolnienia z podatku
+f0c28916a1,pl,Memberships,Członkostwo
+f0dc93c8c7,pl,Transaction Settings,Ustawienia transakcji
+f0e232ec23,pl,Image Height,Wysokość obrazu
+f0e7afc7f8,pl,Maintenance,Utrzymanie
+f0fbab3d2c,pl,Investigated,Dochodzenie
+f10fd61b7c,pl,Odometer Value,Wartość licznika kilometrów
+f13218f3bf,pl,To Deliver,Do dostarczenia
+f17f6c2acd,pl,A Job Requisition for {0} requested by {1} already exists: {2},Zapotrzebowanie na pracę dla {0} zgłoszone przez {1} już istnieje: {2}
+f191e57296,pl,Trial Balance for Party,Bilans próbny dla strony
+f204d5170c,pl,Re:,Re:
+f21de8ef3d,pl,Lakh,Lakh
+f22874ad31,pl,CSS selector for the element you want to highlight.,"Selektor CSS dla elementu, który ma zostać podświetlony."
+f241bae295,pl,Total Billing Hours,Łączna liczba godzin rozliczeniowych
+f264dc475c,pl,Thank you for spending your valuable time to fill this form,Dziękujemy za poświęcenie cennego czasu na wypełnienie tego formularza
+f2d769780e,pl,Amount should not be less than zero,Kwota nie powinna być mniejsza niż zero
+f3225ab06d,pl,Print Format Field Template,Szablon pola formatu wydruku
+f325b4b322,pl,Upper Range,Górny zakres
+f369d31b2e,pl,Implement `clear_old_logs` method to enable auto error clearing.,"Zaimplementowano metodę `clear_old_logs`, aby umożliwić automatyczne usuwanie błędów."
+f38c15d71e,pl,Cannot mark attendance for an Inactive employee {0},Nie można oznaczyć obecności dla nieaktywnego pracownika {0}.
+f38f871eb2,pl,Over Order Allowance (%),Zezwolenie na przekroczenie zamówienia (%)
+f3f176cc77,pl,Too many changes to database in single action.,Zbyt wiele zmian w bazie danych w jednej akcji.
+f40cbbfa88,pl,This employee has not received any feedback yet,Ten pracownik nie otrzymał jeszcze żadnej opinii
+f4491605b2,pl,You hit the rate limit because of too many requests. Please try after sometime.,Osiągnięto limit szybkości z powodu zbyt wielu żądań. Spróbuj ponownie za jakiś czas.
+f44bb2554c,pl,new-quotation-1,nowa-wycena-1
+f45ac6e09c,pl,Open,Otwarte
+f45fb99120,pl,Search for countries...,Wyszukiwanie krajów...
+f46f617dfa,pl,Remove if Zero Valued,"Usuń, jeśli wartość wynosi zero"
+f47d678ece,pl,Report limit reached,Osiągnięto limit raportów
+f4a4cb94bb,pl,Attendance marked successfully,Obecność oznaczona pomyślnie
+f4b21064a8,pl,Request Headers,Nagłówki żądań
+f4d8515756,pl,Invalid state.,Nieprawidłowy stan.
+f50fee229d,pl,Inter Transfer Reference,Odniesienie do transferu wewnętrznego
+f512719085,pl,All Activities,Wszystkie aktywności
+f554a8ea52,pl,Questionnaire Email Sent,Kwestionariusz wysłany pocztą elektroniczną
+f559e36764,pl,Grievance Against,Skarga przeciwko
+f56c654743,pl,Custom Document Types Limit Exceeded,Przekroczono limit niestandardowych typów dokumentów
+f5977838d5,pl,Your browser does not support the audio element.,Twoja przeglądarka nie obsługuje elementu audio.
+f5afe74988,pl,Failed to delete defaults for country {0}. Please contact support.,Nie udało się usunąć ustawień domyślnych dla kraju {0}. Skontaktuj się z pomocą techniczną.
+f5b4d6908b,pl,Warning: Updating counter may lead to document name conflicts if not done properly,"Ostrzeżenie: Aktualizacja licznika może prowadzić do konfliktów nazw dokumentów, jeśli nie zostanie wykonana prawidłowo."
+f5e506ad9d,pl,Previous,Poprzedni
+f6056eeafb,pl,Average Rating,Średnia ocena
+f614d78388,pl,Actual Time (in Hours via Time Sheet),Rzeczywisty czas (w godzinach za pośrednictwem karty czasu pracy)
+f619a3a819,pl,Switch Theme,Motyw Switch
+f67fe3c482,pl,Filtered By,Filtrowane przez
+f6acf7e5a8,pl,Automated Based on Goal Progress,Automatyzacja na podstawie postępów w realizacji celów
+f6b7373a74,pl,"string value, i.e. group","wartość łańcuchowa, tj. grupa"
+f6b7fa998b,pl,Appraisal {0} already exists for Employee {1} for this Appraisal Cycle or overlapping period,Ocena {0} już istnieje dla Pracownika {1} dla tego Cyklu Oceny lub pokrywającego się okresu.
+f6b9196057,pl,"Help: To link to another record in the system, use """"/app/note/[Note Name]"""" as the Link URL. (don't use """"http://"""")","Pomoc: Aby połączyć się z innym rekordem w systemie, użyj """"/app/note/[nazwa notatki]"""" jako adresu URL łącza. (nie używaj """"http://"""")."
+f6e30ad142,pl,Self Score,Wynik własny
+f6e84f652b,pl,"Custom Group Search if filled needs to contain the user placeholder {0}, eg uid={0},ou=users,dc=example,dc=com","Niestandardowe wyszukiwanie grup, jeśli jest wypełnione, musi zawierać symbol zastępczy użytkownika {0}, np. uid={0},ou=users,dc=example,dc=com"
+f7757c6559,pl,Profit,Zysk
+f7976837ad,pl,The limit has not set for the user type {0} in the site config file.,Limit nie został ustawiony dla użytkownika typu {0} w pliku konfiguracyjnym witryny.
+f79fc36dfc,pl,Change Print Format,Zmiana formatu wydruku
+f7a81455c8,pl,This newsletter is scheduled to be sent on {0},Wysyłka tego biuletynu została zaplanowana na {0}.
+f80d3f02ed,pl,Customer Defaults,Domyślne ustawienia klienta
+f822882a6a,pl,This form is not editable due to a Workflow.,Tego formularza nie można edytować z powodu przepływu pracy.
+f82345ff59,pl,Default Provisional Account,Domyślne konto tymczasowe
+f841e9bec2,pl,User Document Type,Typ dokumentu użytkownika
+f855e89089,pl,Autocomplete,Autouzupełnianie
+f8601dd4ab,pl,Internal Customer,Klient wewnętrzny
+f8744fc975,pl,Note: Your request for account deletion will be fulfilled within {0} hours.,Uwaga: Twoja prośba o usunięcie konta zostanie zrealizowana w ciągu {0} godzin.
+f87ede367b,pl,To apply for a Half Day check 'Half Day' and select the Half Day Date,"Aby ubiegać się o pół dnia, zaznacz opcję """"Pół dnia"""" i wybierz datę pół dnia."
+f88ffb911d,pl,Prospect,Prospekt
+f8b17c9cfe,pl,Your form has been successfully updated,Twój formularz został pomyślnie zaktualizowany
+f8b65d7780,pl,Failed to generate preview of series,Nie udało się wygenerować podglądu serii
+f8d3e03f29,pl,Options for Rating field can range from 3 to 10,Opcje dla pola Rating mogą wynosić od 3 do 10
+f8dcf74210,pl,Update Hooks Resolution Order,Zaktualizuj kolejność rozstrzygania haków
+f8e96e2608,pl,WhatsApp Notification Log,Dziennik powiadomień WhatsApp
+f8f243d031,pl,WhatsApp Template requires document,Szablon WhatsApp wymaga dokumentu
+f9037776b2,pl,"Yes, Proceed","Tak, kontynuuj"
+f96f6d059a,pl,Document Links Row #{0}: Invalid doctype or fieldname.,Łącza dokumentu Wiersz #{0}: Nieprawidłowy doctype lub nazwa pola.
+f98f4421ce,pl,Interview Type,Typ wywiadu
+f9d5bf5c26,pl,Merge Similar Account Heads,Scalanie podobnych nagłówków kont
+f9dd25a31c,pl,Go to Notification Settings List,Przejdź do listy ustawień powiadomień
+f9e3664f0b,pl,Total Outgoing Payment,Całkowita płatność wychodząca
+fa4bbcdb73,pl,Do not create new user if user with email does not exist in the system,"Nie twórz nowego użytkownika, jeśli użytkownik z adresem e-mail nie istnieje w systemie."
+fa888e994a,pl,For Designation,Do wyznaczenia
+fab283b6b0,pl,Filled,Wypełniony
+fabc76ba0c,pl,Total:,Łącznie:
+fac101edb3,pl,No Applicable Component is present in last month salary slip,Nie dotyczy Składnik jest obecny na odcinku wynagrodzenia z ostatniego miesiąca
+face0edaaa,pl,out of,z
+fad0c7a2b3,pl,Could not update progress,Nie można zaktualizować postępu
+fae7867642,pl,Employee Responsible,Odpowiedzialny pracownik
+faebfb3de1,pl,Disable Change Log Notification,Wyłączanie powiadomień dziennika zmian
+faec64bdbf,pl,Payment Reconciliations,Uzgodnienia płatności
+fb07cccf2c,pl,Time Tracking,Śledzenie czasu
+fb1c9134be,pl,Not Helpful,Nie przydatne
+fb6100d062,pl,Minor,Mniejszy
+fb95baa9be,pl,Missing Field,Brakujące pole
+fb96f121cf,pl,UI Tour,UI Tour
+fbad129d82,pl,Send a request to delete your account,Wyślij prośbę o usunięcie konta
+fbc7c93432,pl,Add a row above the current row,Dodanie wiersza powyżej bieżącego wiersza
+fbd2e926ec,pl,Start Workspace,Uruchom przestrzeń roboczą
+fbd6607746,pl,View Blog Post,Zobacz wpis na blogu
+fc171a828d,pl,Error in Client Script.,Błąd w skrypcie klienta.
+fc2f70130b,pl,Please remove the printer mapping in Printer Settings and try again.,Usuń mapowanie drukarki w Ustawieniach drukarki i spróbuj ponownie.
+fc3ae8f085,pl,Only reports of type Report Builder can be deleted,Usuwane mogą być tylko raporty typu Report Builder
+fc4761fdf6,pl,KRA Evaluation Method,Metoda oceny KRA
+fc4afc5b25,pl,Toggle Theme,Przełączanie motywu
+fc60f8ff36,pl,Delete {0} item permanently?,Usunąć {0} element na stałe?
+fc78d0dbad,pl,Please setup default outgoing Email Account from Settings > Email Account,Skonfiguruj domyślne wychodzące konto e-mail w Ustawienia > Konto e-mail.
+fca0da6e14,pl,Add Feedback,Dodaj opinię
+fcb15fa514,pl,Fetching...,Pobieranie...
+fcc873cca7,pl,{0} is a not a valid zip file,{0} nie jest prawidłowym plikiem zip
+fcc8d49908,pl,Exit Confirmed,Wyjście potwierdzone
+fd5369eb51,pl,Failed to send notification email,Nie udało się wysłać powiadomienia e-mail
+fd542e4c84,pl,To allow more reports update limit in System Settings.,Aby zezwolić na więcej limitów aktualizacji raportów w Ustawieniach systemu.
+fd58823dc8,pl,Interview Details,Szczegóły wywiadu
+fd58bacdac,pl,Get Memberships,Uzyskaj członkostwo
+fd84458f01,pl,DocType Layout Field,Pole układu DocType
+fd903583a9,pl,Only Interviews with Cleared or Rejected status can be submitted.,Można przesyłać tylko rozmowy kwalifikacyjne ze statusem Cleared lub Rejected.
+fdad61646e,pl,Get Backup Encryption Key,Pobierz klucz szyfrowania kopii zapasowej
+fde47f79dc,pl,Length of passed data array is greater than value of maximum allowed label points!,Długość przekazanej tablicy danych jest większa niż wartość maksymalnych dozwolonych punktów etykiety!
+fe045bc184,pl,"IDs must contain only alphanumeric characters, not contain spaces, and should be unique.","Identyfikatory muszą zawierać tylko znaki alfanumeryczne, nie mogą zawierać spacji i powinny być unikalne."
+fe110b0bf4,pl,AUTHENTICATION,AUTENTYFIKACJA
+fe17cb46d8,pl,Google Authentication Error,Błąd uwierzytelniania Google
+fe3e0d1ccf,pl,Full and Final Outstanding Statement,Pełne i ostateczne oświadczenie o zaległościach
+fe4592e490,pl,NPO-DTN-.YYYY.-,NPO-DTN-.YYYY.-
+fe57b5ac3d,pl,"It’s an entry to update the stock balance of an item, in a warehouse, on a date and time you are going live on ERPNext.","Jest to wpis służący do aktualizacji stanu magazynowego artykułu w magazynie, w dniu i czasie, w którym zostanie on uruchomiony w ERPNext."
+fe79e9138e,pl,Revocation URI,URI odwołania
+fe82a7efb9,pl,{} does not support automated log clearing.,{} nie obsługuje automatycznego czyszczenia dziennika.
+fe8df4441e,pl,Completed By User,Ukończone przez użytkownika
+feacb6d264,pl,Auto Reconcile Payments,Automatyczne uzgadnianie płatności
+feb4466238,pl,OTP Secret Reset - {0},OTP Secret Reset - {0}
+fee2d8d293,pl,Allow Sending Usage Data for Improving Applications,Zezwalaj na wysyłanie danych o użytkowaniu w celu ulepszania aplikacji
+ff588ba9ad,pl,Kanban View,Widok Kanban
+ff715e838e,pl,Employee Cost Center,Centrum kosztów pracowniczych
+ffdcb1f038,pl,Separation Activities,Działania związane z separacją
+ffec1d7d1e,pl,Create Leave Application,Tworzenie wniosku o urlop
+fffd56b11c,pl,Employee {0} already has an active Shift {1}: {2} that overlaps within this period.,"Pracownik {0} ma już aktywną zmianę {1}: {2}, która pokrywa się z tym okresem."
+,pl,"Payment Entry {0} is linked against Order {1}, check if it should be pulled as advance in this invoice.","Wpis płatności {0} jest powiązany z zamówieniem {1}. Sprawdź, czy powinien zostać pobrany z góry na tej fakturze."
+,pl,Routing,Przebieg trasy
+,pl,Manufacture,Produkcja
+0015b7dc2d,pl,"Mandatory fields required in table Items, Row 1"",Pola obowiązkowe wymagane w tabeli Produkty"," wiersz 1"""
+0026aaefac,pl,Total Income Tax,Podatek dochodowy ogółem
+00278cb701,pl,Please select a company first.,Najpierw wybierz firmę.
+00465cc6e5,pl,Hey {}! This email is to remind you about the upcoming holidays.,Hej {}! Ten e-mail ma na celu przypomnienie o zbliżających się świętach.
+005e7d7bc6,pl,Earned Leaves are allocated as per the configured frequency via scheduler.,Zdobyte urlopy są przydzielane zgodnie ze skonfigurowaną częstotliwością za pośrednictwem harmonogramu.
+00758d8d13,pl,Employees without Goals: {0},Pracownicy bez celów: {0}
+0076b24ca5,pl,Show Saved,Pokaż zapisane
+008cb3377d,pl,OAuth,OAuth
+0090d86b1d,pl,Series,Seria
+00a0372a60,pl,Please select the LDAP Directory being used,Wybierz używany katalog LDAP
+00a07e467a,pl,No of Employees,Liczba pracowników
+00a77c314c,pl,Only Interviewer Are allowed to submit Interview Feedback,Tylko ankieter może przesłać opinię z wywiadu
+00d4a9eb3f,pl,Enable Scheduler,Włącz harmonogram
+00e01ecd7d,pl,1 of 2,1 z 2
+00e18a6f72,pl,"For multiple addresses, enter the address on different line. e.g. test@test.com ⏎ test1@test.com","W przypadku wielu adresów, wprowadź adres w innym wierszu, np. test@test.com ⏎ test1@test.com"
+01041b80ee,pl,"OAuth has been enabled but not authorised. Please use """"Authorise API Access"""" button to do the same.","OAuth został włączony, ale nie autoryzowany. Aby to zrobić, użyj przycisku """"Autoryzuj dostęp API""""."
+010bcb6cc8,pl,Exit Questionnaire Web Form,Kwestionariusz wyjścia - formularz internetowy
+010c224e5c,pl,Buying & Selling Settings,Zakupy & Sprzedaż ustawienia
+0110a89a95,pl,Appraisal Overview,Przegląd ocen
+011293a777,pl,Margin,Marża
+011a9e4f6c,pl,Deduction from Salary,Potrącenie z wynagrodzenia
+013bd0c3d3,pl,Role Allowed to Override Stop Action,Rola uprawniona do zastąpienia akcji zatrzymania
+0140041e27,pl,Donations,Darowizny
+0143278994,pl,Custom HTML Block,Niestandardowy blok HTML
+017168eef9,pl,Function {0} is not whitelisted.,Funkcja {0} nie znajduje się na białej liście.
+0174bf9a01,pl,Create Holiday List,Utwórz listę świąt
+0178f2a989,pl,{count} rows selected,{liczba} wybranych wierszy
+0183ad67b1,pl,No Requests found,Nie znaleziono żadnych żądań
+01c620faea,pl,Commercial Rounding,Zaokrąglanie komercyjne
+01cbd6cfb4,pl,Are you sure you want to proceed?,Czy na pewno chcesz kontynuować?
+01e9687b83,pl,Review Chart of Accounts,Przegląd planu kont
+01fc65a2e7,pl,Please enter your old password.,Wprowadź stare hasło.
+020078bb67,pl,You have to enable Two Factor Auth from System Settings.,Musisz włączyć uwierzytelnianie dwuskładnikowe w Ustawieniach systemowych.
+022a521849,pl,Set only once,Ustawione tylko raz
+022b6d8f38,pl,Employee Referrals,Polecenia pracowników
+022d3c0a5b,pl,Inavlid Values,Wartości Inavlid
+022f0b0e59,pl,Sales Invoice created successfully,Faktura sprzedaży utworzona pomyślnie
+022f90f78b,pl,Invoice ID,Identyfikator faktury
+02315d5799,pl,{count} cell copied,{liczba} skopiowanych komórek
+027801a017,pl,Member with Razorpay Subscription ID {0} not found,Członek z identyfikatorem subskrypcji Razorpay {0} nie został znaleziony
+0285bbaeea,pl,Item Price Settings,Ustawienia ceny przedmiotu
+0337d9325b,pl,Choose a color,Wybierz kolor
+,pl,OR,LUB
+0344c978f4,pl,Consolidate Leave Types,Konsolidacja typów urlopów
+035bf1e7d4,pl,Paid via Salary Slip,Płatne za pomocą odcinka wynagrodzenia
+036930f9ca,pl,Branch: {0},Oddział: {0}
+03787ad4dc,pl,No employees found with selected filters and active salary structure,Nie znaleziono pracowników z wybranymi filtrami i aktywną strukturą wynagrodzeń
+037ea8d29c,pl,Brand Logo,Logo marki
+038e42d4f5,pl,User Role,Rola użytkownika
+03a52d9a60,pl,Do not have permission to access bucket {0}.,Nie masz uprawnień dostępu do zasobnika {0}.
+03a7ad99bd,pl,Bulk Edit,Edycja zbiorcza
+03ce461e5e,pl,Subsidiary companies have already planned for {1} vacancies at a budget of {2}. Staffing Plan for {0} should allocate more vacancies and budget for {3} than planned for its subsidiary companies,Spółki zależne zaplanowały już {1} wakatów przy budżecie {2}. Plan zatrudnienia dla {0} powinien przewidywać więcej wakatów i budżet na {3} niż zaplanowano dla spółek zależnych.
+03e3b45550,pl,Billed Hours (B),Naliczone godziny (B)
+040d202b8d,pl,Enter the number of leaves you want to allocate for the period.,"Wprowadź liczbę urlopów, które chcesz przydzielić na dany okres."
+042b490fcf,pl,Select Workspace,Wybierz obszar roboczy
+042d66afa7,pl,UTILITY,UŻYTECZNOŚĆ
+043e167dc4,pl,Confirm Deletion of Account,Potwierdzenie usunięcia konta
+0444ebed3d,pl,Login with username and password is not allowed.,Logowanie przy użyciu nazwy użytkownika i hasła jest niedozwolone.
+044e1e41dd,pl,Delivery Note has been submitted successfully,Potwierdzenie dostawy zostało przesłane pomyślnie
+0454d5650f,pl,Membership Payment To,Płatność członkowska do
+04c87a71aa,pl,If you have recently restored the site you may need to copy the site config contaning original Encryption Key.,"Jeśli niedawno przywróciłeś witrynę, może być konieczne skopiowanie konfiguracji witryny zawierającej oryginalny klucz szyfrowania."
+053a73c3d3,pl,Allow Over Allocation,Zezwalaj na nadmierną alokację
+0560ac0a01,pl,Please select an Applicant,Wybierz wnioskodawcę
+0561521e44,pl,Let’s convert your first Sales Order against a Quotation,Przekonwertujmy pierwsze zlecenie sprzedaży na ofertę cenową
+056346c24b,pl,Added On,Dodano na
+056d425e8d,pl,Read Only Depends On (JS),Tylko do odczytu Zależy od (JS)
+05726fd4d5,pl,Queue,Ogon
+05a334305f,pl,Appraisal Cycle,Cykl oceny
+05afff2a79,pl,Repeat,Powtórz
+05d2845dda,pl,{0} from {1} to {2},{0} od {1} do {2}
+05e1e240cc,pl,Total Amount can not be zero,Całkowita kwota nie może wynosić zero
+0626208088,pl,Exit Interview Pending,Rozmowa kwalifikacyjna w toku
+0632b5e28d,pl,Method is required to create a number card,Do utworzenia karty numerycznej wymagana jest metoda
+069aa6919c,pl,"Blogs, Website View Tracking, and more.","Blogi, śledzenie wyświetleń witryny i nie tylko."
+06b6acbcf3,pl,Allow Continuous Material Consumption,Zezwalaj na ciągłe zużycie materiału
+06ca227d32,pl,Dark Theme,Ciemny motyw
+072dc4bc8f,pl,Is Virtual,Czy wirtualny
+072ec88a03,pl,Allow Excess Material Transfer,Zezwalaj na transfer nadmiaru materiału
+0745fb9717,pl,Dismiss,Pomiń
+074969319d,pl,Report {0} deleted,Raport {0} usunięty
+075d37b360,pl,Select Page,Wybierz stronę
+078bbeec8c,pl,Page with title {0} already exist.,Strona o tytule {0} już istnieje.
+079d1dfdd4,pl,Comm10E,Comm10E
+07b5aa720b,pl,Gross Pay (Company Currency),Wynagrodzenie brutto (waluta firmowa)
+07e121eb42,pl,Workspaces,Przestrzenie robocze
+07ea68ff78,pl,Primary Mobile,Główny telefon komórkowy
+084d1214a4,pl,No changes to sync,Brak zmian w synchronizacji
+085a89ecea,pl,This site is running in developer mode. Any change made here will be updated in code.,Ta strona działa w trybie deweloperskim. Wszelkie zmiany wprowadzone tutaj zostaną zaktualizowane w kodzie.
+08858daced,pl,Print Format Name,Nazwa formatu wydruku
+08a8e5469f,pl,HR & Payroll Settings,Ustawienia kadr i płac
+08bcbb45bd,pl,Joining,Dołączenie
+08c74fdd5b,pl,You can only plan for upto {0} vacancies and budget {1} for {2} as per staffing plan {3} for parent company {4}.,Możesz zaplanować tylko do {0} wakatów i budżet {1} dla {2} zgodnie z planem zatrudnienia {3} dla firmy macierzystej {4}.
+08f71ecc0c,pl,Python,Python
+090afcaf42,pl,Probation,Zwolnienie
+091450e2a8,pl,{0} records are not automatically deleted.,Rekordy {0} nie są automatycznie usuwane.
+09371844db,pl,Optional Leaves are holidays that Employees can choose to avail from a list of holidays published by the company.,"Urlopy fakultatywne to dni wolne od pracy, które pracownicy mogą wybrać z listy dni wolnych opublikowanej przez firmę."
+09b56c0bad,pl,Export as zip,Eksportuj jako zip
+09cab4fc9c,pl,Prospect Owner,Właściciel prospektu
+09d692d557,pl,Set Up a Company,Załóż firmę
+09e879a726,pl,Log Index,Indeks dziennika
+09fe7dce9a,pl,Sheet,Arkusz
+0a04ca6a51,pl,Executive,Wykonawczy
+0a16f140f7,pl,Next Step Condition,Warunek następnego kroku
+0a22159b89,pl,Your verification code is {0},Twój kod weryfikacyjny to {0}.
+0a521f7189,pl,Log out,Wylogowanie
+0a5bf39882,pl,Redo last action,Ponów ostatnią akcję
+0a6c2c15bb,pl,User does not have permission to create the new {0},Użytkownik nie ma uprawnień do utworzenia nowego {0}
+0a700e5014,pl,Cannot change docstatus from 1 (Submitted) to 0 (Draft),Nie można zmienić statusu dokumentu z 1 (przesłany) na 0 (wersja robocza).
+0a7373ce30,pl,"LDAP Search String must be enclosed in '()' and needs to contian the user placeholder {0}, eg sAMAccountName={0}","Ciąg wyszukiwania LDAP musi być zamknięty w """"()"""" i musi zawierać symbol zastępczy użytkownika {0}, np. sAMAccountName={0}"
+0ab5212630,pl,Payment and Accounting,Płatności i księgowość
+0ad97bbc2e,pl,Choose an icon,Wybierz ikonę
+0ad9f12c0b,pl,Duplicate current row,Duplikat bieżącego wiersza
+0af42afc44,pl,Existing Record,Istniejący rekord
+0af83ef5b1,pl,Employee name,Imię i nazwisko pracownika
+0afe7369ea,pl,Page Title,Tytuł strony
+0b2e5ca581,pl,Update Series Counter,Aktualizacja licznika serii
+0b5ea34f89,pl,Configure columns for {0},Skonfiguruj kolumny dla {0}
+0b7b63f2cc,pl,Goal Score (%),Wynik docelowy (%)
+0bb9e578d4,pl,Queue(s),Ogon(y)
+0bc4a8ed25,pl,Database Storage Usage By Tables,Wykorzystanie pamięci bazy danych przez tabele
+0bdf548542,pl,Reset Changes,Resetowanie zmian
+0be045fdce,pl,Experimental,Eksperymentalny
+0be4570f68,pl,Job Application Route,Ścieżka aplikacji o pracę
+0bef782f5a,pl,Split Early Payment Discount Loss into Income and Tax Loss,Podział straty z tytułu dyskonta przedterminowej płatności na stratę dochodową i podatkową
+0c0d7d4581,pl,User Document Types Limit Exceeded,Przekroczono limit typów dokumentów użytkownika
+0c117fbbc2,pl,Credit Limit Settings,Ustawienia limitu kredytowego
+0c2a87d840,pl,Separation Begins On,Separacja zaczyna się od
+0c304a5725,pl,Job Opening Associated,Związane z otwarciem pracy
+0c37e5dc40,pl,Apply User Permission On,Zastosuj uprawnienie użytkownika do
+0c3eac976f,pl,New Lead (Last 1 Month),Nowi potencjalni klienci (w ciągu ostatniego miesiąca)
+0c55addf86,pl,New Feedback,Nowe opinie
+0c6543482a,pl,Account for accepting membership payments,Konto do przyjmowania płatności członkowskich
+0c83505313,pl,Loan Manager,Menadżer pożyczek
+0c8b1763fc,pl,Is Table,Jest tablicą
+0ca4f3e114,pl,Tab Break,Tab Break
+0cb11e94d1,pl,This Donor Type will be set for the Donor created via Donation web form entry.,Ten typ darczyńcy zostanie ustawiony dla darczyńcy utworzonego za pomocą formularza internetowego darowizny.
+0cc429bc48,pl,Qualified,Zakwalifikowany
+0cd9c83dd6,pl,Interview Detail,Szczegóły wywiadu
+0ce4b15d5f,pl,Request Timeout,Limit czasu żądania
+0cea300ff9,pl,Effective To,Skuteczne do
+0cf0fec665,pl,Field Missing,Brakujące pole
+0cf8631bd2,pl,"If checked, then the system will enable the provision to set the opening balance for earnings and deductions till date while creating a Salary Structure Assignment (if any)","Jeśli zaznaczone, system umożliwi ustawienie bilansu otwarcia dla zarobków i potrąceń do dnia utworzenia Przypisania struktury wynagrodzeń (jeśli istnieje)"
+0d0360de49,pl,Upload the file as public. Whatsapp cannot access the private file.,Prześlij plik jako publiczny. Whatsapp nie może uzyskać dostępu do pliku prywatnego.
+0d0e2ef592,pl,Minimum Year for Gratuity,Minimalny rok dla gratyfikacji
+0d2ea43646,pl,Submit Now,Prześlij teraz
+0d46b00ca4,pl,Method Not Allowed,Niedozwolona metoda
+0d4a523590,pl,Generate 3 preview of names generate by any valid series.,Wygeneruj 3 podglądy nazw wygenerowanych przez dowolną prawidłową serię.
+0d5b318ecc,pl,Staffing Details,Szczegóły dotyczące personelu
+0d73ec5a4d,pl,Sidebar,Pasek boczny
+0d86f102ae,pl,Total Contribution Amount Against Orders:,Łączna kwota wkładu na poczet zamówień:
+0db0d53192,pl,Quick List Filter,Szybki filtr listy
+0db5112c0a,pl,Is Hidden,Jest ukryty
+0dbc67ec1a,pl,No employees found for the selected criteria,Nie znaleziono pracowników spełniających wybrane kryteria
+0dc66580d3,pl,just now,Właśnie teraz
+0dff2d0eae,pl,Document Share Key,Klucz udostępniania dokumentu
+0e068597d8,pl,Module Profile,Profil modułu
+0e0ac7feff,pl,Additional Information,Dodatkowe informacje
+0e18976093,pl,Goal should be aligned with the same KRA as its parent goal.,"Cel powinien być powiązany z tym samym KRA, co jego cel nadrzędny."
+0e3663736d,pl,{0} is not a zip file,{0} nie jest plikiem zip
+0e6dc9ced0,pl,Failed to enable scheduler: {0},Nie udało się włączyć harmonogramu: {0}
+0ea0efc857,pl,DateTime,DataCzas
+0ebdf66744,pl,Type of Chart,Typ wykresu
+0ec2f70a44,pl,Scripting,Skrypty
+0eca7c031c,pl,Key Result Area,Kluczowy obszar wyników
+0ecfb75a23,pl,Top Left,U góry po lewej
+0ed4f6a1fe,pl,Please submit the {0} before marking the cycle as Completed,Prześlij {0} przed oznaczeniem cyklu jako zakończony
+0ee95d09ab,pl,Failed to submit some leave policy assignments:,Nie przesłano niektórych zadań związanych z polityką urlopową:
+0ef2358b0d,pl,Put on Hold,Wstrzymane
+0f03a0ddf5,pl,Attendance date {0} can not be less than employee {1}'s joining date: {2},Data obecności {0} nie może być krótsza niż data dołączenia pracownika {1}: {2}
+0f3b4599e1,pl,Appraisal Template Missing,Brakujący szablon oceny
+0f4664a735,pl,Invalid Action,Nieprawidłowe działanie
+0f4a7ef4c5,pl,App Access Key,Klucz dostępu do aplikacji
+0f63a907d3,pl,Total Hours (T),Łączna liczba godzin (T)
+0f7aeaaee0,pl,DocType not supported by Log Settings.,DocType nie jest obsługiwany przez ustawienia dziennika.
+0f80266c84,pl,Enable Common Party Accounting,Włączenie rozliczania stron wspólnych
+0fa01893ec,pl,Journals,Czasopisma
+0fae17195a,pl,Gratuity Rule,Zasada Gratuity
+0fb083f2c9,pl,From Opportunity,Od szansy
+0fd6dd403d,pl,Job Requisition {0} has been associated with Job Opening {1},Zapotrzebowanie na pracę {0} zostało powiązane z otwarciem pracy {1}.
+0ff0313b10,pl,Scheduled Jobs Logs,Dzienniki zaplanowanych zadań
+100fdf8789,pl,Document Types (Select Permissions Only),Typy dokumentów (tylko wybrane uprawnienia)
+10182810a4,pl,{0} created this {1} ago,{1} Utworzony przez: {0}
+101d4a363c,pl,Always use this name as sender name,Zawsze używaj tej nazwy jako nazwy nadawcy
+1098d0e82e,pl,Add page break,Dodaj podział strony
+10bef39af9,pl,Obtained Average Rating,Uzyskana średnia ocena
+10cf0608a5,pl,Browse by category,Przeglądaj według kategorii
+10d79f2361,pl,Row {0}: From (Year) can not be greater than To (Year),Wiersz {0}: Wartość From (Year) nie może być większa niż wartość To (Year).
+10e7306227,pl,User does not exist.,Użytkownik nie istnieje.
+10f48e1488,pl,Backup Encryption Key,Klucz szyfrowania kopii zapasowej
+112ee44105,pl,Next Execution,Następne wykonanie
+11319cac73,pl,Tax Exemption 80G Certificate,Certyfikat zwolnienia z podatku 80G
+1135a8424c,pl,Enable Provisional Accounting For Non Stock Items,"Włącz księgowanie tymczasowe dla towarów, których nie ma w magazynie"
+11a7d79b1f,pl,Maximum Consecutive Leaves Allowed,Maksymalna dozwolona liczba kolejnych urlopów
+11b0b17082,pl,Please Authorize OAuth for Email Account {},Autoryzuj OAuth dla konta e-mail {}.
+11c33923b7,pl,Edit Footer,Edytuj stopkę
+11c84681d7,pl,Document Links Row #{0}: Table Fieldname is mandatory for internal links,Łącza do dokumentów Wiersz #{0}: Nazwa pola tabeli jest obowiązkowa dla linków wewnętrznych
+121964c8a9,pl,Is Template,Jest szablonem
+1221d5aa40,pl,Navigation Settings,Ustawienia nawigacji
+1266cf8171,pl,Quick Lists,Szybkie listy
+1276f61b81,pl,Employee Exits,Wyjścia pracowników
+128b1f041c,pl,Assign a user,Przypisywanie użytkownika
+12a925566b,pl,Customizations Discarded,Odrzucone dostosowania
+12c79af4b7,pl,{0} removed their assignment.,{0} usunął ich przypisanie.
+12d02d58c0,pl,Updating counter may lead to document name conflicts if not done properly,"Aktualizacja licznika może prowadzić do konfliktów nazw dokumentów, jeśli nie zostanie wykonana prawidłowo."
+12f5870904,pl,Start a new discussion,Rozpocznij nową dyskusję
+132314c1f0,pl,"As per your request, your account and data on {0} associated with email {1} has been permanently deleted","Zgodnie z twoją prośbą, twoje konto i dane na {0} powiązane z e-mailem {1} zostały trwale usunięte"
+13280baeb5,pl,Quick Access,Szybki dostęp
+133bd2b4a4,pl,You do not have Read or Select Permissions for {},Nie masz uprawnień do odczytu lub wyboru dla {}.
+136eafc9f3,pl,Maximum benefit of employee {0} exceeds {1} by the sum {2} of benefit application pro-rata component amount and previous claimed amount,Maksymalne świadczenie pracownika {0} przekracza {1} o sumę {2} proporcjonalnej kwoty składnika wniosku o świadczenie i poprzedniej wnioskowanej kwoty.
+137f40643e,pl,failed,nieudany
+139051498d,pl,Looks like you haven’t added any third party apps.,"Wygląda na to, że nie dodano żadnych aplikacji innych firm."
+13b956cf26,pl,Load more,Załaduj więcej
+13c3baf8fa,pl,{0} gained {1} points,{0} zdobył {1} punktów
+13cc7d9d5b,pl,Gantt View,Widok Gantta
+13d1aaf17e,pl,ID (name),ID (nazwa)
+13f76d0952,pl,Change Image,Zmień obraz
+1417aa8e44,pl,DocType required,Wymagany DocType
+1437ca98c7,pl,Bulk Actions,Działania zbiorcze
+143f2c5551,pl,Diff,Różnica
+1445a8a08b,pl,Email address of member {0} is missing,Brakuje adresu e-mail członka {0}
+14487d2bd9,pl,Action Complete,Działanie zakończone
+14509c5923,pl,Exit Interview {0} already exists for Employee: {1},Wywiad wyjściowy {0} już istnieje dla pracownika: {1}
+1454557705,pl,A template already exists for field {0} of {1},Szablon już istnieje dla pola {0} z {1}
+14ecd5db04,pl,Leave allocation {0} is linked with the Leave Application {1},Przydział urlopu {0} jest powiązany z wnioskiem o urlop {1}.
+152ee050a1,pl,Go make some noise,Zrób trochę hałasu
+153c2dcb8c,pl,Title,Tytuł
+154c4b2301,pl,Sample Values,Przykładowe wartości
+15a9e10948,pl,Failed to send the Interview Reschedule notification. Please configure your email account.,Nie udało się wysłać powiadomienia o zmianie terminu rozmowy kwalifikacyjnej. Skonfiguruj swoje konto e-mail.
+161fd62909,pl,Cost Centers for Budgeting and Analysis,Centra kosztów na potrzeby budżetowania i analizy
+16231cd664,pl,Goal Score,Wynik bramkowy
+163efe7f11,pl,Search fields,Pola wyszukiwania
+165b95f643,pl,Today is {0}'s birthday 🎉,Dziś są urodziny {0} 🎉
+1668603582,pl,Tax Deducted Till Date,Podatek odliczony do dnia dzisiejszego
+167c4c1827,pl,Rate of Stock UOM,Stawka magazynowa UOM
+16913d9fdd,pl,Payment Days Dependency,Dni płatności Zależność
+1696ca3a01,pl,"File """"{0}"""" was skipped because of invalid file type","Plik """"{0}"""" został pominięty z powodu nieprawidłowego typu pliku."
+16ab491318,pl,Set Relieving Date for Employee: {0},Ustaw datę zwolnienia pracownika: {0}
+,pl,leave blank automatically set after saving chapter.,pozostaw puste automatycznie ustawione po zapisaniu rozdziału.
+16b26d983a,pl,Add a Filter,Dodaj filtr
+1730f02635,pl,Customize Form - Print Format Field Template,Dostosuj formularz - szablon pola formatu wydruku
+173336eabf,pl,Set,Ustaw
+178610c761,pl,{0} changed values for {1} {2},{0} zmieniono wartości dla {1} {2}
+178abc8661,pl,Is Group Warehouse,Jest grupą magazynów
+17c82536b9,en,Rozmiar,Size
+17f223b2c0,pl,Move cursor to next column,Przesunięcie kursora do następnej kolumny
+17f5945a14,pl,Quality Inspection Settings,Ustawienia kontroli jakości
+17fb106e76,pl,Token Type,Typ tokena
+1803b44095,pl,Remove page break,Usuń podział strony
+180fb0c692,pl,Standard Reports cannot be deleted,Raportów standardowych nie można usunąć
+181c7d3d70,pl,"Products, Sales, Analysis, and more.","Produkty, sprzedaż, analizy i więcj."
+182d96f853,pl,COLOR PICKER,SELEKTOR KOLORÓW
+185088ac29,pl,You viewed this {0},Oglądałeś to {0}
+189b1b24b2,pl,"The user that will be used to create Donations, Memberships, Invoices, and Payment Entries. This user should have the relevant permissions.","Użytkownik, który będzie używany do tworzenia darowizn, członkostw, faktur i wpisów płatności. Ten użytkownik powinien mieć odpowiednie uprawnienia."
+18a071b073,pl,Edit your response,Edytuj swoją odpowiedź
+18ae6fd816,pl,Set all public,Ustaw wszystko publiczne
+19223dbcf1,pl,Overlap,Nakładanie się
+1927252cd6,pl,Statistics,Statystyki
+192a32bed6,pl,Tax Settings,Ustawienia podatkowe
+19472b8383,pl,Amount,Wartość
+194fa85a07,pl,Define Opening Balance for Earning and Deductions,Definiowanie bilansu otwarcia dla zarobków i odliczeń
+1956f7f115,pl,All the mandatory tasks for employee creation are not completed yet.,Wszystkie obowiązkowe zadania związane z tworzeniem pracowników nie zostały jeszcze ukończone.
+1966f4fe6b,pl,Synced Fields,Zsynchronizowane pola
+196bc43166,pl,Let's Set Up Some Masters,Ustawmy dane podstawowe
+198160287b,pl,Clear the email message and add the template,Wyczyść wiadomość e-mail i dodaj szablon
+19880f0d0f,pl,Not allowed to create custom Virtual DocType.,Niedozwolone jest tworzenie niestandardowego typu Virtual DocType.
+199b9a940c,pl,Like on {0}: {1},Jak na {0}: {1}
+19aadbd4ca,pl,Failed to setup defaults for country {0}. Please contact support.,Nie udało się skonfigurować ustawień domyślnych dla kraju {0}. Skontaktuj się z pomocą techniczną.
+19af443e54,pl,Po zapoznaniu się z tą stroną można kontynuować wdrażanie.,Po zapoznaniu się z tą stroną można kontynuować wdrażanie.
+19d12336d3,en,Sr,No.
+1a178f6433,pl,My Settings,Moje ustawienia
+1a3148b68e,pl,Website Search Field must be a valid fieldname,Pole wyszukiwania w witrynie musi być prawidłową nazwą pola
+1a48e32dc2,pl,IMAP Details,Szczegóły IMAP
+1a5ad6e618,pl,{0} has been submitted successfully,{0} zostało przesłane pomyślnie
+1a60c609e4,pl,Row No {0}: Amount cannot be greater than the Outstanding Amount against Expense Claim {1}. Outstanding Amount is {2},Wiersz nr {0}: Kwota nie może być wyższa niż kwota pozostająca do spłaty z tytułu roszczenia dotyczącego wydatków {1}. Kwota pozostała do spłaty wynosi {2}
+1a65cd5d36,pl,Atleast one field is required in Web Form Fields Table,Co najmniej jedno pole jest wymagane w tabeli pól formularza internetowego
+1a6f6c2884,pl,Below is the list of upcoming holidays for you:,Poniżej znajduje się lista nadchodzących świąt:
+1a747a5634,pl,No Notes,Brak notatek
+1a85be191e,pl,Create Blogger,Utwórz Bloggera
+1a9ab350c0,pl,Automatically create an invoice when payment is authorized from a web form entry,Automatyczne tworzenie faktury po autoryzacji płatności z poziomu formularza internetowego.
+1ae2a9dca4,pl,Need Workspace Manager role to hide/unhide public workspaces,Potrzebna rola Menedżera przestrzeni roboczej do ukrywania/odkrywania publicznych przestrzeni roboczych
+1ae3f4fdd6,pl,Failed to aquire lock: {},Nie udało się uzyskać blokady: {}
+1ae69635fb,pl,Splash Image,Splash Image
+1b08fc2c3a,pl,Is Return,Jest zwrotem
+1b2c16e02c,pl,Hidden Fields,Ukryte pola
+1b481fb8ae,pl,Inbox View,Widok skrzynki odbiorczej
+1b8b223fdf,pl,Investigation Details,Szczegóły dochodzenia
+1baa5ffc57,pl,starting the setup...,rozpoczęcie konfiguracji...
+1bca051142,pl,Cannot Fetch Values,Nie można pobrać wartości
+1bfa79e7cf,pl,Reset sorting,Zresetuj sortowanie
+1c1655135f,pl,Job Name,Nazwa stanowiska
+1c1cc6d197,pl,Przejdź Authorization,Przejdź autoryzację
+1c22091ef8,pl,Schedule sending,Harmonogram wysyłania
+1c2f18ae1e,pl,Banker's Rounding (legacy),Zaokrąglanie bankowe (dziedzictwo)
+1c58e7f3da,de,Zamówione produkty:,Bestellte Produkte:
+1c66e334f0,pl,Select Interview first,Wybierz najpierw opcję Wywiad
+1c6b899fbc,pl,There is no Salary Structure assigned to {0}. First assign a Salary Stucture.,Do {0} nie jest przypisana struktura wynagrodzeń. Najpierw przypisz strukturę wynagrodzeń.
+1c7fcc1871,pl,Switching Camera,Przełączanie kamery
+1cafede506,pl,Confirm Password,Potwierdź hasło
+1cd5bebe5a,pl,Send,Wyślij
+1cdd6f92dc,pl,Type Distribution,Typ Dystrybucja
+1cf8fb9c6f,pl,Worker Name,Imię i nazwisko pracownika
+1cfc978183,pl,Top Center,Top Center
+1d1de7d3ec,pl,Rules,Zasady
+1d4e2462bc,pl,LDAP settings incorrect. validation response was: {0},Ustawienia LDAP są nieprawidłowe. odpowiedź walidacji była następująca: {0}
+1d4f4136d1,pl,Refresh List,Lista odświeżania
+1d52c62fca,pl,Income Tax Computation,Obliczanie podatku dochodowego
+1d6f7e1e67,pl,Get Job Requisitions,Pobieranie ofert pracy
+1d806dda48,pl,commented,skomentował
+1d91254bf7,pl,Please check Enable Razorpay for Memberships in {0} to setup subscription,"Zaznacz opcję Włącz Razorpay dla członkostwa w {0}, aby skonfigurować subskrypcję."
+1d9cd9634d,pl,Ended At,Zakończono na
+1d9f562b85,pl,Select an Image,Wybierz obraz
+1da5840ae1,pl,Open in a new tab,Otwórz w nowej karcie
+1dba129e4f,pl,Issue a debit note with 0 qty against an existing Sales Invoice,Wystawienie noty obciążeniowej z ilością 0 w odniesieniu do istniejącej faktury sprzedaży
+1dc070bce6,pl,View Switcher,View Switcher
+1dc3bfb6b0,pl,edited,edytowane
+1dea6a93d4,pl,Total Resignations,Rezygnacje ogółem
+1e099ab6cb,pl,Updated To A New Version \u{1F389},Zaktualizowano do nowej wersji \u{1F389}
+1e1ef78064,pl,"Link that is the website home page. Standard Links (home, login, products, blog, about, contact)","Link będący stroną główną witryny. Standardowe linki (strona główna, logowanie, produkty, blog, informacje, kontakt)"
+1e2ea6a2bc,pl,Drag columns to set order. Column width is set in percentage. The total width should not be more than 100. Columns marked in red will be removed.,"Przeciągnij kolumny, aby ustawić kolejność. Szerokość kolumny jest ustawiana w procentach. Całkowita szerokość nie powinna być większa niż 100. Kolumny zaznaczone na czerwono zostaną usunięte."
+1e3408264d,pl,Queued By,W kolejce
+1e476b95bb,pl,Outgoing (SMTP) Settings,Ustawienia wychodzące (SMTP)
+1e6350d1ba,pl,Invalid Payroll Payable Account. The account currency must be {0} or {1},Nieprawidłowe konto listy płac. Waluta konta musi mieć wartość {0} lub {1}.
+1e82de0ad0,pl,Assignment Rule is not allowed on {0} document type,Reguła przypisania nie jest dozwolona dla typu dokumentu {0}
+1e93ee973c,pl,Total allocated leaves are more than maximum allocation allowed for {0} leave type for employee {1} in the period,Łączna liczba przydzielonych urlopów przekracza maksymalny dozwolony przydział dla {0} typu urlopu dla pracownika {1} w danym okresie.
+1ea04cbf6d,pl,Set the frequency for holiday reminders,Ustaw częstotliwość przypomnień o świętach
+1ec0bce295,pl,Margin Right,Prawy margines
+1ec9bae8cc,pl,{0} records are retained for 30 days. You can change the retention policy from {1},Rekordy {0} są przechowywane przez 30 dni. Można zmienić zasady przechowywania z {1}
+1ed26b6394,pl,Field name,Nazwa pola
+1ee8695116,pl,Passwords do not match,Hasła nie są zgodne
+1f35218355,pl,Updated status from {0} to {1} for date {2} in the attendance record {3},Zaktualizowano status z {0} do {1} dla daty {2} w rekordzie obecności {3}.
+1f383aaf0f,pl,CMD,CMD
+1f38c6b3b9,pl,Newsletter must be published to send webview link in email,"Newsletter musi być opublikowany, aby wysłać link do widoku strony w wiadomości e-mail"
+1f3c8ddeb7,pl,Outgoing Bills (Sales Invoice),Rachunki wychodzące (faktura sprzedaży)
+1f58277aed,pl,Employee Promotion cannot be submitted before Promotion Date,Awans pracownika nie może zostać zgłoszony przed datą awansu
+1f790d621a,pl,Error creating donation entry for {0},Błąd podczas tworzenia wpisu darowizny dla {0}
+1f969bd5f4,pl,Only Employee Grievance with status {0} or {1} can be submitted,Można złożyć tylko skargę pracownika o statusie {0} lub {1}.
+1fddee54c9,pl,Onboarding Status,Status wdrożenia
+1fed1605fa,pl,"From here, you can enable encashment for the balance leaves.",W tym miejscu można włączyć rozliczanie pozostałych urlopów.
+1ff39a4417,pl,LDAP search path for Users,Ścieżka wyszukiwania LDAP dla użytkowników
+202634c528,pl,Fetching Employees,Pobieranie pracowników
+20384e715c,pl,Try the new Print Format Builder,Wypróbuj nowy kreator formatu wydruku
+203cb6b75f,pl,Is Calendar and Gantt,Jest kalendarz i Gantt
+20596a8138,pl,From Date must come before To Date,Data początkowa musi być wcześniejsza niż data końcowa
+207b97beb4,pl,Frappe Light,Lekkie Frappe
+20bd783fce,pl,No changes made because old and new name are the same.,"Nie wprowadzono żadnych zmian, ponieważ stara i nowa nazwa są takie same."
+20e6e3264e,pl,Interview Feedback,Informacje zwrotne dotyczące wywiadu
+2100d54a30,pl,Encryption key is invalid! Please check site_config.json,Klucz szyfrowania jest nieprawidłowy! Sprawdź site_config.json
+210fe3cd01,pl,First Day,Pierwszy dzień
+21241963f5,pl,Rating Criteria,Kryteria oceny
+21438d011d,pl,Create a Customer,Utwórz klienta
+219c1c2773,pl,Date of Donation,Data darowizny
+219d099a1b,pl,Forecasting,Prognozowanie
+221a051ddd,pl,Communication Logs,Dzienniki komunikacji
+222bd236fe,pl,Prepared report render failed,Przygotowane renderowanie raportu nie powiodło się
+2246cc5293,pl,Is Cash or Non Trade Discount,Czy gotówka lub rabat niehandlowy
+225840df96,pl,Clear,Wyczyść
+226183bfa3,pl,Current Job,Obecna praca
+2265b23ff0,pl,Document Links Row #{0}: Parent DocType is mandatory for internal links,Łącza do dokumentów Wiersz #{0}: Nadrzędny DocType jest obowiązkowy dla linków wewnętrznych
+22a866c558,pl,"To use Google Indexing, enable","Aby korzystać z indeksowania Google, włącz"
+22bdf498d0,pl,Total Earnings,Całkowity zarobek
+2310457cf4,pl,Employee {0} already has an Attendance Request {1} that overlaps with this period,"Pracownik {0} ma już Wniosek o Obecność {1}, który pokrywa się z tym okresem."
+232f35892f,pl,"Salary Slips already exist for employees {}, and will not be processed by this payroll.",Odcinki wynagrodzenia już istnieją dla pracowników {} i nie będą przetwarzane przez tę listę płac.
+23a8fa3ca4,pl,You need to set one IMAP folder for {0},Musisz ustawić jeden folder IMAP dla {0}.
+23bc935d5b,pl,Final Decision,Ostateczna decyzja
+23d354439f,pl,Employee was marked Absent for not meeting the working hours threshold.,"Pracownik został oznaczony jako nieobecny, ponieważ nie osiągnął progu godzin pracy."
+23d6318f79,pl,Templates,Szablony
+23efcea284,pl,Overlapping Attendance Request,Nakładający się wniosek o obecność
+23f4912944,pl,"DocTypes can not be modified, please use {0} instead","DocTypes nie mogą być modyfikowane, zamiast tego należy użyć {0}"
+23fcf4cf43,pl,Module Profile Name,Nazwa profilu modułu
+240c2d0733,pl,SWATCHES,SWATCHES
+2435839040,pl,Redirect URI,Przekierowanie URI
+243a66a8c8,pl,80G With Effect From,80G Ze skutkiem od
+243f936731,pl,You created this {0},Stworzyłeś to {0}
+24403e844c,pl,Automate Invoicing for Web Forms,Automatyzacja fakturowania dla formularzy internetowych
+245bc6d007,pl,Duplicate,Powiel
+24674e1f8d,pl,Activate,Aktywuj
+2475dba47d,pl,Saving...,Zapisywanie...
+248c04dbef,pl,You need {0} permission to fetch values from {1} {2},Potrzebujesz {0} uprawnień do pobierania wartości z {1} {2}
+2493c91e1a,pl,"Site is running in read only mode, this action can not be performed right now. Please try again later.","Witryna działa w trybie tylko do odczytu, ta czynność nie może być teraz wykonana. Spróbuj ponownie później."
+24b520b38a,pl,Pending,W toku
+24e0ed79fc,pl,Select Time Zone,Wybierz strefę czasową
+250a7d6519,pl,Column Width,Szerokość kolumny
+251d46f8fe,pl,Please set {0}.,Ustaw {0}.
+2548b90a1c,pl,Feedback already submitted for the Interview {0}. Please cancel the previous Interview Feedback {1} to continue.,"Przesłano już opinie dotyczące wywiadu {0}. Aby kontynuować, anuluj poprzednią opinię {1}."
+25680bac57,pl,Lead Source,Główne źródło
+2569369226,pl,Newly created user {0} has no roles enabled.,Nowo utworzony użytkownik {0} nie ma włączonych ról.
+25848e19a3,pl,Search Results for,Wyniki wyszukiwania dla
+25865a7c62,pl,Collapsible Depends On (JS),Składany w zależności od (JS)
+259af6ee06,pl,No Data to Show,Brak danych do pokazania
+25b232ac74,pl,No Applicable Earnings Component found for Gratuity Rule: {0},Nie znaleziono odpowiedniego składnika zarobków dla Gratuity Reguła: {0}
+25d7095d54,pl,Optimizing image...,Optymalizacja obrazu...
+25fbe3650c,pl,Leave already have been assigned for this Leave Policy Assignment,Urlop został już przydzielony dla tego przypisania polityki urlopowej
+25fce5fa44,pl,Started At,Rozpoczęto od
+2635897682,pl,Password set,Ustawione hasło
+263bd72d51,pl,Auto Repeat Day,Automatyczne powtarzanie dnia
+263d537339,pl,No. of Employees,Liczba pracowników
+2655e421bc,pl,Edit Response,Edytuj odpowiedź
+265d346e00,pl,Update Existing Price List Rate,Aktualizacja istniejącego cennika
+2662675f64,pl,Supplier Scorecard variable,Zmienną Scorecard dostawcy;;;;;;;;
+2664d0b7fd,pl,Scheduled On,Zaplanowane na
+266c9109c5,pl,Set Project Status,Ustawianie statusu projektu
+26faad7f97,pl,Only Workspace Manager can edit public workspaces,Tylko Menedżer przestrzeni roboczej może edytować publiczne przestrzenie robocze
+273344320a,pl,Set filters to fetch employees,Ustaw filtry do pobierania pracowników
+274c781a38,pl,Left Bottom,Lewy dół
+2753d1f77c,pl,Loan Writte Off,Umorzenie pożyczki
+2768341bc8,pl,Point- of -Sale Profil,Profil punktu sprzedaży
+279a0e2b0d,pl,Self Appraisal,Samoocena
+27b7f453e8,pl,Query must be of SELECT or read-only WITH type.,Zapytanie musi być typu SELECT lub WITH tylko do odczytu.
+27ea8d12ca,pl,Row #{0}: Timesheet amount will overwrite the Earning component amount for the Salary Component {1},Wiersz #{0}: Kwota arkusza czasu pracy zastąpi kwotę składnika zarobków dla składnika wynagrodzenia {1}.
+27ebfdc6b8,pl,Edit Existing,Edytuj istniejące
+286c603289,pl,Only Workspace Manager can sort or edit this page,Tylko Menedżer obszaru roboczego może sortować lub edytować tę stronę.
+28860b95dd,pl,Before Validate,Przed zatwierdzeniem
+28e46cb551,pl,Exit Questionnaire Notification Template,Szablon powiadomienia o kwestionariuszu wyjścia
+28e62424aa,pl,Job Info,Informacje o pracy
+28e98bc3d9,pl,jane@example.com,jane@example.com
+28f0d55b4e,pl,hh,hh
+29095d73fe,pl,For V16 use UTILITY and AUTHENTICATION in place of TRANSACTIONAL and OTP,W przypadku V16 użyj UTILITY i AUTHENTICATION zamiast TRANSACTIONAL i OTP.
+2911b4d22f,pl,This error can be due to missing or deleted field.,Błąd ten może być spowodowany brakiem lub usunięciem pola.
+29b11af20e,pl,Total in words (Company Currency),Łącznie słownie (waluta spółki)
+29c05bd460,pl,Only {0} emailed reports are allowed per user.,Każdy użytkownik może wysłać tylko {0} raportów e-mail.
+29dc7a3a03,pl,Inter,Inter
+2a240010ff,pl,A friendly reminder of an important date for our team.,Przypominamy o ważnej dacie dla naszego zespołu.
+2a2fcf2a33,pl,Either key or IP flag is required.,Wymagany jest klucz lub flaga IP.
+2a3a401e77,pl,Done,Gotowe
+2a5228aa43,pl,Feedback Count,Liczba informacji zwrotnych
+2a70cb3eda,pl,Scores,Wyniki
+2aa80de613,pl,Leave Policy Assignment,Przypisanie polityki urlopowej
+2ab78963d2,pl,Send Test Email,Wyślij testową wiadomość e-mail
+2ae5f10a88,pl,"You can only upload JPG, PNG, PDF, TXT or Microsoft documents.","Można przesyłać tylko dokumenty JPG, PNG, PDF, TXT lub Microsoft."
+2aefee1b24,pl,Is Table Field,Czy pole tabeli
+2af41edf37,pl,Clear & Add Template,Wyczyść i dodaj szablon
+2afecf057c,pl,Salary Slip {0} failed. You can resolve the {1} and retry {0}.,Poślizg wynagrodzenia {0} nie powiódł się. Możesz rozwiązać problem {1} i ponowić próbę {0}.
+2b1b7f73a3,pl,Warning: Insufficient leave balance for Leave Type {0} in this allocation.,Ostrzeżenie: Niewystarczające saldo urlopowe dla typu urlopu {0} w tym przydziale.
+2b38e0a885,pl,RQ Worker,Pracownik RQ
+2b7b1e59a7,pl,Field Orientation (Left-Right),Orientacja pola (lewo-prawo)
+2b8316027b,pl,Session not active. Save document to login.,"Sesja nie jest aktywna. Zapisz dokument, aby się zalogować."
+2ba12abbd9,pl,Bottom Center,Dolny środek
+2bac18cc0e,pl,Employee Performance Feedback,Informacje zwrotne na temat wyników pracowników
+2bb06c5a11,pl,Check Error Log {0} for more details.,Więcej informacji można znaleźć w dzienniku błędów {0}.
+2bce61c71e,pl,Process Payroll Accounting Entry based on Employee,Przetwarzanie wpisów księgowych listy płac w oparciu o pracownika
+2c0b29b792,pl,Over Order Allowance ,Dodatek za przekroczenie zamówienia
+2c3354d9ce,pl,Parent Element Selector,Selektor elementu nadrzędnego
+2c38e0403f,pl,Ratings,Oceny
+2c5b771bf9,pl,Current CTC,Obecne CTC
+2c851cecbf,pl,Watch Video,Zobacz film
+2c9b41238d,pl,Hold Invoice,Wstrzymanie faktury
+2ca38b083b,pl,The days between {0} to {1} are not valid holidays.,Dni od {0} do {1} nie są dniami wolnymi od pracy.
+2ca44084cf,pl,Select the Employee for which you want to allocate leaves.,"Wybierz pracownika, dla którego chcesz przydzielić urlopy."
+2cd7e840e7,pl,Please enter a valid email address.,Wprowadź prawidłowy adres e-mail.
+2cdb8c948c,pl,{0} ${l},{0} ${l}
+2d2065a413,pl,Duplicate of {0} named as {1} is created successfully,Duplikat {0} o nazwie {1} został pomyślnie utworzony
+2d37982da3,pl,Edit Workspace,Edytuj obszar roboczy
+2d80d078d5,pl,Workspace {0} Edited Successfully,Pomyślnie edytowano obszar roboczy {0}
+2d86408018,pl,DocType {0} does not exist.,DocType {0} nie istnieje.
+2d97bc36ab,pl,Holidays this Week.,Święta w tym tygodniu.
+2dac1b1704,pl,Referrer Details,Szczegóły dotyczące odsyłającego
+2db829c03f,pl,Child nodes can only be created under 'Group' type nodes,"Węzły podrzędne mogą być tworzone tylko w ramach węzłów typu """"Grupa""""."
+2dcea82b86,pl,This error can be due to invalid formula or condition.,Ten błąd może być spowodowany nieprawidłową formułą lub warunkiem.
+2e0c079977,pl,User {0} is not permitted to access this document.,Użytkownik {0} nie ma dostępu do tego dokumentu.
+2e1124dcfd,pl,Total allocated leaves {0} cannot be less than already approved leaves {1} for the period,Całkowita liczba przydzielonych urlopów {0} nie może być mniejsza niż liczba już zatwierdzonych urlopów {1} na dany okres.
+2e23fe2ee2,pl,Overlapping Shift Requests,Nakładające się wnioski o zmianę
+2e2fa952ef,pl,Rest of the day,Reszta dnia
+2e478c2ff0,pl,{0} of {1} Completed,{0} z {1} Ukończono
+2e56151c93,pl,Track Material Request,Śledzenie wniosków o materiały
+2e74d5e5dd,pl,Mandatory Depends On (JS),Obowiązkowe Zależy od (JS)
+2eb5ddba03,pl,Dashboard View,Widok pulpitu nawigacyjnego
+2ebc5c2551,pl,T,T
+2ed20da2a3,pl,Monthly Rank,Ranking miesięczny
+2eded3c920,pl,Log DocType,Log DocType
+2f0af5e9ad,pl,Relieving Date Missing,Brakująca data zwolnienia
+2f0b88252f,pl,Print Format Builder Beta,Print Format Builder Beta
+2f1067a280,pl,Allow Older Web View Links (Insecure),Zezwalaj na starsze łącza widoku sieci Web (niezabezpieczone)
+2f1529e836,pl,Awesome Work,Niesamowita praca
+2f34c98bb7,pl,Duplicate Certificate,Duplikat certyfikatu
+2f6c145813,pl,Phone ID,Identyfikator telefonu
+2f85d92b5d,pl,Raw Printing Settings,Ustawienia drukowania Raw
+2f8cf321cb,pl,Please assign a Salary Structure for Employee {0} applicable from or before {1} first,Prosimy o przypisanie struktury wynagrodzeń dla pracownika {0} obowiązującej od lub przed {1}.
+2f9c35a144,pl,Drag,Przeciąganie
+2fd27fcb88,pl,Form Tour,Form Tour
+2fec0a7bf4,pl,Page Number,Numer strony
+2ff8e43ade,pl,Attendance not submitted for {0} as {1} is on leave.,"Nie zgłoszono obecności dla {0}, ponieważ {1} jest na urlopie."
+2ffccc6ee9,pl,Compare Versions,Porównanie wersji
+30001813ce,pl,Salary Slips submitted for period from {0} to {1},Odcinki wynagrodzenia przesłane za okres od {0} do {1}
+3001de84f6,pl,Leave(s) Expired,Urlop(y) wygasł(e)
+30073fc514,pl,All allocated assets should be returned before submission,Wszystkie przydzielone aktywa powinny zostać zwrócone przed złożeniem wniosku
+30243b67fe,pl,Use of function {0} in field is restricted,Użycie funkcji {0} w polu jest ograniczone
+302d7a100e,pl,Payroll Payable Account,Konto listy płac do zapłaty
+30441d1272,pl,Cyan,Cyjan
+304f9edc1f,pl,Footer HTML set from attachment {0},Zestaw HTML stopki z załącznika {0}
+30774aaf40,pl,Qualification Status,Stan kwalifikacji
+30932ba4bd,pl,Accounts Receivable Ageing,Przedawnienie należności
+30b5da980d,pl,Login With {0},Zaloguj się za pomocą {0}
+30e5bf0383,pl,Items To Be Requested,Wymagane elementy
+30f77626f9,pl,You can not define multiple slabs if you have a slab with no lower and upper limits.,"Nie można zdefiniować wielu płyt, jeśli płyta nie ma dolnego i górnego limitu."
+310dec2ae6,pl,Please enable atleast one Social Login Key or LDAP before disabling username/password based login.,Włącz co najmniej jeden klucz logowania społecznościowego lub LDAP przed wyłączeniem logowania opartego na nazwie użytkownika/hasle.
+311189ef9c,pl,Activity,Aktywność
+313952c0f5,de,Drogi kliencie,Lieber Kunde
+3148beefaa,pl,Event Update Log Consumer,Odbiorca dziennika aktualizacji zdarzeń
+316ea42706,pl,Connected App,Połączona aplikacja
+319d0a0317,pl,Batch-Wise Balance History,Historia sald z uwzględnieniem partii
+31b3030544,pl,Are you sure you want to remove the {0} filter?,Czy na pewno chcesz usunąć filtr {0}?
+31e0ec8e3b,pl,Cannot change to/from autoincrement autoname in Customize Form,Nie można zmienić na/z autoincrement autoname w Customize Form
+32112bf4dc,pl,No {0} Found,Nie znaleziono {0}
+322bfa7be2,pl,Total Self Score,Całkowity wynik własny
+32302e9724,pl,Donation Details,Szczegóły darowizny
+3249ef5267,pl,Membership Invoicing,Fakturowanie członkostwa
+327132784f,pl,Document Share Key Expiry (in Days),Wygaśnięcie klucza udziału w dokumencie (w dniach)
+3278ac7051,pl,Sort Options,Opcje sortowania
+32ebcd6c0d,pl,Stock Validations,Zatwierdzanie stanów magazynowych
+32f7a8cdb4,pl,Clear all filters,Wyczyść wszystkie filtry
+332082a6f5,pl,Illegal template,Nielegalny szablon
+33236a4905,pl,Interview: {0} Rescheduled,Wywiad: {0} przełożony
+3349201645,pl,Allow material consumptions without immediately manufacturing finished goods against a Work Order,Zezwalanie na zużycie materiałów bez natychmiastowej produkcji wyrobów gotowych zgodnie ze zleceniem pracy.
+337b1e891f,pl,Show Tour,Show Tour
+338915cc3a,pl,Footer Content,Zawartość stopki
+33b716776b,pl,You don't have permission to access the {0} DocType.,Nie masz uprawnień dostępu do {0} DocType.
+33bc85beb1,pl,{0} self assigned this task: {1},{0} samodzielnie przydzielił/a to zadanie: {1}
+33cf9a84f5,pl,video,wideo
+33ddd8ea12,pl,Attendance Warnings,Ostrzeżenia dotyczące frekwencji
+33e8ec972f,pl,Review various other settings related to Employee Leaves and Expense Claim,Przegląd innych ustawień związanych z urlopami pracowników i wnioskami o zwrot kosztów.
+33fee9d126,pl,LDAP search path for Groups,Ścieżka wyszukiwania LDAP dla grup
+3415336190,pl,Rate,Stawka
+343634c150,pl,Administrator changed value of,Administrator zmienił wartość
+34b643082a,pl,File name,Nazwa pliku
+34ed2f96b8,pl,OpenLDAP,OpenLDAP
+34f647db21,pl,Default Selling Price List,Domyślny cennik sprzedaży
+3502658eaa,pl,Changing any setting will reflect on all the email accounts associated with this domain.,Zmiana dowolnego ustawienia wpłynie na wszystkie konta e-mail powiązane z tą domeną.
+3518212ef1,pl,{0}: You can increase the limit for the field if required via {1},{0}: W razie potrzeby można zwiększyć limit pola za pomocą {1}.
+352b4d4d3b,pl,"An amount of {0} already claimed for the component {1}, set the amount equal or greater than {2}","Kwota {0} została już zgłoszona dla składnika {1}, ustaw kwotę równą lub większą niż {2}."
+352d86e269,pl,"Allow users to log in without a password, using a login link sent to their email","Umożliwienie użytkownikom logowania się bez hasła, przy użyciu linku do logowania wysłanego na ich adres e-mail."
+353bb10fd0,pl,Goal should belong to the same Appraisal Cycle as its parent goal.,"Cel powinien należeć do tego samego Cyklu Oceny, co jego cel nadrzędny."
+3560a5a241,pl,Modal Trigger,Wyzwalacz modalny
+3581607366,pl,Time taken to fill the open positions,Czas potrzebny na obsadzenie wolnych stanowisk
+358904c8f6,pl,Purchase Invoice has been submitted successfully,Faktura zakupu została przesłana pomyślnie
+35b272e440,pl,The reset password link has either been used before or is invalid,Link do resetowania hasła został już użyty lub jest nieprawidłowy.
+35b6a8afad,pl,Automate Donation Payment Entries,Automatyzacja wpisów płatności darowizn
+35f8de1470,pl,Unclaimed Amount,Nieodebrana kwota
+35fea963d7,pl,Full and Final Asset,Pełny i ostateczny zasób
+3623551060,pl,LDAP Server Settings,Ustawienia serwera LDAP
+363607c73a,pl,Document is in draft state,Dokument jest w wersji roboczej
+36387c2fd1,pl,Condition & Formula,Stan i formuła
+36497ae6e1,pl,Pending Interviews,Oczekujące wywiady
+369a21ae27,pl,Parent Document Type,Typ dokumentu nadrzędnego
+371b8ea998,pl,Quality Inspection(s),Kontrola jakości
+37274b1b77,pl,This action will prevent making changes to the linked appraisal feedback/goals.,Działanie to uniemożliwi wprowadzenie zmian w powiązanych informacjach zwrotnych/celach oceny.
+374f521e63,pl,Employee Feedback Criteria,Kryteria opinii pracowników
+37897edb3a,pl,Standard user type {0} can not be deleted.,Użytkownik standardowy typu {0} nie może zostać usunięty.
+379054d7e3,pl,You are not allowed to edit the report.,Nie możesz edytować raportu.
+37abae27e0,pl,Configure the action to stop the transaction or just warn if the same rate is not maintained.,"Skonfiguruj akcję, aby zatrzymać transakcję lub tylko ostrzec, jeśli ta sama stawka nie zostanie utrzymana."
+37b2f68860,pl,Default Payment Discount Account,Domyślne konto rabatowe płatności
+37bbff1ff3,pl,processlist,lista procesów
+37c96efa3e,pl,Cannot update private workspace of other users,Nie można zaktualizować prywatnej przestrzeni roboczej innych użytkowników
+37c9ae3e63,pl,Workspace Shortcut,Skrót do obszaru roboczego
+37cbbe9262,pl,All fields are necessary to submit the comment.,Wszystkie pola są niezbędne do przesłania komentarza.
+37ed9f7db8,pl,Script Manager,Menadżer skryptów
+38267b4e70,pl,The fieldname you've specified in Attached To Field is invalid,Nazwa pola określona w polu Attached To Field jest nieprawidłowa
+38538a4ab2,pl,Invalid docstatus,Nieprawidłowy status dokumentu
+38617f6bb0,pl,Autoincrement,Autoinkrementacja
+387571b8d6,pl,Alternative Email ID,Alternatywny identyfikator e-mail
+38797df0dd,pl,Map,Mapa
+388926ebb7,pl,Please set {0} and {1} in {2}.,Ustaw {0} i {1} w {2}.
+3895032441,pl,User Id Field,Pole identyfikatora użytkownika
+389a731ca0,pl,The next tour will start from where the user left off.,"Następna trasa rozpocznie się od miejsca, w którym użytkownik ją przerwał."
+38cba9952f,pl,Introduction to Selling,Wprowadzenie do sprzedaży
+3914c1b80f,pl,Added default log doctypes: {},Dodano domyślne typy doctypów dziennika: {}
+391929c30c,pl,Drag and drop files here or upload from,Przeciągnij i upuść pliki tutaj lub prześlij z
+3925db885a,pl,{} Invalid python code on line {},{} Nieprawidłowy kod Pythona w linii {}.
+392fca649c,pl,Margin Bottom,Dolny margines
+394af81022,pl,Global Search,wyszukiwanie globalne
+39526c65fe,pl,Is customer exempted from sales tax?,Czy klient jest zwolniony z podatku od sprzedaży?
+39719d10ef,pl,Referral Bonus Payment Status,Status płatności premii za polecenie
+39ac7a6544,pl,Please update {} before continuing.,Zaktualizuj {} przed kontynuowaniem.
+39e0a1270e,pl,Print,Drukuj
+3a52f9298a,pl,Warning: Insufficient leave balance for Leave Type {0}.,Ostrzeżenie: Niewystarczające saldo urlopowe dla typu urlopu {0}.
+3a84046f20,pl,Default View,Widok domyślny
+3a8a85097d,pl,Create Additional Salary,Utwórz dodatkowe wynagrodzenie
+3aae65067d,pl,Edit Letter Head Footer,Edytuj stopkę nagłówka listu
+3ab678cc34,pl,Role Allowed to Over Bill,Rola dozwolona do przekroczenia rachunku
+3abd827dab,pl,Custom Document Types,Niestandardowe typy dokumentów
+3acd431f80,pl,Next on Click,Następnie kliknij
+3ae7286cf2,pl,Create Workspace,Utwórz obszar roboczy
+3aee2f3053,pl,Report {0} saved,Raport {0} zapisany
+3b131ff824,pl,Leave Details,Zostaw szczegóły
+3b149d51a4,pl,Duration (ms),Czas trwania (ms)
+3b4ec448fb,pl,Make Bank Entry,Wprowadzanie danych bankowych
+3b74c303c3,pl,Default Base Pay,Domyślne wynagrodzenie podstawowe
+3b8deeba17,pl,Team Members Subtitle,Podtytuł członków zespołu
+3bbe48541e,pl,Customize Dashboard,Dostosuj pulpit nawigacyjny
+3bfe53c4ca,pl,Select a document to preview request data,"Wybierz dokument, aby wyświetlić podgląd danych żądania"
+3c00f0c03e,pl,Revised CTC,Zmienione CTC
+3c26a8b7f3,pl,Section ID,Identyfikator sekcji
+3c42f635ce,pl,Allow Multiple Responses,Zezwalaj na wiele odpowiedzi
+3c4831b24f,pl,Expected Average Rating,Oczekiwana średnia ocena
+3c5c1b66e3,pl,Employee Details,Szczegóły dotyczące pracowników
+3c616f8fa7,pl,started,rozpoczęty
+3c6ff8c7a7,pl,Current Employer,Obecny pracodawca
+3cbb51475d,pl,Total Costing Amount (via Time Sheet),Całkowita kwota kosztów (za pośrednictwem arkusza czasu pracy)
+3cce9c2f24,pl,Type title,Wpisz tytuł
+3cde32f695,pl,Website Search Field,Pole wyszukiwania w witrynie
+3cde3583c7,pl,Total Gross Pay,Łączne wynagrodzenie brutto
+3ce6550769,pl,Exclude Holidays,Z wyłączeniem świąt
+3cf3d51274,pl,Your account has been deleted,Twoje konto zostało usunięte
+3cf64f90b5,pl,Please delete the Employee {0} to cancel this document,"Usuń pracownika {0}, aby anulować ten dokument"
+3d0bd78080,pl,"PDF printing via """"Raw Print"""" is not supported.","Drukowanie plików PDF za pomocą funkcji """"Raw Print"""" nie jest obsługiwane."
+3d19bb094c,pl,Rejected,Odrzucony
+3d36f24ed7,pl,Group Duplicate Queries,Grupowanie zduplikowanych zapytań
+3d444a9650,pl,POST,POST
+3d4cb08229,pl,Add Space at Top,Dodaj miejsce na górze
+3d69960b09,pl,There's nothing here,Nic tu nie ma
+3d69b853e9,pl,Private,Prywatne
+3d89991b8a,pl,Insert Image in Markdown,Wstawianie obrazu w Markdown
+3db5e6795d,pl,Show Preview,Zapowiedź pokazu
+3dc7537081,pl,Pink,Różowy
+3dda296a2d,pl,Onboarding Begins On,Onboarding rozpoczyna się w dniu
+3df70935a8,pl,label,etykieta
+3e0e356390,pl,Like limit,Jak limit
+3e39d30497,pl,"Everyone, let’s congratulate {0} on their birthday.",Wszyscy pogratulujmy {0} z okazji ich urodzin.
+3e60d3dfae,pl,You do not have permission to view this document,Nie masz uprawnień do wyświetlenia tego dokumentu
+3e7a349d28,pl,Edit Letter Head,Edycja nagłówka listu
+3e8a6391ae,pl,Qualified on,Kwalifikacja w dniu
+3e96049f79,pl,Control Historical Stock Transactions,Kontrola historycznych transakcji na akcjach
+3ee4d5abe9,pl,Align,Wyrównaj
+3f1ac3ae69,pl,Is Recurring Additional Salary,Czy powtarzające się dodatkowe wynagrodzenie
+3f28717e81,pl,Go to Workspace,Przejdź do obszaru roboczego
+3f6b5a4ad1,pl,Open Events,Otwarte wydarzenia
+3f6dacc042,pl,Relieving Date,Data zwolnienia
+3f7207fe61,pl,Create Job Opening,Tworzenie ofert pracy
+3f72eebc68,pl,Document Saved,Zapisany dokument
+3f8403e0ad,pl,Generate Random Password,Generowanie losowego hasła
+3fa6c40687,pl,"Append as communication against this DocType (must have fields: """"Sender"""" and """"Subject""""). These fields can be defined in the email settings section of the appended doctype.","Dołącz jako komunikację do tego DocType (musi mieć pola: """"Nadawca"""" i """"Temat""""). Pola te można zdefiniować w sekcji ustawień wiadomości e-mail dołączonego typu dokumentu."
+3fb7fa1a57,pl,The application name will be used in the Login page.,Nazwa aplikacji będzie używana na stronie logowania.
+3fb8a72749,pl,Intro,Wprowadzenie
+3fca9a1e04,pl,The value you pasted was {0} characters long. Max allowed characters is {1}.,Wklejona wartość miała długość {0} znaków. Maksymalna dozwolona liczba znaków to {1}.
+3fec15140d,pl,Description to inform the user about any action that is going to be performed,"Opis informujący użytkownika o czynności, która ma zostać wykonana."
+3ffa83eff4,pl,Customer {0} has been created succesfully.,Klient {0} został utworzony pomyślnie.
+3ffcd5d30d,pl,Check this if you want to force the user to select a series before saving. There will be no default if you check this.,"Zaznacz tę opcję, jeśli chcesz wymusić na użytkowniku wybranie serii przed zapisaniem. Po zaznaczeniu tej opcji nie będzie żadnych ustawień domyślnych."
+4035cab13e,pl,"[Important] [ERPNext] Razorpay donation webhook failed, please check.","[Ważne] [ERPNext] Razorpay donation webhook nie powiódł się, sprawdź."
+406f22e99b,pl,Insufficient leave balance for Leave Type {0},Niewystarczające saldo urlopowe dla typu urlopu {0}
+4073fcc2d2,pl,Manage Suppliers,Zarządzaj dostawcami
+40bb7a0bef,pl,Scheduled Sending,Wysyłanie zaplanowane
+40f33323f4,pl,{0} vacancies and {1} budget for {2} already planned for subsidiary companies of {3}. You can only plan for upto {4} vacancies and and budget {5} as per staffing plan {6} for parent company {3}.,{0} wakatów i {1} budżet na {2} już zaplanowano dla spółek zależnych {3}. Możesz zaplanować tylko do {4} wakatów i budżet {5} zgodnie z planem zatrudnienia {6} dla spółki dominującej {3}.
+40f3f50513,pl,Use different Email ID,Użyj innego identyfikatora e-mail
+40f8b2a8af,pl,Printer mapping not set.,Mapowanie drukarki nie zostało ustawione.
+40fe95ca05,pl,Tabloid,Tabloid
+413636e2df,pl,Cannot get file contents of a Folder,Nie można uzyskać zawartości pliku w folderze
+4149f15ec5,pl,Successfully imported {0},Pomyślnie zaimportowano {0}
+415466991e,pl,This field allows you to set the maximum number of consecutive leaves an Employee can apply for.,"To pole umożliwia ustawienie maksymalnej liczby kolejnych urlopów, o które może ubiegać się pracownik."
+4169b89fed,pl,LDAP Group Member attribute,Atrybut członka grupy LDAP
+4199ef12a8,pl,Sales Update Frequency in Company and Project,Częstotliwość aktualizacji sprzedaży w firmie i projekcie
+41ac662146,pl,Missing Filters Required,Wymagane brakujące filtry
+41add916a2,pl,Setup Your Letterhead,Skonfiguruj swój papier firmowy
+41cc5f841e,pl,{0} from {1} to {2} in row #{3},{0} od {1} do {2} w wierszu #{3}
+422202ba37,pl,No Roles Specified,Nie określono ról
+422f38f8b9,pl,Today {0} at our Company! 🎉,Dzisiaj {0} w naszej firmie! 🎉
+423a895cda,pl,"For Links, enter the DocType as range.",W przypadku Łącza wprowadź DocType jako zakres.
+,pl,"For Select, enter list of Options, each on a new line.","Dla Select, wprowadź listę opcji, każda w nowym wierszu."
+4252d22377,pl,Invalid DocType,Nieprawidłowy DocType
+42613014c9,pl,Total working Days Per Year,Łączna liczba dni roboczych w roku
+428d5f2826,pl,The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip.,"Data, w której składnik wynagrodzenia z kwotą zostanie przekazany na poczet zarobków/potrąceń na odcinku wynagrodzenia."
+42a2becfb3,pl,Purchase Order,Zlecenia zakupu
+42a341b899,pl,Scheduler: Active,Harmonogram: Aktywny
+42db98c941,pl,Link Count,Liczba linków
+42e4bbe167,pl,Let's Set Up the Selling Module.,Skonfigurujmy moduł sprzedaży.
+42f0f11e7c,pl,Maximum attachment limit of {0} has been reached.,Osiągnięto maksymalny limit załączników {0}.
+42f850e3f8,pl,undefined,niezdefiniowane
+430980479f,pl,Interview,Wywiad
+4317e68f74,pl,You haven't created a Skrypt klienta yet,Nie utworzyłeś jeszcze skryptu klienta
+433597a68e,pl,Translate Link Fields,Tłumaczenie pól linków
+435464f17e,pl,Login is required to see web form list view. Enable {0} to see list settings,"Do wyświetlenia listy formularzy wymagane jest zalogowanie. Włącz {0}, aby zobaczyć ustawienia listy"
+43574d216c,pl,One of the child page with name {0} already exist in {1} Section. Please update the name of the child page first before moving,Jedna ze stron podrzędnych o nazwie {0} już istnieje w sekcji {1}. Sekcja. Zaktualizuj nazwę strony podrzędnej przed jej przeniesieniem.
+4362d7af75,pl,TimeoutError: The read operation timed out,TimeoutError: Operacja odczytu przekroczyła limit czasu
+43ab91b960,pl,Fieldname '{0}' conflicting with a {1} of the name {2} in {3},"Nazwa pola """"{0}"""" jest w konflikcie z {1} o nazwie {2} w {3}."
+43bca389a4,pl,Repeat on Days,Powtórz w dniach
+43bd3489b2,pl,Parentfield not specified in {0}: {1},Pole rodzica nie zostało określone w {0}: {1}
+43f7387eaa,pl,Completed By Role,Ukończone według ról
+441d8da949,pl,Customer Acquisition and Loyalty,Pozyskiwanie i lojalność klientów
+442f9d18c2,pl,You edited this {0},Edytowałeś to {0}
+443393fc9e,pl,Self Appraisal Pending: {0},Samoocena w toku: {0}
+443ef2dadc,pl,Light Blue,Jasnoniebieski
+444216280e,pl,Missing DocType,Brakujący DocType
+4462123551,pl,No Interview has been scheduled.,Rozmowa kwalifikacyjna nie została zaplanowana.
+4477e9d664,pl,No stock transactions can be created or modified before this date.,Przed tą datą nie można tworzyć ani modyfikować żadnych transakcji magazynowych.
+44d2cc08dd,pl,to know more,aby dowiedzieć się więcej
+44d9bc8d14,pl,Select Network Printer,Wybierz Drukarka sieciowa
+44df3cbf70,de,"Pozdrawiamy, Meblito!","Grüße, Meblito!"
+44fc11bf33,pl,Time Taken,Czas trwania
+4513fccda0,pl,Please add the remaining benefits {0} to the application as pro-rata component,Prosimy o dodanie pozostałych świadczeń {0} do wniosku jako składnika proporcjonalnego
+4514731cfc,pl,Server Error,Błąd serwera
+455947afd3,pl,Sales Person-wise Transaction Summary,Podsumowanie transakcji według sprzedawcy
+4565aec5a5,pl,Leave Application period cannot be across two non-consecutive leave allocations {0} and {1}.,Okres wniosku o urlop nie może obejmować dwóch nienastępujących po sobie przydziałów urlopu {0} i {1}.
+4597ff5895,pl,Load More Communications,Załaduj więcej komunikacji
+45b3798c92,pl,Go to Login Required field,Przejdź do pola Wymagane logowanie
+45d940dce4,pl,Invalid Naming Series: {},Nieprawidłowa seria nazw: {}
+45fbba4e3d,pl,Book Tax Loss on Early Payment Discount,Księgowa strata podatkowa z tytułu rabatu za wcześniejszą płatność
+46083067c1,pl,Sending emails,Wysyłanie wiadomości e-mail
+463285d213,pl,Not Started,Nie uruchomiono
+46b3a66c56,pl,Attendance Updated,Zaktualizowano frekwencję
+46b5df3428,pl,Upcoming Holidays Reminder,Przypomnienie o zbliżających się świętach
+46cb2cd118,pl,Sum of all previous slabs,Suma wszystkich poprzednich płyt
+46e8791d17,pl,"Select the Leave Type like Sick leave, Privilege Leave, Casual Leave, etc.","Wybierz typ urlopu, taki jak zwolnienie chorobowe, urlop uprzywilejowany, urlop dorywczy itp."
+4708b05740,pl,Field {0} is referring to non-existing doctype {1}.,Pole {0} odnosi się do nieistniejącego doctype {1}.
+471beec725,pl,Token Cache,Pamięć podręczna tokenów
+47243014e3,pl,Upload Image,Prześlij obraz
+4730f94044,pl,Please select the employees you want to mark attendance for.,"Wybierz pracowników, których obecność chcesz zaznaczyć."
+473127589f,pl,"Average of Goal Score, Feedback Score, and Self Appraisal Score (out of 5)","Średnia ocena celów, ocena informacji zwrotnych i samoocena (z 5)"
+473a2582c6,pl,Automatic,Automatyczny
+47433354e5,pl,Expected Skillset,Oczekiwany zestaw umiejętności
+4757042d1d,pl,Billed Hours,Naliczone godziny
+4778c71ea2,pl,Search for {0},Szukaj {0}
+4782296f0b,pl,Onboard,Na pokładzie
+479a7bdd70,pl,Default In-Transit Warehouse,Domyślny magazyn tranzytowy
+479bedcfa8,pl,Is Carry Forward,Czy przeniesienie
+47cc963579,pl,"Once opening stocks are updated, you can create transactions like manufacturing and stock deliveries, where this opening stock will be consumed.","Po zaktualizowaniu zapasów początkowych można tworzyć transakcje, takie jak produkcja i dostawy zapasów, w których te zapasy początkowe zostaną zużyte."
+47e58d7bdd,pl,Parent DocType,Rodzic DocType
+4881e0769e,pl,Job Openings for the designation {0} are already open or the hiring is complete as per the Staffing Plan {1},Oferty pracy dla oznaczenia {0} są już otwarte lub rekrutacja została zakończona zgodnie z planem zatrudnienia {1}.
+48aae2335d,pl,added rows for {0},dodane wiersze dla {0}
+48b6f3902e,pl,Please specify a valid parent DocType for {0},Podaj prawidłowy nadrzędny DocType dla {0}
+48f5c13ab5,pl,Appraisee,Oceniany
+4911c7d357,pl,Referral Details,Szczegóły polecenia
+491e7a74f9,pl,Creating Appraisals,Tworzenie ocen
+49275af080,pl,Source and Rating,Źródło i ocena
+49550331f2,pl,"As document sharing is disabled, please give them the required permissions before assigning.","Ponieważ udostępnianie dokumentów jest wyłączone, przed przypisaniem należy nadać im wymagane uprawnienia."
+4967fff19f,pl,Page Route,Strona drogi
+4988aa8bdc,pl,Shared with the user {0} with {1} access,Współdzielone z użytkownikiem {0} z dostępem {1}
+49a085e80a,pl,The total column width cannot be more than 10.,Całkowita szerokość kolumny nie może być większa niż 10.
+49a6b5bb02,pl,Total salary booked against this component for this employee from the beginning of the year (payroll period or fiscal year) up to the current salary slip's end date.,Całkowite wynagrodzenie zaksięgowane w tym składniku dla tego pracownika od początku roku (okresu rozliczeniowego lub roku podatkowego) do daty końcowej bieżącego odcinka wynagrodzenia.
+49b87b6abf,pl,Average Feedback Score,Średni wynik opinii
+4a076d338f,pl,{count} row selected,{count} wybrany wiersz
+4a09063c46,pl,Open & Approved,Otwarte i zatwierdzone
+4a231012b4,pl,Tax Exemption 80G Certificate Detail,Szczegóły certyfikatu zwolnienia z podatku 80G
+4a6cbb4a22,pl,Userinfo URI,Userinfo URI
+4a7e84eb7f,pl,KRA updated for all child goals.,Zaktualizowano KRA dla wszystkich celów dzieci.
+4aa4901fdc,pl,Reset to default,Przywróć domyślne
+4adf6a6146,pl,Salary Structure must be submitted before submission of {0},Struktura wynagrodzeń musi zostać przedłożona przed złożeniem {0}.
+4ae062503a,pl,or for Department: {0},lub dla działu: {0}
+4ae81d331e,pl,Query Parameters,Parametry zapytania
+4b09b4d401,pl,Creating Membership Invoice,Tworzenie faktury za członkostwo
+4b2c941412,pl,Assignment Based On,Przypisanie na podstawie
+4b3d1c7158,pl,System Updates,Aktualizacje systemu
+4b847eaf0b,pl,Attendance for employee {0} is already marked for the date {1}: {2},Obecność pracownika {0} jest już zaznaczona na dzień {1}: {2}
+4b9b205932,pl,Clear Cache,Wyczyść ciasteczka
+4ba2a96bc0,pl,Appraisal {0} does not belong to Employee {1},Ocena {0} nie należy do pracownika {1}.
+4bab752c42,pl,Non-Billed Hours,Godziny niefakturowane
+4babf8fa49,pl,Update Progress,Aktualizacja postępów
+4badb39e9e,pl,Like limit per hour,Jak limit na godzinę
+4bc4582407,pl,Amending,Zmiana
+4bc8638b5d,pl,Subscription Status,Status subskrypcji
+4be6ab64d7,pl,Create Custom Fields,Twórz niestandardowe pola
+4bebcd162a,pl,Deal Owner,Właściciel transakcji
+4bf1ba029a,pl,Add section above,Dodaj sekcję powyżej
+4c1bfb7a40,pl,Year To Date,Od początku roku
+4c39383bed,pl,Unqualified,Nie zakwalifikowany
+4c4b099d48,pl,Remove column,Usuń kolumnę
+4c58ddcab4,pl,Selling Settings,Ustawienia sprzedaży
+4c6b1f2cd7,pl,Allow Editing After Submit,Zezwalaj na edycję po przesłaniu
+4c7d38edef,pl,Please select a Member first.,Najpierw wybierz członka.
+4c8f8cbd84,pl,Create Appraisals,Tworzenie ocen
+4c9df3e850,pl,First Name,Imię
+4ca02a9e6d,pl,Claims,Roszczenia
+4caae6858e,pl,Login link sent to your email,Link do logowania wysłany na adres e-mail
+4cae3f9b73,pl,Remove Failed Jobs,Usuwanie nieudanych zadań
+4cbd6ac9cd,pl,"Total weightage for all {0} must add up to 100. Currently, it is {1}%",Łączna waga dla wszystkich {0} musi sumować się do 100. Obecnie jest to {1}%
+4d0ca83940,pl,Email Retry Limit,Limit ponownych prób wysłania wiadomości e-mail
+4d374dbaaa,de,Potwierdzenie zamówienia,Bestellbestätigung
+4d5235aae4,pl,Phone Ext.,Telefon zew.
+4d6c75a9e7,pl,Make Attachments Public by Default,Domyślne upublicznienie załączników
+4d79b08f60,pl,Are you sure you want to reject the Employee Referral?,Czy na pewno chcesz odrzucić polecenie pracownika?
+4d8a376770,pl,Please attach the package,Prosimy o dołączenie paczki
+4d919440f9,pl,Please select donor first,Wybierz dawcę jako pierwszego
+4d958374b1,pl,Select the start date for your Leave Application.,Wybierz datę rozpoczęcia wniosku o urlop.
+4dbff138d0,pl,Please enable {} before continuing.,Włącz {} przed kontynuowaniem.
+4ddf6c2d36,pl,HR-APR-.YYYY.-,HR-APR-.YYYY.-
+4dfa686d49,pl,Missing Permission,Brakujące zezwolenie
+4e118c2fe1,pl,Check broken links,Sprawdź niedziałające linki
+4e2ca79236,pl,Module {} not found,Nie znaleziono modułu {}
+4e33d0119e,pl,Over Delivery / Receipt Allowance (%),Dopuszczalne przekroczenie dostawy / odbioru (%)
+4e73f8afb0,pl,Setup Approval Workflows,Skonfiguruj przepływy pracy zatwierdzania
+4e954fcfe0,pl,Comment limit,Jak ograniczyć
+4ea782e81d,pl,"Footer """"Powered By","Stopka """"Powered By"
+4eaa069b72,pl,Example: Setting this to 24:00 will log out a user if they are not active for 24:00 hours.,"Przykład: Ustawienie tej wartości na 24:00 spowoduje wylogowanie użytkownika, jeśli nie będzie on aktywny przez 24:00 godziny."
+4ef6fc6176,pl,Error in Client Script,Błąd w skrypcie klienta
+4f01c4e62a,pl,Resume link,Link do CV
+4f11cdddce,pl,Enable developer mode to create a standard Print Template,"Włącz tryb dewelopera, aby utworzyć standardowy szablon wydruku"
+4f214b9843,pl,Incoming Settings,Ustawienia przychodzące
+4f2e3d955b,pl,Default Template For Field,Domyślny szablon dla pola
+4f59fc3133,pl,"{0} ${skip_list ? """""""" : type}","{0} ${skip_list ? """""""" : type}"
+4f6d081c5f,pl,This feature can not be used as dependencies are missing.Ta funkcja nie może być używana," ponieważ brakuje zależności."""
+,pl,Please contact your system manager to enable this by installing pycups!,"Skontaktuj się z menedżerem systemu, aby włączyć tę funkcję, instalując pycups!"
+4f99677004,pl,Current Slab,Aktualna płyta
+4feb93abf4,pl,Payload Count,Liczba ładunków
+502a15a9fd,pl,Appraisal Linking,Łączenie ocen
+506ddb59f8,pl,Carry Forwarded Leaves,Przeniesione urlopy
+5071f4415c,pl,Back,Powrót
+507ef9bb51,pl,Feedback Reminder Notification Template,Szablon powiadomienia o przypomnieniu o opinii
+50a7ce3cad,pl,Sync {0} Fields,Synchronizacja {0} pól
+50b2d35b2c,pl,Email Delivery Service,Usługa dostarczania wiadomości e-mail
+50d14de540,pl,Donation Webhook Secret,Sekret webhooka darowizny
+50d1aafb65,pl,Only reports of type Report Builder can be edited,Edytować można tylko raporty typu Report Builder
+50f46cff54,pl,Are you sure you want to discard the changes?,Czy na pewno chcesz odrzucić zmiany?
+5105b420aa,pl,Actual balances aren't available because the leave application spans over different leave allocations. You can still apply for leaves which would be compensated during the next allocation.,"Rzeczywiste salda nie są dostępne, ponieważ wniosek urlopowy obejmuje różne przydziały urlopów. Nadal możesz ubiegać się o urlopy, które zostaną zrekompensowane podczas następnej alokacji."
+510cfcdc09,pl,Switch Camera,Przełącz kamerę
+510fe20dc3,pl,Background Image,Obraz tła
+512e5ad0cd,pl,Set all private,Ustaw wszystko prywatne
+514fca8706,pl,Folder Name,Nazwa folderu
+5153593ed5,pl,System Notifications,Powiadomienia systemowe
+51866f803b,pl,Show Currency Symbol on Right Side,Pokaż symbol waluty po prawej stronie
+51a3a32ce1,pl,Gratuity Rule Slab,Gratuity Rule Slab
+51a9830bbc,pl,"Products, Purchases, Analysis, and more.","Produkty, zakupy, analizy i nie tylko."
+51c63f6dfd,pl,Basic Info,Podstawowe informacje
+51d365d978,pl,Frappe Whatsapp,Pisanie na klawiaturze Whatsapp
+51f0d24462,pl,You,Ty
+51f39e7ce9,pl,Requested By (Name),Zleceniodawca (imię i nazwisko)
+523ae48a91,pl,Settings Missing,Brakujące ustawienia
+525d932501,pl,Outgoing Server,Serwer wychodzący
+52793db3c9,pl,Qualified By,Zakwalifikowany przez
+5290358334,pl,Convert Item Description to Clean HTML in Transactions,Konwertowanie opisu pozycji na czysty HTML w transakcjach
+5297eee754,pl,There's no Employee with Salary Structure: {0}. Assign {1} to an Employee to preview Salary Slip,"Nie ma pracownika ze strukturą wynagrodzeń: {0}. Przypisz {1} do pracownika, aby wyświetlić podgląd odcinka wynagrodzenia"
+52c2b9e21c,pl,Taxable Earnings Till Date,Zarobki podlegające opodatkowaniu do dnia
+52cdb7b241,pl,Auto Refresh,Automatyczne odświeżanie
+52ce66c52d,pl,Fetching,Wczytywanie
+52f249e143,pl,After Submission,Po przesłaniu
+52f852ad92,pl,Web Form List Column,Kolumna listy formularzy internetowych
+530783aec5,pl,Link Type in Row,Typ łącza w wierszu
+533e6e68d5,pl,This company will be set for the Memberships created via webhook.,Ta firma zostanie ustawiona dla członkostw utworzonych za pośrednictwem webhook.
+533f742876,pl,Year To Date(Company Currency),Od początku roku (waluta spółki)
+5342a12325,pl,Hour Rate (Company Currency),Stawka godzinowa (waluta firmy)
+5342f9847a,pl,Permitted Roles,Dozwolone role
+534fa09e4a,pl,Doctype with same route already exist. Please choose different title.,Doctype z tą samą trasą już istnieje. Wybierz inny tytuł.
+5368efaa0b,pl,Package Name,Nazwa pakietu
+5387b4b1f6,pl,Grievance Against Party,Skarga przeciwko stronie
+53a4489d8e,pl,List Columns,Kolumny listy
+53c41c7362,pl,Invalid redirect regex in row #{}: {},Nieprawidłowe wyrażenie regularne przekierowania w wierszu #{}: {}
+53c7f834c6,pl,Warehouse Wise Stock Balance,Saldo zapasów w magazynie
+53d043e162,pl,Missing Value,Brakująca wartość
+54009974a9,pl,Updating related fields...,Aktualizacja powiązanych pól...
+5423cf9a71,pl,Hide Workspace,Ukryj obszar roboczy
+54454a4f03,pl,Form Dict,Form Dict
+544d9655ca,pl,Nothing left to undo,Nic nie zostało do cofnięcia
+544f779c35,pl,Custom Translation,Tłumaczenie niestandardowe
+54536af037,pl,Header Type,Typ nagłówka
+5475330d6a,pl,Report an Issue,Zgłoś usterkę
+548373b576,pl,Percentage you are allowed to order more against the Blanket Order Quantity. For example: If you have a Blanket Order of Quantity 100 units. and your Allowance is 10% then you are allowed to order 110 units.,"Procentowo można zamówić więcej w stosunku do Blanket Order Quantity. Na przykład: Jeśli masz zamówienie zbiorcze na 100 jednostek, a Twój przydział wynosi 10%, możesz zamówić 110 jednostek."
+549d46f36b,pl,Add Template,Dodaj szablon
+54aaa5bae4,pl,Choose a block or continue typing,Wybierz blok lub kontynuuj wpisywanie
+54b4b07cfc,pl,Mark as In Progress,Oznacz jako w toku
+54bcd9e452,pl,Deletion Steps,Kroki usuwania
+54e191fe74,pl,API Key cannot be regenerated,Klucz API nie może zostać zregenerowany
+550518362f,pl,You have not entered a value. The field will be set to empty.,Nie wprowadzono wartości. Pole zostanie ustawione jako puste.
+5576ed456c,pl,Finished At,Zakończono w
+55ac042b97,pl,Select the end date for your Leave Application.,Wybierz datę zakończenia wniosku o urlop.
+55c76e26d1,pl,This value is fetched from {0}'s {1} field,Wartość ta jest pobierana z pola {0} {1}
+55da33c8fa,pl,List Setting Message,Komunikat ustawień listy
+55e7c556a4,pl,Disable System Update Notification,Wyłącz powiadomienie o aktualizacji systemu
+560c72c2b1,pl,Allow Lead Duplication based on Emails,Zezwalaj na powielanie leadów na podstawie wiadomości e-mail
+561064d3be,pl,Next Document,Następny dokument
+56255689ec,pl,Request Description,Opis żądania
+5675432a69,pl,Allow existing Serial No to be Manufactured/Received again,Zezwól na ponowne wyprodukowanie/odebranie istniejącego numeru seryjnego
+56b24453f1,pl,Cycle Name,Nazwa cyklu
+56b2fc88c6,pl,{0} changed value of {1},{0} zmieniona wartość {1}
+56b47be659,pl,MARKETING,MARKETING
+56c4ad9e11,pl,Employee Detail,Szczegóły pracownika
+56f5829f97,pl,Popover or Modal Description,Wyskakujące okienko lub opis modalny
+570b69a976,pl,Reminders,Przypomnienia
+574eb29052,pl,SQL Output,Wyjście SQL
+575161967e,pl,{0} format could not be determined from the values in this column. Defaulting to {1}.,Nie można określić formatu {0} na podstawie wartości w tej kolumnie. Domyślnie {1}.
+575262ba1e,pl,Received an invalid token type.,Otrzymano nieprawidłowy typ tokenu.
+577b867f3f,pl,Introduction to Website,Wprowadzenie do strony internetowej
+57c1e46dd1,pl,New Email,Nowy e-mail
+57c9790b26,pl,Offset X,Offset X
+57cda3eb6d,pl,Employee {0} has already applied for Shift {1}: {2} that overlaps within this period,"Pracownik {0} zgłosił się już na zmianę {1}: {2}, która pokrywa się w tym okresie"
+57f356b00d,pl,Open Feedback,Otwarta informacja zwrotna
+581fe8cd88,pl,The day of the month when leaves should be allocated,"Dzień miesiąca, w którym liście powinny zostać przydzielone"
+583c6dbf33,pl,Uses system's theme to switch between light and dark mode,Używa motywu systemu do przełączania między trybem jasnym i ciemnym.
+58444f18f9,pl,User Group Members,Członkowie grupy użytkowników
+585ab57e41,pl,Bulk Leave Policy Assignment,Przypisanie polityki urlopów masowych
+5860427f9b,pl,Template File,Plik szablonu
+5866b7aeb0,pl,Parent Document Type is required to create a number card,Typ dokumentu nadrzędnego jest wymagany do utworzenia karty numerycznej
+589560af67,pl,This field will appear only if the fieldname defined here has value OR the rules are true (examples): ,"To pole pojawi się tylko wtedy, gdy zdefiniowana tutaj nazwa pola ma wartość LUB reguły są prawdziwe (przykłady):"
+58ba9ffbbd,pl,"string value, i.e. member","wartość łańcuchowa, tj. człon"
+58f6c261d1,pl,Duplicate Workspace,Zduplikowany obszar roboczy
+5923571d37,pl,Cannot share {0} with submit permission as the doctype {1} is not submittable,"Nie można udostępnić {0} z uprawnieniem przesyłania, ponieważ doctype {1} nie jest przesyłany"
+592fdafe38,pl,Payroll Cost Centers,Centra kosztów wynagrodzeń
+59546a86c9,pl,This newsletter was scheduled to send on a later date. Are you sure you want to send it now?,Ten biuletyn miał zostać wysłany w późniejszym terminie. Czy na pewno chcesz go wysłać teraz?
+5989010fe7,pl,Reset the password for your account,Resetowanie hasła do konta
+598dec489f,pl,View Goals,Cele widoku
+599b4ff1db,pl,"You are only allowed to update order, do not remove or add apps.","Możesz tylko aktualizować kolejność, nie usuwać ani nie dodawać aplikacji."
+59c6227490,pl,Stock transactions that are older than the mentioned days cannot be modified.,Transakcje giełdowe starsze niż wymienione dni nie mogą być modyfikowane.
+59f987a19e,pl,Hide Preview,Ukryj podgląd
+5a009f4e60,pl,No changes made on the page,Na stronie nie wprowadzono żadnych zmian
+5a06e87ddb,pl,{0}' is not a valid URL,{0}' nie jest prawidłowym adresem URL
+5a67209284,pl,Login Failed please try again,"Logowanie nie powiodło się, spróbuj ponownie"
+5a674a3118,pl,Interview Reminder,Przypomnienie o rozmowie kwalifikacyjnej
+5a846b23c3,pl,Please enter OpenID Configuration URL,Wprowadź adres URL konfiguracji OpenID
+5a99a8f0f2,pl,Criteria based on which employee should be rated in Performance Feedback and Self Appraisal,"Kryteria, na podstawie których pracownik powinien być oceniany w ramach informacji zwrotnej o wynikach i samooceny"
+5abc4659d0,pl,Only Completed documents can be submitted,Można przesyłać tylko wypełnione dokumenty
+5abdcb8dbc,pl,Atleast one interview has to be selected.,Co najmniej jedna rozmowa kwalifikacyjna musi zostać wybrana.
+5af769e277,pl,Reviews,recenzje
+5b03724beb,pl,Buying Settings,Ustawienia Zakupów
+5b1ad3f9f3,pl,Item - wise Price List Rate,Stawka zgodna z cennikiem
+5b2fbcda07,pl,Lower Range,Dolny zakres
+5b333b651a,pl,Server was too busy to process this request. Please try again.,"Serwer był zbyt zajęty, aby przetworzyć to żądanie. Spróbuj ponownie."
+5b3719f638,pl,Cleared,Wyczyszczony
+5bf01053b0,pl,End,Koniec
+5c0fcbb70d,pl,Service Expenses,Wydatki na usługi
+5c718c270f,pl,KRA vs Goals,KRA vs Cele
+5c9fe48d0b,pl,Oldest Items,Najstarsze pozycje
+5ca2d57728,pl,Hide Descendants,Ukryj potomków
+5cb857f882,pl,Automatically Fetch Payment Terms from Order,Automatyczne pobieranie warunków płatności z zamówienia
+5cc6c1f55c,pl,Reviewer,Recenzent
+5ccb1f3262,pl,Page height and width cannot be zero,Wysokość i szerokość strony nie mogą wynosić zero
+5ce1c33006,pl,DocType must be a string,DocType musi być ciągiem znaków
+5ce69796c7,pl,Looks like you haven’t received any notifications.,"Wygląda na to, że nie otrzymałeś/łaś żadnych powiadomień."
+5cf9219755,pl,Add a Row,Dodaj wiersz
+5cfc0e497c,pl,Check {0} for more details,Sprawdź {0} po więcej szczegółów
+5d04551e09,pl,when clicked on element it will focus popover if present.,"po kliknięciu na elemencie spowoduje wyświetlenie wyskakującego okienka, jeśli jest obecne."
+5d29796774,pl,Item-wise Sales Register,Rejestr sprzedaży według pozycji
+5d2b6254bf,pl,Interviewer,Ankieter
+5d3c7b9e69,pl,canceled,odwołany
+5d49a3fb9c,pl,Associate Job Opening,Praca na stanowisku Associate
+5d670eae2c,pl,No Images,Brak obrazów
+5d8a7ed9c5,pl,Percentage (%),Odsetek (%)
+5da73a4373,pl,"For a day of leave taken, if you still pay (say) 50% of the daily salary, then enter 0.50 in this field.","Za dzień wykorzystanego urlopu, jeśli nadal płacisz (powiedzmy) 50% dziennego wynagrodzenia, wpisz 0,50 w tym polu."
+5df43c9a09,pl,Send Interview Reminder,Wyślij przypomnienie o rozmowie kwalifikacyjnej
+5e41e1a13a,pl,Failed Job Count,Liczba nieudanych zadań
+5e5fcdb64a,pl,Set by user,Ustawione przez użytkownika
+5e8327c130,pl,Loan Secutity Exposure,Ekspozycja na zabezpieczenie pożyczki
+5eaacabba3,pl,Earning Salary Component is required for Employee Referral Bonus.,Zarabianie składnika wynagrodzenia jest wymagane do uzyskania premii za polecenie pracownika.
+5ec4de54db,pl,Delayed Tasks Summary,Podsumowanie opóźnionych zadań
+5edd70ba23,pl,Left Center,Lewy środek
+5ef6ceebbc,pl,Gratuity,Gratyfikacja
+5efa2efc3e,pl,Open Communication,Otwarta komunikacja
+5f2f266060,pl,Salary Currency,Waluta wynagrodzenia
+5f347036eb,pl,Dispatch Address Name,Nazwa adresu wysyłki
+5f515c755a,pl,Company Details,Szczegóły firmy
+5f55d6f0aa,pl,Duplicate Job Requisition,Zduplikowane zapotrzebowanie na pracę
+5f5c770f04,pl,Pay via Salary Slip,Płatność za pomocą odcinka wynagrodzenia
+5f605c8a09,pl,Purchase User,Użytkownik zakupów
+5fdaf189d7,pl,Is Short Year,Krótki rok
+600f3f338b,pl,Competitors,Konkurencja
+,pl,Is Primary Mobile,Jest podstawowym tel. komórkowym
+,pl,Is Primary,Jest podstawowy
+,pl,Indicator color,"Kolor wskaźnika"""""
+,pl,Raport Sales Order Trends,Raport trendów zleceń sprzedaży
+604ed9f02d,pl,Interview Round,Runda wywiadów
+6052785793,pl,This Doctype does not contain location fields,Ten Doctype nie zawiera pól lokalizacji
+606fb0c872,pl,Set Attendance Details,Ustaw szczegóły obecności
+607600039f,pl,"{0} ${d?"""""""":a}","{0} ${d?"""""""":a}"
+60770d065b,pl,Error in formula or condition,Błąd w formule lub warunku
+60ad8c27f1,pl,Add Border at Bottom,Dodaj obramowanie na dole
+60b135a885,pl,Page Height (in mm),Wysokość strony (w mm)
+60dce7e7f4,pl,Following fields have invalid values:,Następujące pola mają nieprawidłowe wartości:
+611aa9f0e0,pl,Is System Generated,Jest generowany przez system
+61465dd80e,pl,Valid Upto,Obowiązuje do
+61557de694,pl,Partial,Częściowy
+6163d7f8aa,pl,You haven't created a {0} yet,Nie utworzono jeszcze {0}
+6167d432aa,pl,Auto creates Payment Entry for Sales Invoices created for Membership from web forms.,Automatycznie tworzy wpis płatności dla faktur sprzedaży utworzonych dla członkostwa z formularzy internetowych.
+61915041ba,pl,App Access Key and/or Secret Key are not present.,Klucz dostępu do aplikacji i/lub klucz tajny nie są obecne.
+61a6671458,pl,Show Absolute Values,Pokaż wartości bezwzględne
+61a91ade86,pl,Use Company Default Round Off Cost Center,Użyj domyślnego zaokrąglenia centrum kosztów firmy
+61b684cc06,pl,Fieldtype cannot be changed from {0} to {1},Typu pola nie można zmienić z {0} na {1}.
+61c0cecaa2,pl,From version,Od wersji
+61cdb05f09,pl,Setup a Warehouse,Przegląd ustawień akcji
+61f0981447,pl,Form,Formularz
+62119d641a,pl,Rate Goals Manually,Oceń cele ręcznie
+62329a1a37,pl,Browse help topics,Przeglądanie tematów pomocy
+623ac52904,pl,Message to be displayed on successful completion,Komunikat wyświetlany po pomyślnym zakończeniu
+623b7395cc,pl,Please set a Default Cash Account in Company defaults,Ustaw domyślne konto gotówkowe w ustawieniach domyślnych firmy
+623cfd9414,pl,New Document Form,Nowy formularz dokumentu
+62403de535,pl,All Work Orders,Wszystkie zlecenia pracy
+6247c928f1,pl,Add Blog Category,Dodaj kategorię bloga
+6249efadfa,pl,Cause of Grievance,Przyczyna skargi
+62722197c3,pl,Used OAuth,Używany OAuth
+62d3796479,pl,Send Interview Feedback Reminder,Wyślij przypomnienie o rozmowie kwalifikacyjnej
+631668fdd9,pl,WhatsApp Notification,Powiadomienie WhatsApp
+635f394370,pl,{} {} open for this position.,{} {} otwarte dla tego stanowiska.
+636fb00c12,pl,Want to discuss?,Chcesz podyskutować?
+637c6600d3,pl,{0} due to missing email information for employee(s): {1},{0} z powodu braku informacji e-mail dla pracownika(-ów): {1}
+637d853e2c,pl,Budget Variance,Odchylenie budżetu
+63a5145a74,pl,Telemetry,Telemetria
+63a8b52196,pl,{0} is not a field of doctype {1},{0} nie jest polem doctype {1}
+63b01af10a,pl,Auto Repeat Schedule,Harmonogram automatycznego powtarzania
+63df17b882,pl,Packages,Pakiety
+642537772f,pl,Is IRS 1099 reporting required for supplier?,Czy raportowanie IRS 1099 jest wymagane dla dostawcy?
+64661700a0,pl,Total Deduction (Company Currency),Całkowite odliczenie (waluta firmy)
+6473d02c6a,pl,All Quality Procedures,Wszystkie procedury jakości
+64b808fe20,pl,Non Taxable Earnings,Zarobki niepodlegające opodatkowaniu
+64be3649c5,pl,Set attendance details for the employees select above,Ustaw szczegóły obecności dla pracowników wybranych powyżej
+64e8be0050,pl,Fabric Maintenance Relation,Relacja konserwacji tkaniny
+64fc0d31af,pl,Custom attachment,Załącznik niestandardowy
+6506de5062,pl,Field Orientation (Top-Down),Orientacja w terenie (Top-Down)
+65323fe6fc,pl,Row {0}: Goal Score cannot be greater than 5,Wiersz {0}: Wynik bramkowy nie może być większy niż 5
+6538955a20,pl,No attendance records found.,Nie znaleziono rejestrów obecności.
+654cdcb19a,pl,Create Opportunity,Stwórz szansę
+654f887320,pl,Not Permitted to read {0},Niedozwolony odczyt {0}
+656d65f60b,pl,{0} currency must be same as company's default currency. Please select another account.,{0} waluta musi być taka sama jak domyślna waluta firmy. Wybierz inne konto.
+65872831d0,pl,Gross Year To Date(Company Currency),Od początku roku (w walucie spółki)
+65a0680df9,pl,short,krótki
+661c087b15,pl,Saving this will export this document as well as the steps linked here as json.,"Zapisanie tego spowoduje wyeksportowanie tego dokumentu, a także powiązanych z nim kroków jako json."
+66673b0196,pl,Sales Order Trends,Trendy zamówień sprzedaży
+666ffc114a,pl,Translated Messages,Przetłumaczone wiadomości
+66a13e20a9,pl,Let's set up your account,Skonfigurujmy twoje konto
+66ada8cc4c,pl,Invalid Phone Number,Nieprawidłowy numer telefonu
+66b3dc5e2c,pl,"Report initiated, click to view status","Raport zainicjowany, kliknij, aby wyświetlić status"
+66d535182b,pl,Auto follow documents that you create,Automatyczne śledzenie tworzonych dokumentów
+66f28caddf,pl,Cannot edit Standard Dashboards,Nie można edytować standardowych pulpitów nawigacyjnych
+671dec24b0,pl,About,O programie
+673c03402d,pl,"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is """"Saved"""", 1 is """"Submitted"""" and 2 is """"Cancelled","Wszystkie możliwe stany i role przepływu pracy. Opcje statusu dokumentu: 0 to """"Zapisany"""", 1 to """"Przesłany"""", a 2 to """"Anulowany""""."
+673ef9eade,pl,Workspace {0} Created Successfully,Obszar roboczy {0} utworzony pomyślnie
+6742420728,pl,KRAs,KRA
+674def6fc4,pl,Grievance Details,Szczegóły skargi
+6755919541,pl,"Any other remarks, noteworthy effort that should go in the records","Wszelkie inne uwagi, godne uwagi wysiłki, które powinny znaleźć się w dokumentacji"
+67587d0dfb,pl,Search Bar,Pasek wyszukiwania
+6788b7cf28,pl,Job Requisition,Zapotrzebowanie na pracę
+67b9a3f206,pl,Apply Filters,Zastosuj filtry
+67e00b71d7,pl,Network Printer Settings,Ustawienia drukarki sieciowej
+67e0971662,pl,Invoicing Features,Funkcje fakturowania
+6837995566,pl,Settle all Payables and Receivables before submission,Rozliczanie wszystkich zobowiązań i należności przed ich przekazaniem
+686e65e4f5,pl,Executing...,Wykonywanie...
+686f0dc11e,pl,Translator,Tłumacz
+688d7044af,pl,Total Net Pay,Łączne wynagrodzenie netto
+6891a4eb8b,pl,Do you still want to proceed?,Czy nadal chcesz kontynuować?
+689316123e,pl,Authorization error for {}.,Błąd autoryzacji dla {}.
+68a84009b7,pl,Save on Completion,Oszczędzaj na ukończeniu
+68af0581d6,pl,Card Break,Przerwa na kartę
+68be92753f,pl,Login With Email Link,Zaloguj się za pomocą linku e-mail
+68fa8720a8,pl,HR-EXIT-INT-,HR-EXIT-INT-
+69196f5c32,pl,Reviewer Name,Nazwa recenzenta
+6943d9ba30,pl,{0} viewed,{0} obejrzał/a
+694e6aea1c,pl,The User record for this request has been auto-deleted due to inactivity by system admins.,Rekord użytkownika dla tego żądania został automatycznie usunięty z powodu braku aktywności administratorów systemu.
+6952067edd,pl,Mid Center,Środek
+6986d95eb2,pl,Let's Set Up the Stock Module.,Skonfigurujmy moduł zapasów.
+698805b2e5,pl,Allows allocating more leaves than the number of days in the allocation period.,Umożliwia przydzielenie większej liczby urlopów niż liczba dni w okresie przydziału.
+698d68c6ef,pl,Total Costing Amount,Całkowita kwota kosztów
+699c05fadb,pl,Difference Amount,Różnica kwoty
+69d2696a2e,pl,Interview Round {0} is only for Designation {1}. Job Applicant has applied for the role {2},Runda rozmowy kwalifikacyjnej {0} dotyczy tylko stanowiska {1}. Kandydat ubiegał się o stanowisko {2}.
+69e87b901b,pl,CRM Settings,Ustawienia CRM
+69ed173f7d,pl,Please set the Appraisal Template for all the {0} or select the template in the Employees table below.,Ustaw szablon oceny dla wszystkich {0} lub wybierz szablon z poniższej tabeli pracowników.
+6a1cf6b622,pl,Stack Trace,Śledzenie stosu
+6a32f983f4,pl,{0} filter,{0} filtr
+6a3ff5041c,pl,Invalid name type (integer) for varchar name column,Nieprawidłowy typ nazwy (liczba całkowita) dla kolumny varchar name
+6a5740a6ee,pl,Only for,Tylko dla
+6ab8484fba,pl,Document Naming Settings,Ustawienia nazewnictwa dokumentów
+6ac3f105d2,pl,No of. Positions,Liczba. Stanowiska
+6af130b15d,pl,There can be only 9 Page Break fields in a Web Form,W formularzu może znajdować się tylko 9 pól podziału strony
+6b139c9fc8,pl,Password Email Sent,Wysłano wiadomość e-mail z hasłem
+6b1699afa5,pl,"File """"{0}"""" was skipped because size exceeds {1} MB","Plik """"{0}"""" został pominięty, ponieważ jego rozmiar przekracza {1}. MB"
+6b339c9885,pl,Prepend the template to the email message,Dołącz szablon do wiadomości e-mail
+6b397681a8,pl,Expression (old style),Ekspresja (stary styl)
+6b3d803282,pl,Deleting {0}...,Usuwanie {0}...
+6b5f624fed,pl,Bank Reconciliation Tool,Narzędzie do uzgadniania rachunków bankowych
+6b740f20bd,pl,Request ID,Identyfikator żądania
+6b783fa216,pl,Add New,Dodaj nowy
+6b9e998f5c,pl,Workspace Quick List,Skrócona lista obszarów roboczych
+6bd7f36205,pl,Document Types and Permissions,Typy dokumentów i uprawnienia
+6c214e65c6,pl,Failed to compute request body: {},Nie udało się obliczyć treści żądania: {}
+6c2694ee2c,pl,''From Date'' can not be greater than or equal to 'To Date'',''Od daty'' nie może być większe lub równe ''Do daty''.
+6c4143a02e,pl,{0} viewed this {1},{0} obejrzał to {1}
+6c4e65a79a,pl,You are not permitted to access this resource.,Nie masz dostępu do tego zasobu.
+6ca18d64ae,pl,"Requires any valid fdn path. i.e. ou=users,dc=example,dc=com","Wymaga dowolnej prawidłowej ścieżki fdn, np. ou=users,dc=example,dc=com"
+6ca68d6a8f,pl,Google Authentication was closed abruptly by the user,Uwierzytelnianie Google zostało nagle zamknięte przez użytkownika
+6cbdaa51a4,pl,Total Billed Hours,Wszystkie zafakturowane godziny
+6cd60048e4,pl,Item-wise Sales History,Historia sprzedaży poszczególnych pozycji
+6cda263f75,pl,Custom Blocks,Bloki niestandardowe
+6cdf481fcb,pl,Please set Earning Component for Leave type: {0}.,Ustaw składnik zarobków dla typu urlopu: {0}.
+6ce3b831ce,pl,Income Tax Breakup,Podział podatku dochodowego
+6cff948914,pl,Setup Naming Series,Skonfiguruj serię nazw
+6d0ee0fdb1,pl,"Here is your webhook secret for {0} API, this will be shown to you only once.","Tutaj znajduje się sekret webhooka dla {0} API, zostanie on wyświetlony tylko raz."
+6d1af5f763,pl,Unpublish,Nie publikować
+6d234b9ac7,pl,Welcome,Witamy
+6d40793e55,pl,{0} gave {1} points,{0} dało {1} punktów
+6d451f7244,pl,Role Allowed to Create/Edit Back-dated Transactions,Rola uprawniona do tworzenia/edycji transakcji z datą wsteczną
+6d6411d7bf,pl,Integrations,Integracje
+6d95ebd037,pl,Set optional filters to fetch employees in the appraisee list,"Ustaw opcjonalne filtry, aby pobrać pracowników z listy ocenianych."
+6da5f8a301,pl,Invalid key type,Nieprawidłowy typ klucza
+,pl,"In ERPNext, the Stock module’s features are configurable as per your business needs. 
+Stock Settings is the place where you can set your preferences for: 
+Default values for Item and Pricing 
+Default valuation method for inventory valuation Set preference for serialization and batching of item Set tolerance for over-receipt and delivery of items","W ERPNext funkcje modułu Stock są konfigurowalne zgodnie z potrzebami biznesowymi. 
+Ustawienia zapasów to miejsce, w którym można ustawić preferencje dla""
+Domyślne wartości dla pozycji i cen 
+Domyślnej metody wyceny zapasów Ustawianie preferencji dla serializacji i grupowania pozycji"
