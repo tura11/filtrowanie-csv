@@ -6,11 +6,16 @@ Submit Generated Invoices,Przesyłanie wygenerowanych faktur
 Email Threads on Assigned Document,Wątki e-mail dotyczące przypisanego dokumentu
 Get notified when an email is received on any of the documents assigned to you.,Otrzymuj powiadomienia o otrzymaniu wiadomości e-mail dotyczącej dowolnego z przypisanych do Ciebie dokumentów.
 Sort Descending,Sortuj malejąco
+Already record exists for the item {0},Istnieje już rekord dla elementu {0}
+Allow Alternative Item must be checked on Item {},"Opcja Zezwalaj na pozycję alternatywną"" musi być zaznaczona na pozycji {}."""
+Leave Encashed?,Pozostawić zaszyfrowane?
 Sort Ascending,Sortuj rosnąco
 Warranty Claim Trends,Trendy dotyczące roszczeń gwarancyjnych
 Return Issued,Wydany zwrot
 Percentage you are allowed to sell beyond the Blanket Order quantity.,"Procent, który możesz sprzedać poza ilością zamówienia zbiorczego."
 Left,Lewo
+Alternative item must not be same as item code,Alternatywny element nie może być taki sam jak kod elementu
+Not allow to set alternative item for the item {0},Brak możliwości ustawienia alternatywnego elementu dla elementu {0}
 Billing Address Details,Szczegóły adresu rozliczeniowego
 Apply TDS,Zastosuj WRZ
 Available Qty at Company,Ilość dostępna w firmie
@@ -891,6 +896,7 @@ Average Rating,Średnia ocena
 Actual Time (in Hours via Time Sheet),Rzeczywisty czas (w godzinach za pośrednictwem karty czasu pracy)
 Switch Theme,Motyw Switch
 Filtered By,Filtrowane przez
+Date,Data
 Automated Based on Goal Progress,Automatyzacja na podstawie postępów w realizacji celów
 "string value, i.e. group","wartość łańcuchowa, tj. grupa"
 Appraisal {0} already exists for Employee {1} for this Appraisal Cycle or overlapping period,Ocena {0} już istnieje dla Pracownika {1} dla tego Cyklu Oceny lub pokrywającego się okresu.
