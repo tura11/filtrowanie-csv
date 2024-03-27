@@ -1,13 +1,12 @@
 import csv
 from collections import defaultdict
 
-def wczytaj_csv(Translation_csv):
-    with open(Translation_csv, 'r', encoding='utf-8') as plik_csv:
-        csv_reader = csv.DictReader(plik_csv)
-        rows = list(csv_reader)
-    return rows
+def wczytaj_csv(plik_csv):
+    with open(plik_csv, 'r', encoding='utf-8') as plik:
+        csv_reader = csv.DictReader(plik)
+        return list(csv_reader)
 
-def znajdz_duplikaty_i_usun(rows):
+def znajdz_duplikaty(rows):
     duplikaty = defaultdict(list)
     unikalne_wiersze = []
 
@@ -16,21 +15,34 @@ def znajdz_duplikaty_i_usun(rows):
         translated_text = line['translated_text']
         duplikaty[source_text].append(translated_text)
 
-    with open('duplikaty.txt', 'w', encoding='utf-8') as duplikaty_file:
-        duplikaty_file.write("Znalezione duplikaty:\n")
+    return duplikaty
+
+def zapisz_duplikaty(duplikaty):
+    with open('duplikaty.csv', 'w', encoding='utf-8') as plik:
+        plik.write("Znalezione duplikaty:\n")
         for source_text, translations in duplikaty.items():
             if len(translations) > 1:
-                duplikaty_file.write(f"Wyraz: {source_text}, Tłumaczenia: {translations}\n")
-            else:
-                unikalne_wiersze.extend([{'source_text': source_text, 'translated_text': t} for t in translations])
+                plik.write(f"Wyraz: {source_text}, Tłumaczenia: {translations}\n")
 
-    with open('Translation.csv', 'w', newline='', encoding='utf-8') as translation_file:
+def usun_duplikaty(rows, duplikaty):
+    unikalne_wiersze = []
+
+    for source_text, translations in duplikaty.items():
+        if len(translations) == 1:
+            unikalne_wiersze.extend([{'source_text': source_text, 'translated_text': t} for t in translations])
+
+    with open('Translation.csv', 'w', newline='', encoding='utf-8') as plik:
         fieldnames = ['source_text', 'translated_text']
-        csv_writer = csv.DictWriter(translation_file, fieldnames=fieldnames)
+        csv_writer = csv.DictWriter(plik, fieldnames=fieldnames)
         csv_writer.writeheader()
         csv_writer.writerows(unikalne_wiersze)
 
+def przetworz_csv(plik_csv):
+    rows = wczytaj_csv(plik_csv)
+    duplikaty = znajdz_duplikaty(rows)
+    zapisz_duplikaty(duplikaty)
+    usun_duplikaty(rows, duplikaty)
+    print("Duplikaty zostały usunięte z pliku 'Translation.csv' i zapisane w pliku 'duplikaty.csv'.")
+
 if __name__ == "__main__":
-    rows = wczytaj_csv(Translation_csv='Translation.csv')
-    znajdz_duplikaty_i_usun(rows)
-    print("Duplikaty zostały usunięte z pliku 'Translation.csv' i zapisane w pliku 'duplikaty.txt'.")
+    przetworz_csv('Translation.csv')
