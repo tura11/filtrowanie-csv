@@ -7,15 +7,22 @@ def wczytaj_csv(plik_csv):
         return list(csv_reader)
 
 def znajdz_duplikaty(rows):
+    widziane = set()
     duplikaty = defaultdict(list)
-    unikalne_wiersze = []
+    
 
     for line in rows:
         source_text = line['source_text']
         translated_text = line['translated_text']
-        duplikaty[source_text].append(translated_text)
-
-    return duplikaty
+        combined_text = (source_text, translated_text)
+        
+        if combined_text in widziane:
+            duplikaty[source_text].append(translated_text)
+            
+        else:
+            widziane.add(combined_text)
+    
+    return  duplikaty
 
 def zapisz_duplikaty(duplikaty):
     with open('duplikaty.csv', 'w', encoding='utf-8') as plik:
@@ -25,11 +32,7 @@ def zapisz_duplikaty(duplikaty):
                 plik.write(f"Wyraz: {source_text}, Tłumaczenia: {translations}\n")
 
 def usun_duplikaty(rows, duplikaty):
-    unikalne_wiersze = []
-
-    for source_text, translations in duplikaty.items():
-        if len(translations) == 1:
-            unikalne_wiersze.extend([{'source_text': source_text, 'translated_text': t} for t in translations])
+    unikalne_wiersze = [row for row in rows if len(duplikaty[row['source_text']]) <= 1]
 
     with open('Translation.csv', 'w', newline='', encoding='utf-8') as plik:
         fieldnames = ['source_text', 'translated_text']
